@@ -1,0 +1,3 @@
+- Perez came from Judah and Tamar (Tamar is Judah's daughter-in-law), and through Perez's line, came David, and Jesus.
+- Joseph sold into slavery, and saving Egypt and Israel from the famine.
+- 
