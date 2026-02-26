@@ -1,8 +1,15 @@
+# OS and editor clutter
+.DS_Store
+._*
+Thumbs.db
+ehthumbs.db
+Icon?
+.Spotlight-V100
+.Trashes
+*.swp
+*.swo
+*.tmp
 
-/.obsidian
-
-/.obsidian
-/.obsidian
-/.obsidian/plugins/obsidian-git/main.js
-/.obsidian/plugins/obsidian-git/manifest.json
-/.obsidian/plugins/obsidian-git/styles.css
+# Obsidian - exclude all configuration
+.obsidian/
+.trash/
