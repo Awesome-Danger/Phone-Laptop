@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "7fe1dcb9ba069b29",
+    "type": "split",
+    "children": [
+      {
+        "id": "261e0c7632359dc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e14d3208d43e9e12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "G is for Gaslight.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "G is for Gaslight"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f7e5fb71cc84346",
+    "type": "split",
+    "children": [
+      {
+        "id": "d125d9149f7672ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddf5605078736cd2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e9782f73c5bc6f09",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "22ad5a0d6cf85f40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a637951bc0b896f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "78f9e842b3b2e7b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a892dfc05aaa885",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "76cb453b77b27094",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8c9c524ec00c95c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "dd3fbac64ba5e399",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "2e71d73bbc1ce0b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e13ab811697cffed",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": true,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e14d3208d43e9e12",
+  "lastOpenFiles": [
+    "G is for Gaslight.md",
+    "Vault/D&D/Thursday Thrashers Campaign/(Bjorn records).md",
+    "Vault/D&D/Thursday Thrashers Campaign/Stat Blocks/Trained Wardog.png",
+    "G is for Gaslighting.md",
+    "Am I being gaslit.md",
+    "the G in DM stands for Gaslighting.md",
+    "Vault",
+    "Vault/D&D/Personal Campaign Ideas/Story Ideas/Intros/places and times to start.md",
+    "Vault/D&D/Personal Campaign Ideas/Story Ideas/Intros/Royal intro.md",
+    "Vault/D&D/Personal Campaign Ideas/Story Ideas/Intros/Old Man Moody intro.md",
+    "Vault/D&D/Personal Campaign Ideas/Story Ideas/Intros/Dishonored Intro.md",
+    "Vault/D&D/Thursday Thrashers Campaign/Stat Blocks/elk.png",
+    "Vault/D&D/Thursday Thrashers Campaign/NPCs/the strange green dragonbron.md",
+    "Vault/D&D/Thursday Thrashers Campaign/NPCs/the red dragonborn and his student.md",
+    "Vault/D&D/Thursday Thrashers Campaign/NPCs/King Aldric.md",
+    "Vault/D&D/Thursday Thrashers Campaign/NPCs/Browning Brothers.md",
+    "Vault/D&D/Thursday Thrashers Campaign/NPCs/Belgabad.md",
+    "Vault/D&D/Thursday Thrashers Campaign/Player Characters/Ulfgar.md",
+    "Vault/D&D/Thursday Thrashers Campaign/Player Characters/Theodosia.md",
+    "Vault/D&D/Thursday Thrashers Campaign/Player Characters/Kleruk.md",
+    "Vault/D&D/Thursday Thrashers Campaign/Player Characters/Areally Tallmidget.md",
+    "Vault/D&D/Thursday Thrashers Campaign/Maps/Large Drakemont Map.webp",
+    "Vault/D&D/Thursday Thrashers Campaign/Maps/Even Larger Drakemount Map.webp",
+    "Vault/D&D/Thursday Thrashers Campaign/Maps/Drakemont Map.webp",
+    "Vault/D&D/Thursday Thrashers Campaign/Campaign Plot/weaver's rebellion.md",
+    "Vault/D&D/Thursday Thrashers Campaign/Campaign Plot/session 4.md",
+    "Vault/D&D/Thursday Thrashers Campaign/Campaign Plot/session 3.md",
+    "Vault/D&D/Thursday Thrashers Campaign/Campaign Plot/session 11.md",
+    "Vault/D&D/Thursday Thrashers Campaign/Campaign Plot/session 10.md",
+    "Vault/D&D/Thursday Thrashers Campaign/Campaign Plot/session 1-2.md",
+    "Vault/D&D/Thursday Thrashers Campaign/Campaign Plot/beam light colors.md",
+    "Vault/D&D/Thursday Thrashers Campaign/Campaign Plot/Strands Gen info.md",
+    "Vault/D&D/Personal Campaign Ideas/Story Ideas/Intros",
+    "Vault/D&D/Personal Campaign Ideas/Stat Blocks/belgabad.png",
+    "Vault/D&D/Thursday Thrashers Campaign/Stat Blocks",
+    "Vault/D&D/Thursday Thrashers Campaign/Player Characters",
+    "Vault/D&D/Thursday Thrashers Campaign/NPCs",
+    "Vault/D&D/Thursday Thrashers Campaign/Maps",
+    "Vault/D&D/Thursday Thrashers Campaign/Items",
+    "Vault/D&D/Thursday Thrashers Campaign/Campaign Plot",
+    "Vault/D&D/Personal Campaign Ideas/Story Ideas",
+    "Vault/D&D/Personal Campaign Ideas/Stat Blocks"
+  ]
+}
