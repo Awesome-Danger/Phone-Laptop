@@ -11,12 +11,14 @@
             "id": "33974ffdff30ca75",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "split-diff-view",
               "state": {
-                "file": "Vault/D&D/Thursday Thrashers Campaign/Stat Blocks/Trained Wardog.png"
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": ""
               },
-              "icon": "lucide-image",
-              "title": "Trained Wardog"
+              "icon": "diff",
+              "title": "Diff: .gitignore  (Working Tree)"
             }
           }
         ]
@@ -191,9 +193,10 @@
   },
   "active": "33974ffdff30ca75",
   "lastOpenFiles": [
+    "Vault/D&D/Thursday Thrashers Campaign/Stat Blocks/Trained Wardog.png",
+    "Untitled.md",
     "G is for Gaslighting.md",
     "Am I being gaslit.md",
-    "Vault/D&D/Thursday Thrashers Campaign/Stat Blocks/Trained Wardog.png",
     "the G in DM stands for Gaslighting.md",
     "Vault",
     "Vault/D&D/Personal Campaign Ideas/Story Ideas/Intros/places and times to start.md",
@@ -221,8 +224,6 @@
     "Vault/D&D/Thursday Thrashers Campaign/Campaign Plot/session 1-2.md",
     "Vault/D&D/Thursday Thrashers Campaign/Campaign Plot/beam light colors.md",
     "Vault/D&D/Thursday Thrashers Campaign/Campaign Plot/Strands Gen info.md",
-    "Vault/D&D/Thursday Thrashers Campaign/Campaign Plot/Plot (what's happening).md",
-    "Vault/D&D/Thursday Thrashers Campaign/Items/obsidian dagger.md",
     "Vault/D&D/Personal Campaign Ideas/Story Ideas/Intros",
     "Vault/D&D/Personal Campaign Ideas/Stat Blocks/belgabad.png",
     "Vault/D&D/Thursday Thrashers Campaign/Stat Blocks",
