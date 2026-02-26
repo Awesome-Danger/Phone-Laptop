@@ -1,0 +1,1 @@
+create a character that is never met with, and doesn't actually exist in the universe, but directly affects the party, by giving them information (which will be from a source they are unaware of).
