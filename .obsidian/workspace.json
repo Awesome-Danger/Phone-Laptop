@@ -11,10 +11,14 @@
             "id": "efbe8523ac1a9c26",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "the G in DM stands for Gaslighting.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "the G in DM stands for Gaslighting"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "the G in DM stands for Gaslighting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for the G in DM stands for Gaslighting"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "the G in DM stands for Gaslighting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from the G in DM stands for Gaslighting"
             }
           },
           {
@@ -121,12 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "the G in DM stands for Gaslighting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of the G in DM stands for Gaslighting"
             }
           },
           {
@@ -158,9 +165,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "efbe8523ac1a9c26",
+  "active": "ddf5605078736cd2",
   "lastOpenFiles": [
-    "Vault/the G in DM stands for Gaslighting.md",
+    "the G in DM stands for Gaslighting.md",
     "Vault",
     "Vault/D&D/Personal Campaign Ideas/Story Ideas/Intros/places and times to start.md",
     "Vault/D&D/Personal Campaign Ideas/Story Ideas/Intros/Royal intro.md",
