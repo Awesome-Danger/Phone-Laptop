@@ -13,3 +13,5 @@ Icon?
 # Obsidian - exclude all configuration
 .obsidian/
 .trash/
+
+/.obsidian
