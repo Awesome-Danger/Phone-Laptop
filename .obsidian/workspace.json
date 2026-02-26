@@ -177,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6fb81394cdf2e01",
+  "active": "dd3fbac64ba5e399",
   "lastOpenFiles": [
     "Vault/G is for Gaslight.md",
     "Vault/D&D/Thursday Thrashers Campaign/(Bjorn records).md",
