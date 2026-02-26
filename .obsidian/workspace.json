@@ -11,16 +11,6 @@
             "id": "92e2c702fbcbba88",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "f756258ff2af1105",
-            "type": "leaf",
-            "state": {
               "type": "split-diff-view",
               "state": {
                 "aFile": ".obsidian/workspace.json",
@@ -31,8 +21,7 @@
               "title": "Diff: workspace.json  (Working Tree)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f756258ff2af1105",
+  "active": "92e2c702fbcbba88",
   "lastOpenFiles": [
     "G is for Gaslight.md",
     "Vault/D&D/Thursday Thrashers Campaign/Stat Blocks/Trained Wardog.png",
