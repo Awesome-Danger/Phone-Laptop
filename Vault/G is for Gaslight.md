@@ -1,1 +1,1 @@
-Shoot me
+Shoot me already, please
