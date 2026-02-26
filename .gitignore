@@ -13,5 +13,6 @@ Icon?
 # Obsidian - exclude all configuration
 .obsidian/
 .trash/
-
 /.obsidian
+.obsidian/workspace.json
+.obsidian/plugins/
