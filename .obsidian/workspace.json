@@ -16,8 +16,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "dadd20d7bee8785d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the G in DM stands for Gaslighting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the G in DM stands for Gaslighting"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "the G in DM stands for Gaslighting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for the G in DM stands for Gaslighting"
             }
           },
           {
@@ -108,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "the G in DM stands for Gaslighting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from the G in DM stands for Gaslighting"
             }
           },
           {
@@ -150,12 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "the G in DM stands for Gaslighting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of the G in DM stands for Gaslighting"
             }
           },
           {
@@ -187,8 +205,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ddf5605078736cd2",
+  "active": "dadd20d7bee8785d",
   "lastOpenFiles": [
+    "the G in DM stands for Gaslighting.md",
     "Vault",
     "Vault/D&D/Personal Campaign Ideas/Story Ideas/Intros/places and times to start.md",
     "Vault/D&D/Personal Campaign Ideas/Story Ideas/Intros/Royal intro.md",
@@ -229,7 +248,6 @@
     "Vault/D&D/Thursday Thrashers Campaign/Items",
     "Vault/D&D/Thursday Thrashers Campaign/Campaign Plot",
     "Vault/D&D/Personal Campaign Ideas/Story Ideas",
-    "Vault/D&D/Personal Campaign Ideas/Stat Blocks",
-    "Vault/D&D/Personal Campaign Ideas/Maps"
+    "Vault/D&D/Personal Campaign Ideas/Stat Blocks"
   ]
 }
