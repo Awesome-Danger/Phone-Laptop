@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dfc609443bb91997",
+            "id": "efbe8523ac1a9c26",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -116,35 +116,6 @@
             }
           },
           {
-            "id": "f8bc44ab460eac00",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "eb95df16d5643f5b",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
             "id": "8c9c524ec00c95c6",
             "type": "leaf",
             "state": {
@@ -169,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -187,9 +158,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dfc609443bb91997",
+  "active": "efbe8523ac1a9c26",
   "lastOpenFiles": [
-    "the G in DM stands for Gaslighting.md",
+    "Vault/the G in DM stands for Gaslighting.md",
     "Vault",
     "Vault/D&D/Personal Campaign Ideas/Story Ideas/Intros/places and times to start.md",
     "Vault/D&D/Personal Campaign Ideas/Story Ideas/Intros/Royal intro.md",
