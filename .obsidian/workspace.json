@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "92e2c702fbcbba88",
+            "id": "e14d3208d43e9e12",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "G is for Gaslight.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "G is for Gaslight"
             }
           }
         ]
@@ -191,9 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92e2c702fbcbba88",
+  "active": "e14d3208d43e9e12",
   "lastOpenFiles": [
     "G is for Gaslight.md",
+    "Vault/D&D/Thursday Thrashers Campaign/(Bjorn records).md",
     "Vault/D&D/Thursday Thrashers Campaign/Stat Blocks/Trained Wardog.png",
     "G is for Gaslighting.md",
     "Am I being gaslit.md",
