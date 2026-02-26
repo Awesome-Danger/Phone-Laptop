@@ -20,8 +20,23 @@
               "icon": "diff",
               "title": "Diff: workspace.json  (Working Tree)"
             }
+          },
+          {
+            "id": "b324dd8f0d7d9caa",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e14d3208d43e9e12",
+  "active": "b324dd8f0d7d9caa",
   "lastOpenFiles": [
     "Vault/G is for Gaslight.md",
     "Vault/D&D/Thursday Thrashers Campaign/(Bjorn records).md",
