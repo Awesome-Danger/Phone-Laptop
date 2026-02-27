@@ -16,3 +16,5 @@
 - [[trust in God]]
 - [[good from bad]].
 - [[mysteries are God's glory]].
+- [[7 Deadly Sins +1]]
+- 
