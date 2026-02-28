@@ -1,1 +1,0 @@
-make the SFX loaded on my laptop Skyward Sword instead of MGS. #dot 
