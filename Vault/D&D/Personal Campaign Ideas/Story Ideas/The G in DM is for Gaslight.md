@@ -5,6 +5,5 @@ https://www.instagram.com/reel/DT5c7RHjRJU/?igsh=MWlraWdub2d3dmpzcQ==
 - the character that was eaten gives seemingly random buffs to the players on rolls.
 	- artificer/bard/sorcerer character.
 		- has spells like Silvery Barbs, Counter-spell, Lucky Feat, Bardic Inspiration, or Guidance.
-
 - these things are most often *explained away by* an environmental factor that gives the character an advantage, or the enemy a disadvantage.
 - 
