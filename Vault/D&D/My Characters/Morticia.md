@@ -5,7 +5,7 @@ FULL NAME: Morticia
 SEX: Female
 AGE: 36
 HEIGHT:6'
-RACE: HUMAN
+RACE: Elf
 CLASS:
 
 BACKSTORY:

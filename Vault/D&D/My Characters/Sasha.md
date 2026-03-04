@@ -5,8 +5,8 @@ FULL NAME: Sasha
 SEX: Male  
 AGE:  
 HEIGHT:  
-RACE:  
-CLASS:  
+RACE: halfling
+CLASS: Ranger
   
 BACKSTORY:  
   
