@@ -2,7 +2,7 @@ Could my current campaign ideas fit in a pirate era?
 - no
 
 A campaign taking place on a large ship?
-- perhaps... maybe a [[Titanic Oneshot]]?
+- perhaps... maybe a [[Titanic One-shot]]?
 	- no, that's a different era.
 
 - large ship with separate areas and floors. large deck where the ocean can be seen, along with other beings...
