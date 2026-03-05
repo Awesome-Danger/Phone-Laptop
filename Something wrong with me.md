@@ -34,4 +34,7 @@ What event; why | felt what?
 - Katrina/Heather+Spencer+Trotter+Jeremiah no longer want to be friends; though I was being rude, dishonest, and only after the girls in the group/wasn't trying hard enough | I felt guilty, distressed, slandered, hurt, frustrated with myself/very invested
 - Heather split; I offended her via her brother/different religious backgrounds | I felt frustrated with myself, guilty/very invested
 
-I feel that Emery is right in the sense that I at least often overlook my family's 
+I feel that Emery is right in the sense that I at least often overlook my family's stressors, and I'm not entirely sure if that's because of:
+1. a disposition I have towards them now
+2. a general oversight for everyone, or
+3. my stress level being too high to care while at home
