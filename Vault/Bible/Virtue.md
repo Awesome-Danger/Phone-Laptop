@@ -8,4 +8,9 @@ so a lack of virtue is worse than being for, or against Him.
 - this is because of the image of Christians that you give to people who are not Christians.
 
 But what does virtue look like in practice?
-PROVERBS
+my footnotes mention that the word "virtue" can be translated into "excellence."
+
+> [!bible] [Philippians 4:8 - ESV](https://www.biblegateway.com/passage/?search=Philippians+4:8&version=esv)
+> 8. Finally, brothers, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if there is any **excellence**, if there is anything worthy of praise, think about these things.
+
+[[]]
