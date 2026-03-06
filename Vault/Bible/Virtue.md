@@ -22,3 +22,5 @@ my footnotes mention that the word "virtue" can be translated into "excellence."
 
 ![[7 Deadly Sins vs 7 Heavenly Virtues]]
 
+![[Wisdom]]
+
