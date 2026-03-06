@@ -6,4 +6,5 @@ why does Jesus choose the poeple that he did?
 		- hated among the jews
 			- why not all?
 	- some where zealots
-		- 
+		- why not all? that's anarchy
+	- 
