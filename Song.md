@@ -16,7 +16,7 @@ Glory, Glory, Glory and honor   x8
 ![[Recording_10.mp3]]
 
 *Base*
-Glory, honor, to my savior   x4
+Glory, honor, to my savior   x3
 
 ![[Recording_9.mp3]]
 
@@ -35,3 +35,4 @@ I'll see him face to face
 And forever live in his grace
 
 ![[Recording_13.mp3]]
+
