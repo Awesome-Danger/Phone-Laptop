@@ -27,4 +27,3 @@ One day, I'll meet him in that land
 
 
 ![[Recording 20260307112448.m4a]]
-
