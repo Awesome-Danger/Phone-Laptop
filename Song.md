@@ -34,3 +34,4 @@ The kingdom of the lamb
 I'll see him face to face
 And forever live in his grace
 
+![[Recording_13.mp3]]
