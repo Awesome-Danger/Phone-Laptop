@@ -20,9 +20,6 @@ Glory, Glory, Glory and honor   x8
 *Base*
 Glory, honor, to my savior   x4
 
-
-![[Recording 20260307113106.m4a]]
-
 ![[Recording_9.mp3]]
 
 *Alto*
