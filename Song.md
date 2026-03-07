@@ -20,4 +20,6 @@ Glory, Glory, Glory and honor!  x2
 
 *Base*
 Glory, honor, to my savior
+Glory
 
+![[Recording 20260307111221.m4a]]
