@@ -20,8 +20,10 @@ Glory, honor, to my savior   x4
 
 ![[Recording 20260307111221.m4a]]
 
-*Soprano*
+Alto
 His name is the great I AM   x2
 Someday, with the angel band
 One day, I'll meet him in that land
 
+
+![[Recording 20260307112448.m4a]]
