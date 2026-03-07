@@ -8,8 +8,9 @@ Forever your kingdom will stand!
 At his feet I cast down my own crown,
 His name is the great I AM!
 
-Glory and honor to you!
-All glory and honor to you!
-
-
 ![[Recording 20260307104200.m4a]]
+
+Glory, Glory, Glory and honor
+Glory, Glory, Glory and honor
+Glory, Glory, Glory and honor
+Glory, Glory, Glory and honor!
