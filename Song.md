@@ -18,8 +18,6 @@ Glory, honor, to my savior   x3
 
 ![[Recording_9.mp3]]
 
-
-
 *Alto*
 His name is the great I AM   x2
 His name is the great I AM
