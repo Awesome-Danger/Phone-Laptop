@@ -13,9 +13,11 @@
 > <sup>16</sup> So, because you are lukewarm, and neither hot nor cold, I will spit you out of my mouth.
 > <sup>17</sup> For you say, I am rich, I have prospered, and I need nothing, not realizing that you are wretched, pitiable, poor, blind, and naked.
 
+
+
 > [!bible] [2 Timothy 3:13 - ESV](https://www.biblegateway.com/passage/?search=2%20Timothy+3:13&version=esv)
 > <sup>13</sup> while evil people and impostors will go on from bad to worse, deceiving and being deceived.
-
+- Pharisees 
 
 - Being hot or cold is being *for* or *against* God/Jesus. If you are undecided, and neutral, you certainly can't have any virtue towards God.
 - So a lack of virtue for Him at all is still against Him.
