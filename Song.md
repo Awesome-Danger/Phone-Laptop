@@ -21,6 +21,9 @@ Glory, Glory, Glory and honor   x8
 Glory, honor, to my savior   x4
 
 
+![[Recording 20260307113106.m4a]]
+
+
 
 *Alto*
 His name is the great I AM   x2
