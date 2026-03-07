@@ -25,7 +25,3 @@ His name is the great I AM   x2
 Someday, with the angel band
 One day, I'll meet him in that land
 
-
-![[Recording 20260307112152.m4a]]
-
-
