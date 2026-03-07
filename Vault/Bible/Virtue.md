@@ -24,3 +24,10 @@ my footnotes mention that the word "virtue" can be translated into "excellence."
 
 ![[Wisdom]]
 
+> [!bible]+ [Galatians 5:19-23 - ESV](https://www.biblegateway.com/passage/?search=Galatians+5:19-23&version=esv)
+> <sup>19</sup> Now the works of the flesh are evident: sexual immorality, impurity, sensuality,
+> <sup>20</sup> idolatry, sorcery, enmity, strife, jealousy, fits of anger, rivalries, dissensions, divisions,
+> <sup>21</sup> envy,  drunkenness, orgies, and things like these. I warn you, as I warned you before, that those who do  such things will not inherit the kingdom of God.
+> <sup>22</sup> But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,
+> <sup>23</sup> gentleness, self-control; against such things there is no law.
+

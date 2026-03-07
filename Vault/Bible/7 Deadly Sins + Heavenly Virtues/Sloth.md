@@ -13,3 +13,6 @@
 > ---
 > <sup>13</sup> Love not sleep, lest you come to poverty; open your eyes, and you will have plenty of bread.
 
+> [!bible]+ [Proverbs 14:23 - ESV](https://www.biblegateway.com/passage/?search=Proverbs+14:23&version=esv)
+> <sup>23</sup> In all toil there is profit, but mere talk tends only to poverty.
+
