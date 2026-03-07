@@ -10,9 +10,14 @@ His name is the great I AM!
 
 ![[Recording 20260307104200.m4a]]
 
+*Tenor*
 Glory, Glory, Glory and honor
 Glory, Glory, Glory and honor
 Glory, Glory, Glory and honor
-Glory, Glory, Glory and honor!
+Glory, Glory, Glory and honor! 
+x2
 
 ![[Recording 20260307105958.m4a]]
+
+*Base*
+Glory, honor, to my savior
