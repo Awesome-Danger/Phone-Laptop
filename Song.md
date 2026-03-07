@@ -28,3 +28,8 @@ One day, I'll meet him in that land
 
 ![[Recording_11.mp3]]
 
+I'll see him in that land;
+The kingdom of the lamb
+I'll see him face to face
+And forever live in his grace
+
