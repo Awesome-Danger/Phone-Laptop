@@ -14,6 +14,8 @@ His name is the great I AM!
 Glory, Glory, Glory and honor   x8
 
 
+![[Recording 20260307112728.m4a]]
+
 
 *Base*
 Glory, honor, to my savior   x4
