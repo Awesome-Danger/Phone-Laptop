@@ -8,8 +8,6 @@ Forever your kingdom will stand!
 At his feet I cast down my own crown,
 His name is the great I AM!
 
-![[Recording 20260307104200.m4a]]
-
 *Tenor*
 Glory, Glory, Glory and honor   x8
 
