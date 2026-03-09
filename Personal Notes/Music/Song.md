@@ -12,11 +12,13 @@ His name is the great I AM!
 Glory, Glory, Glory and honor   x8
 
 ![[Recording_10.mp3]]
+![[Recording_16.mp3]]
 
 *Base*
 Glory, honor, to my savior   x3
 
 ![[Recording_9.mp3]]
+![[Recording_14.mp3]]
 
 *Alto*
 His name is the great I AM   x2
