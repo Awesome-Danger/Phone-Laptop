@@ -3,3 +3,5 @@ multiply
 	- takes one Magic Action 
 	- can be used 1 per day
 
+Morph
+- morph into a certain weapon, to be used by 
