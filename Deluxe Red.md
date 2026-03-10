@@ -6,3 +6,4 @@ divine rage
 - +1 use of rage per short rest
 
 rust/poison
+- makes weapons do 2d4 less damage, will add a poison effect if a CON saving throw is failed.
