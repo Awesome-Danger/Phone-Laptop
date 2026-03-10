@@ -1,2 +1,2 @@
-- [[The Eye of the Hunt]]
-- 
+![[The Eye of the Hunt]]
+
