@@ -78,3 +78,14 @@
 > <sup>6</sup> We know that our old self  was crucified with him in order that the body of sin might be brought to nothing, so that we would no longer be enslaved to sin.
 > <sup>7</sup> For one who has died has been set free  from sin.
 
+> [!bible]+ [Acts 2:36-41, 47 - ESV](https://www.biblegateway.com/passage/?search=Acts+2:36-41&version=esv)
+> <sup>36</sup> Let all the house of Israel therefore know for certain that God has made him both Lord and Christ, this Jesus whom you crucified.”
+> <sup>37</sup> Now when they heard this they were cut to the heart, and said to Peter and the rest of the apostles, “Brothers, what shall we do?”
+> <sup>38</sup> And Peter said to them, “Repent and be baptized every one of you in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit.
+> <sup>39</sup> For the promise is for you and for your children and for all who are far off, everyone whom the Lord our God calls to himself.”
+> <sup>40</sup> And with many other words he bore witness and continued to exhort them, saying, “Save yourselves from this crooked generation.”
+> <sup>41</sup> So those who received his word were baptized, and there were added that day about three thousand souls.
+>
+> ---
+> <sup>47</sup> praising God and having favor with all the people. And the Lord added to their number day by day those who were being saved.
+
