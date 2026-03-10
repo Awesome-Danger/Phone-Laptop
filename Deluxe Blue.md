@@ -3,3 +3,6 @@ multiply
 	- takes one Magic Action 
 	- can be used 1 per day
 
+Morph
+- morph into a certain weapon, to be used by someone. Concentration up to 10 minutes.
+	- ritual spell (can be prepared to cast, using 10 minutes of prep time)
