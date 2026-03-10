@@ -1,9 +1,9 @@
-Puts you in death saves. You must go through death saves completely.
+immediately puts you in death saves (no prep). You must go through death saves completely.
 - If you succeed, you gain benefits.
 - If you don't, you die permanently.
 
-Benefits ideas:
-- Str, Dex, and Con.
-- all +1
-- choose two to have +2
-- choose one to have +3
+Benefits **ideas**:
+
+- distribute 3 points across Str, Dex, and Con.
+- advantage on Strength (athletic and acrobatics) checks
+- advantage on CON saving throws
