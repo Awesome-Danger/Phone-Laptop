@@ -1,1 +1,1 @@
-3 times per long rest, 
+3 times per long rest, player can flip a coin. Heads is a natural I've
