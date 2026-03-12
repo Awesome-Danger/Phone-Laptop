@@ -2,10 +2,11 @@ Ian
 
 Race: Dwarf
 Height: 4' 4"
+Class: Cleric
 
 ---
 Strand color:
-- yellow
+- [[Yellow (III)]]
 	- [[Deluxe Yellow]]
 
 ----
