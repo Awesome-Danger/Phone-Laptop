@@ -1,1 +1,1 @@
-to leave the 
+to leave the city, the group finds that there's a tunnel with a secret entrance that runs through the large hills. 
