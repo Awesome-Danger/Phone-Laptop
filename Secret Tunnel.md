@@ -1,1 +1,1 @@
-to leave the city, the group finds that there's a tunnel with a secret entrance that runs through the large hills. 
+to leave the city, the group finds that there's a tunnel with a secret entrance that runs through the large hills. These hills are tall, a bit steep, and tiring. The tunnel to the cave goes low, and 
