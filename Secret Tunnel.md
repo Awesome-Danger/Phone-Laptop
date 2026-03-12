@@ -2,4 +2,5 @@ to leave the city, the group finds that there's a tunnel with a secret entrance 
 - certain rooms with basic skill checks.
 
 1. an illusion
-2. a pit that appears 
+2. a pit that appears bottomless (but isn't a pit at all)
+3. 
