@@ -1,6 +1,7 @@
 - a man tried to take hold of some power, and it didn't go very well.
 - the king "took care of it"
 - in the creation of Drakemont, the "gods" blessed every city with their own strand.
+	- each city had something that made it unique
 - There are six strands.
 - during the rebellion, Memoria wasn't a place of mud.
 	- it was a city of knowledge. all of the knowledge of the land came through here.
@@ -9,3 +10,4 @@
 - there used to be a man very close to the king who brought together all of the strands. The king said no, and the man tried to lead a rebellion, which the king ended.
 - the man says the king is in his late 60s.
 - the man's name is Sharepa.
+
