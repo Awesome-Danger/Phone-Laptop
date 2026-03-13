@@ -3,4 +3,5 @@ Height: 5'6"
 Weight: 140
 Build: Medium 
 Class: Ranger
+Sex: Female
 
