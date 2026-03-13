@@ -6,7 +6,7 @@ Class: Cleric
 
 ---
 Strand color:
-- [[Yellow (III)]]
+- [[III (Yellow)]]
 	- [[Deluxe Yellow]]
 
 ----
