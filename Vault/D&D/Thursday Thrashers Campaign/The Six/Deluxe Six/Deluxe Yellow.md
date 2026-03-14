@@ -1,3 +1,3 @@
-[[The Eye of the Familiar]]
+![[The Eye of the Familiar]]
 
 ![[III (Yellow)]]
