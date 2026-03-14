@@ -1,1 +1,2 @@
 Cleric-Barbarian
+Cleric-Fighter
