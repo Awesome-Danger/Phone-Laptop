@@ -9,4 +9,4 @@ eccentric
 - wants to see something fun
 - 
 
-![[Yellow Filament]]
+[[Yellow Filament]]
