@@ -2,9 +2,11 @@
 ![[III (Yellow)]]
 
 Sand?
+- Sands of time?
 Lightning? 
 Radiant?
 Decay?
+Healing? 
 
 - Monkey's Paw
 	- Like a normal monkey's paw (There are 5 wishes that the DM can choose how it will horribly go wrong), but you can't use it to **directly** benefit you, especially only yourself
