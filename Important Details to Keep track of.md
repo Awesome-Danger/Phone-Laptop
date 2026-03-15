@@ -12,4 +12,10 @@
 
 ### In Possession of:
 - [[III (Yellow)]]
+
+
+# Bjorn
+
+## in possession of:
+- [[The Umbral Filament]] 
 - 

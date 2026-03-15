@@ -1,4 +1,6 @@
 
+From [[VI (Purple)]] [session 11](session 11)
+
 Wondrous Item, uncommon (requires attunement by a 1 level in Warlock)
 
 BENEFITS:
