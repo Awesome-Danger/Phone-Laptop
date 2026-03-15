@@ -3,9 +3,7 @@
 
 Sand?
 Lightning? 
-Radiant?
 Decay?
-
 
 
 - Monkey's Paw
