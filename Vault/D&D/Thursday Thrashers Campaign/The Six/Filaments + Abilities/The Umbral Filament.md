@@ -1,5 +1,5 @@
 
-From [[VI (Purple)]] [session 11](session 11)
+From [[VI (Purple)]] [[session 11]]
 
 Wondrous Item, uncommon (requires attunement by a 1 level in Warlock)
 
@@ -15,7 +15,7 @@ Uses: 3 charges per Long Rest
 Activation: Action
 Range: 60 ft
 
-- [x] 1
+- [ ] 1
 - [ ] 2
 - [ ] 3
 
@@ -37,7 +37,7 @@ Uses: 1 charge (regains at long rest)
 Activation: Bonus Action
 Range: 30 ft
 
-- [x] 1
+- [ ] 1
 
 Place an anchor point of violet filament. At the start of your next turn,
 choose up to 3 creatures within 15 ft of the anchor.
