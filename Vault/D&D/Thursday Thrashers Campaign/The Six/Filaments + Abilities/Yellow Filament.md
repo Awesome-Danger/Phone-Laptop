@@ -10,3 +10,5 @@ Radiant?
 Decay?
 
 - Monkey's Paw
+- Reaction: can choose for any melee attack to do radiant damage instead.
+
