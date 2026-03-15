@@ -11,11 +11,12 @@
 ## Ulfgar
 
 ### In Possession of:
-- [[III (Yellow)]]
+- [[Yellow Filament]]
 
 
-# Bjorn
 
-## in possession of:
+## Bjorn
+
+### in possession of:
 - [[The Umbral Filament]] 
-- 
+
