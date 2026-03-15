@@ -2,7 +2,7 @@
 Cleric multiclass?
 ![[Deluxe Yellow]]
 
-![[]]
+![[III (Yellow)]]
 
 Sand?
 Lightning? 
