@@ -15,3 +15,4 @@ Healing?
 	- You get something special if you use all of the wishes on the paw. You'll find it in the clutches of the closed hand.
 		- [[Deluxe Yellow]]
 - Reaction: can choose for any melee attack to do radiant damage instead.
+- 
