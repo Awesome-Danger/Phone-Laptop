@@ -14,6 +14,8 @@
 
 
 ###### Spells and Actions
+
+CHOICE
 - Reaction: can choose for any melee attack to do radiant damage instead.
 	- presented as player's own weapon, but with a yellow glow
 - as a cantrip, create a golden colored rope of up to 50ft in length. The rope is 2x stronger and lighter than normal rope, and can be cut into as many pieces as the caster wants at will.
