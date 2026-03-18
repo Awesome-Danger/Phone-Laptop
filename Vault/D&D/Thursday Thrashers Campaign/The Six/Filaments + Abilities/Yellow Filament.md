@@ -21,6 +21,6 @@ CHOICE
 - as a cantrip, create a golden colored rope of up to 50ft in length. The rope is 2x stronger and lighter than normal rope, and can be cut into as many pieces as the caster wants at will.
 	- presented as a golden rope
 - always have cure wounds prepared/gives cure wounds (functionally gives it as another spell, making it pointless for a cleric to prepare it from their own list)
-	- presented as a scroll
+	- presented as a scroll with a 
 - time stutter: as a magic action, create a short pause in time that causes target(s) to be unable to use a reaction for the next turn. Can be cast once per short rest.
 	- presented as a strange looking clock
