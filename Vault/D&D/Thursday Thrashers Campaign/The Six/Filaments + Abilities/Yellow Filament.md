@@ -14,6 +14,15 @@ Decay?
 		- e.g., you cant' ask for a ton of money for yourself. but you could wish for someone else to get that money. Or you could wish for the price of something to be paid, though it will come at a greater cost than what was asked for...
 	- You get something special if you use all of the wishes on the paw. You'll find it in the clutches of the closed hand.
 		- [[Deluxe Yellow]]
+
+###### Benefits
+
+- Resistance to Radiant damage
+- add 10 to walking speed
+- advantage on acrobatics Checks
+
+
+###### Spells and Actions
 - Reaction: can choose for any melee attack to do radiant damage instead.
 - as a cantrip, create a golden colored rope of up to 50ft in length. The rope is 2x stronger and lighter than normal rope, and can be cut into as many pieces as the caster wants at will.
 
