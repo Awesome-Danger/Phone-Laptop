@@ -18,7 +18,7 @@
 CHOICE
 
 - Cleric
-	- as a cantrip, create a golden colored rope of up to 50 ft in length. The rope is 2x stronger and lighter than normal rope, and can be cut into as many pieces as the caster wants at will. Cast again to make the rope disappear. The rope can last up to 10 minutes concentration. Can choose for rope to do 2d6 Radiant damage at the same time you cast it (doesn't take another action). Target must pass a Strength check of 14 to not be grappled. The target can make a Strength check of 14 at the beginning of their turns; if succeeded, they are no longer grappled.
+	- as a cantrip, create a golden colored rope of up to 50 ft in length. The rope is 2x stronger and lighter than normal rope, and can be cut into as many pieces as the caster wants at will. Cast again to make the rope disappear. The rope can last up to 10 minutes concentration. Can choose for rope to do 2d4 Radiant damage at the same time you cast it (doesn't take another action). Target must pass a Strength check of 14 to not be grappled. The target can make a Strength check of 14 at the beginning of their turns; if succeeded, they are no longer grappled.
 		- presented as: [a golden rope]
 	- Cure Wounds: always have cure wounds prepared (functionally gives it as another spell, making it pointless for a cleric to prepare it from their own list)
 		- presented as: [a scroll with a health Potion on it]
