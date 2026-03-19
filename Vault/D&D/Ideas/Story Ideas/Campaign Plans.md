@@ -2,17 +2,17 @@
 - Character Setup
 	- Each player is given an item chosen by the DM to inherit at the beginning of the Campaign. These items have no immediate purpose or value, but prove to be important later in the campaign. Item pool is as follows:
 		- Item 1: [lump of coal ]
-			- If swallowed, this will replace your will with pure evil
-			- If broken, it will light a blue flame. If consumed, grants +2D8 permanent health.
+			- If swallowed, this will replace target's will with pure evil
+			- If broken, it will light a blue flame. If consumed, grants +2d8 permanent health.
 		- Item 2: [Child’s Goblet]
 			- When used occasionally, it slowly changes the user into another race
 		- Item 3: [Quartz Earring]
 			- Changes alignment to Chaotic Evil while wearing it.
-			- If swallowed, you will die instantly.
+			- If swallowed, target will die instantly.
 		- Item 4: [Key necklace]
 			- Can be used to lock any door or special entrance, but not unlock it.
-		- Item 5: Old Wood-Carved d6
-			- A d6 the character owns and has no numbers on it. Can be rolled 1 per short rest, and must be used BEFORE knowing the outcome of a role. Player rolls 1d6 to add to the current roll.
+		- Item 5: [Old Wood-Carved d6]
+			- A d6 the character owns and has no numbers on it. Can be rolled once per short rest, and must be used BEFORE knowing the outcome of a role. Player rolls 1d6 to add to the current roll.
 
 - Room of treasures and traps
 	- A room in a dungeon, or cave, or even a series of them where there are pedestals that have treasures displayed on them without any protection, and if taken can activate certain traps. Each of these items on the pedestals need an arcana roll to determine what is does; There is no description or name for them on the pedestals.
