@@ -28,4 +28,3 @@ CHOICE
 		- presented as: [a strange looking clock]
 	- Reaction: can choose for any melee attack within 30 ft do radiant damage instead.
 		- presented as: [a mini sun, with a soft yellow glow]
-	- 
