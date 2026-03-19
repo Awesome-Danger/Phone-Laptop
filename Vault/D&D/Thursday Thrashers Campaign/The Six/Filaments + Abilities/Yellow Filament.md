@@ -8,9 +8,9 @@
 
 ###### Benefits
 
-- Resistance to Radiant damage
+- resistance to Radiant damage
 - add 10ft to movement speed
-- advantage on acrobatics checks
+- advantage on Dexterity (acrobatics) checks
 
 
 ###### Spells and Actions
@@ -24,3 +24,4 @@ CHOICE
 	- presented as a scroll with a health Potion on it
 - time stutter: as a magic action, create a short pause in time that causes target(s) to be unable to use a reaction for the next turn. Can be cast once per short rest.
 	- presented as a strange looking clock
+- 
