@@ -7,7 +7,7 @@
 
 ### Experiences
 - has unknowingly met [[Belgabad]]
-- 30/100 health
+- 40/100 health
 ## Ulfgar
 
 ### In Possession of:
