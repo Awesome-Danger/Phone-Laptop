@@ -7,7 +7,7 @@
 
 ### Experiences
 - has unknowingly met [[Belgabad]]
-- 50/100 health
+- ring = 50/100 health
 ## Ulfgar
 
 ### In Possession of:
