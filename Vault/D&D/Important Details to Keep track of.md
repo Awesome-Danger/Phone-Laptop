@@ -19,4 +19,4 @@
 
 ### in possession of:
 - [[The Umbral Filament]] 
-- coal
+- lump coal
