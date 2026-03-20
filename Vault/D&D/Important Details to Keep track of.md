@@ -12,11 +12,11 @@
 
 ### In Possession of:
 - [[Yellow Filament]]
-
+- Key necklace
 
 
 ## Bjorn
 
 ### in possession of:
 - [[The Umbral Filament]] 
-
+- coal
