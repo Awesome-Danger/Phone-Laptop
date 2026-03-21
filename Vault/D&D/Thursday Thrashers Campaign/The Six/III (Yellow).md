@@ -1,7 +1,7 @@
 
 MONKEY
 - the body attached to the paw
-	- he's missing one hand
+	- he's severs one hand
 
 ### Personality
 eccentric
