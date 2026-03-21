@@ -31,5 +31,6 @@ Radiant Cord
 	Time Stutter: as a magic action, create a short pause in time that causes target(s) to be unable to use a reaction for the next turn.
 	- Can be cast once per short rest.
 		- presented as: [a strange looking clock]
+	Radiance
 	Reaction: can choose for any melee attack within 30 ft to do radiant damage instead.
-		- presented as: [a mini sun, with a soft yellow glow]
+	- presented as: [a mini sun, with a soft yellow glow]
