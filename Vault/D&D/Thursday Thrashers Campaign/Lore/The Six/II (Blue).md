@@ -1,0 +1,1 @@
+Remains in [[Affirmadia]] held *within a small chunk of ice* personally and secretly protected by a family. 

@@ -20,7 +20,8 @@ Room of treasures and traps
 	- shoots a poison dart. Roll Perception to see if the player notices before it shoots them.
 - 2nd trap
 	- same as the first, but with an arrow
-- 
+- 3rd trap
+	- 
 
 
 ### Items

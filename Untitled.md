@@ -1,1 +1,0 @@
-The thick brush of woods that the party went through in 

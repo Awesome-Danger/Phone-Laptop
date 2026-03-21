@@ -1,4 +1,4 @@
-
+w
 center of the castle
 - blue beam of light
 	- where we got the map
