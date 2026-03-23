@@ -1,0 +1,1 @@
+This amulet was used by elite solo assassin warriors to attack targets from multiple sides and angles at once, and to cover more ground while scouting new grounds with only one person. When activated, the player can choose to make between 1 and 6 copies of themself (making a total of 7 maximum including the original). Can be used once per long rest.

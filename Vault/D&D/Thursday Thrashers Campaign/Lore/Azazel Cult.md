@@ -1,1 +1,2 @@
-meaning uncertain, could mean "demons of the wilderness." This is what the mysterious cult will be called by surrounding villages in the campaign.
+meaning is uncertain; could mean "demons of the wilderness." 
+A mysterious cult around [[Epitath]]. works underground, in the wilderness, in villages. Everywhere.

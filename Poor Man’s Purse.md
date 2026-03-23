@@ -1,0 +1,1 @@
+This very small coin purse looks like a normal coin purse, but taking a look inside, all you see is sand. Endless sand. So endless in fact that you can keep pouring sand out of it, and it never goes empty. The opening of the purse is just big enough to fit 4 human sized fingers inside.

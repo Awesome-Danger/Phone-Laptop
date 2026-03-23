@@ -1,0 +1,1 @@
+for every long rest taken while having this coin, player must do a luck roll. If they fail, a spectral thief will take that gold coin, and half of the player’s money in the middle of the night (there is no defense against the thief).

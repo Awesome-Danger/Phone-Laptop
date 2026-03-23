@@ -1,0 +1,1 @@
+This nose ring can only be used once. This nose ring is hollow on the inside, and holds in it a liquid poison that kills in 1 hour. The nose ring has a perfect seal.
