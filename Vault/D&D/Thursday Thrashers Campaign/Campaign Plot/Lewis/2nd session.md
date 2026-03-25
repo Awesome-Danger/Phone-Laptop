@@ -7,3 +7,6 @@ Thea notices 1 hp leave her, and enter her [[The Ring of Brom|ring]]. Thea gets 
 The monument is roughly 10 ft in diameter, and has mysterious engravings, and writings from another language no one knows.
 
 After arriving at the monument, the party adds a last bit of health to it, and the forest parts, revealing a bright light that appears to be the way out. As they run through, Thea, and soon the rest of the party, notice that Bjorn is not among them. 
+
+---
+[[Echoes of Corruption]], 
