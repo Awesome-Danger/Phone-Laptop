@@ -1,0 +1,1 @@
+- When used occasionally, it slowly changes the user into another race

@@ -1,0 +1,1 @@
+- Can be used to lock any door or special entrance, but not unlock it.

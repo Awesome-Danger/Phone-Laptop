@@ -4,6 +4,7 @@
 - [[The Ring of Brom]]
 - [[Gambler's Coin]]
 - [[I (Green)]]
+- [[Quartz Earring]]
 
 ### Experiences
 - has unknowingly met [[Belgabad]]
@@ -12,11 +13,17 @@
 
 ### In Possession of:
 - [[Yellow Filament]]
-- Key necklace
+- [[Key necklace]]
 
 
 ## Bjorn
 
 ### in possession of:
 - [[The Umbral Filament]] 
-- lump coal
+- [[lump of coal]]
+
+
+## Rowan
+
+### in possession of:
+- [[Child’s Goblet]]
