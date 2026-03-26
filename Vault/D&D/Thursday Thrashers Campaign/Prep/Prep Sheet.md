@@ -4,4 +4,4 @@
 
 
 ---
-[[Important Details to Keep track of]]
+[[Important Character Details to Keep track of]]

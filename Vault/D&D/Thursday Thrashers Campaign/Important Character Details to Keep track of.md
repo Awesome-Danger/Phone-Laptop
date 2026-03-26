@@ -22,6 +22,9 @@
 - [[The Umbral Filament]] 
 - [[lump of coal]]
 
+### Experiences
+- currently not a part of the party. [[2nd session]]
+- 
 
 ## Rowan
 
