@@ -60,7 +60,7 @@ Powerful Items:
 
 
 - (Possible) Plot Items
-	![[Ring of Brom]]
+	![[The Ring of Brom]]
 		![[The Philosopher’s Stone]]
 	
 	![[Carving of Nashtuu]]

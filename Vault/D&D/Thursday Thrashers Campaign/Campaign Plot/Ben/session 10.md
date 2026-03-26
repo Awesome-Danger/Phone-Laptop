@@ -1,8 +1,10 @@
 
 - Hung-over Bjorn and the gang get teleported from a green beam of light from a forest to an open field. traveling along the way, they see an old outpost made with roots and a few statues on the outside, and one that seems newer, kneeling face-down, facing a small [purple beam of light,] seemingly made out of thread
 - Bjorn is still face-down in the grass about 200ft away.
-- [discovered Affirmadia (The King's Forge)]
+
+- [discovered Affirmadia (The King's Forge)] **RETCON:** This is only known as [[The King's Forge]]
 	- this is the origin place of all races; the center of the world. When guardians were to protect in battle, they would be sent here.
+
 - Bjorn crawls over, Anakin style, and activates the kneeling statue.
 - Mael is infuriated. 
 - Fighting starts

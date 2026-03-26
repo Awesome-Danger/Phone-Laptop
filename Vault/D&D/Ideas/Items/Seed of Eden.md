@@ -6,9 +6,9 @@ Description:
 - A silver sphere with engravings all over it that emits a pulsing blue glow through the engravings. Who knows what it's for? It was lost some time ago... 
 
 What if the Seed of Eden is the Philosopher's Stone?
-Or Brom, who was Ranii's loyal servant, and the previous bearer of [[The Ring of Brom|the ring]].
+Or Brom, who was Ranii's loyal servant, and the previous bearer of [[Vault/D&D/Thursday Thrashers Campaign/Items/Plot Items/The Ring of Brom|the ring]].
 
 ---
 
 #key #item #plot
-[[The Ring of Brom]]. [[The Philosopher's Stone]], [[Corruption]] 
+[[Vault/D&D/Thursday Thrashers Campaign/Items/Plot Items/The Ring of Brom]]. [[The Philosopher's Stone]], [[Corruption]] 

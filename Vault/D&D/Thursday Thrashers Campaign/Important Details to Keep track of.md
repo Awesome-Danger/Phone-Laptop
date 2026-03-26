@@ -1,7 +1,7 @@
 ## Theodosia
 
 ### In possession of:
-- [[The Ring of Brom]]
+- [[Vault/D&D/Thursday Thrashers Campaign/Items/Plot Items/The Ring of Brom]]
 - [[Gambler's Coin]]
 - [[I (Green)]]
 - [[Quartz Earring]]

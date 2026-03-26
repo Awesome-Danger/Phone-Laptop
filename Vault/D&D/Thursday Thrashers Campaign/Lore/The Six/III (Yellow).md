@@ -1,11 +1,13 @@
 
 MONKEY
-- the body attached to the paw
-	- he's severs one hand
+- the body attached to the Monkey's Paw
 
 ### Personality
 eccentric
-- like a monkey, he's lighthearted, and a little chaotic, but in a good way... I think?
+- he's lighthearted, and springy.
+- one of the middle strands (middle child)
+chaotic
+- gives immediate gratification, but also punishes for it.
 - wants fun, whether chaotic, or not.
 
 [[Yellow Filament]]

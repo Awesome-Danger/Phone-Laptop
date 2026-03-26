@@ -1,2 +1,2 @@
-![[negative HP]]
 
+[[Red Filament]]

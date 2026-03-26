@@ -1,0 +1,4 @@
+- this is the origin place of all races; the center of the world. When guardians were to protect in battle, they would be sent here. 
+- It's called "The King's Forge" because for attack plans, this is where the anvil and the hammer meet.
+- [[VI (Purple)|VI]] [[session 10|was found here]].
+- Territory of [[Affirmadia]].

@@ -1,0 +1,1 @@
+A city that used to be the center of knowledge, and trade. They have the biggest library, and a yellow dragon that protects the city, and holds within it, [[III (Yellow)|III]]. 
