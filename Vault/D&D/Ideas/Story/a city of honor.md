@@ -1,4 +1,4 @@
-the party walks into this scene:
+the party walks into this scene in [[Affirmadia]]:
 
 you see a city bustling with activity, but not the kind where everybody is doing their own thing in their shops, buying and selling goods, or otherwise going about their daily business; you see a crowd gathered around the smithy, everybody muttering to each other in amazement as they watch what's happening in the middle.
 
