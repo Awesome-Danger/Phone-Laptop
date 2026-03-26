@@ -13,7 +13,7 @@ VI saw the dark side of VII
 [[The Six]] (VI) are the knitters of reality (like the Watchers in Marvel)
 - they tried to appoint a VII.
 
-[[VI (Purple)|VI]] gave [[Bjorn]] power to stop [[Hellion]]
+[[VI (Purple)|VI]] gave [[Bjorn]] power to stop [[Hellion]].
 
 
 ## Rowan's experience
