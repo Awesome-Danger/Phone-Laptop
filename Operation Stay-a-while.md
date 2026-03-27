@@ -4,3 +4,5 @@ the party arrives at [[The King's Forge]], and meet a traveling merchant who cam
 
 
 [[Rowan]]'s biological mom is there. 
+
+Affirmadia consists of a small town in front of the mountain past the blizzard.
