@@ -5,6 +5,7 @@
 - Knee's Arrow
 - Drunken Giant
 - Pickled Hen
+- Lumpy Pumpkin
 
 - John's Tavern
 - John Alcohol
