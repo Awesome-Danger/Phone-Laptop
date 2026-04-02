@@ -12,7 +12,7 @@ going through the blizzard, you need warm clothes. Magic wouldn't hurt either. T
 - Rowan's mom
 - Bjorn
 
-- *The lost souls call out to 
+- [person] *calls out your name and reaches out towards you through the abyss*
 
 [[a city of honor]].
 
