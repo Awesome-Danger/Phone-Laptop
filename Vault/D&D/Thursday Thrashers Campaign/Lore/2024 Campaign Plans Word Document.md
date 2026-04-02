@@ -14,15 +14,7 @@
 		- [ ] Item 5: [[Old Wood-Carved d6]]
 			- A d6 the character owns and has no numbers on it. Can be rolled once per short rest, and must be used BEFORE knowing the outcome of a role. Player rolls 1d6 to add to the current roll.
 
-Room of treasures and traps
-- A room in a dungeon, or cave, or even a series of them where there are pedestals that have treasures displayed on them without any protection, and if taken can activate certain traps. Each of these items on the pedestals need an Arcana roll to determine what is does; There is no description or name for them on the pedestals.
-- 1st trap
-	- shoots a poison dart. Roll Perception to see if the player notices before it shoots them.
-- 2nd trap
-	- same as the first, but with an arrow
-- 3rd trap
-	- 
-
+![[Room of treasures and traps]]
 
 ### Items
 Powerful Items:
@@ -35,7 +27,7 @@ Powerful Items:
 
 ![[Poor Man’s Purse]]
 
-![[Amulet of the Hydra]]
+![[Vault/D&D/Thursday Thrashers Campaign/Items/Amulet of the Hydra]]
 
 ![[Amulet of Finesse]]
 
@@ -46,11 +38,8 @@ Powerful Items:
 ![[Eye of Truth]]
 
 ![[Bracelet of Drunken Brawling]]
-
  ![[[PERSON]’s Gold Tooth]] 
-
 ![[Quartz Pocket Prison]]
-
 
 ![[Donkey’s Jawbone of Demons]]
 

@@ -1,0 +1,17 @@
+- A room in a dungeon, or cave, or even a series of them where there are pedestals that have treasures displayed on them without any protection, and if taken can activate certain traps. Each of these items on the pedestals need an Arcana roll to determine what is does; There is no description or name for them on the pedestals
+	-  trap
+		- shoots a poison dart. Roll Perception to see if the player notices before it shoots them.
+	-  trap
+		- same as the first, but with an arrow
+	-  trap
+		- poison gas
+	- trap
+		- necrotic to the touch
+	- trap
+		- acid splash
+	- trap
+		- magic suit of armor is activated. Weapon: large double-battleaxe
+	- trap
+		- fireball
+	- trap
+		- sleep spell
