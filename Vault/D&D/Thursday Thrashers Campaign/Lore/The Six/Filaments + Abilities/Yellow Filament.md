@@ -20,10 +20,8 @@ Radiant Cord
 	Can choose for cord to act as a whip, doing 2d4 Radiant damage.
 	Cord can also be used to grapple enemies; target must pass a Strength check of 14 to not be grappled. The target can make a Strength check of 14 at the beginning of their turns; if succeeded, they are no longer grappled.
 	10 minutes concentration.
-	presented as: [III's tail]
 
 Time Stutter 
-	as a magic action, create a short pause in time that causes target(s) to be unable to use a reaction for the next turn.
+	as a magic action, create a short pause in time that causes all targets in combat to be unable to use a reaction for the next turn.
 	Can be cast once per short rest.
-	presented as: [a strange looking clock]
 - [ ] Short Rest
