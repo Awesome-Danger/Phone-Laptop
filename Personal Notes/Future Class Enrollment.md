@@ -1,0 +1,3 @@
+- [ ] 4010 - group processes - Payton Woodruff 
+- [ ] 6020 (not 4120) - techniques of Counseling - Eager
+- [ ] 6010 - Counseling theories - Shelby (male)
