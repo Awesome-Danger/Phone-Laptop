@@ -14,6 +14,10 @@
 ### In Possession of:
 - [[Yellow Filament]]
 - [[Key necklace]]
+- [[Lost Souls]] vial (very little "blood")
+
+### Experiences
+- has met with [[III (Yellow)|III]]
 
 
 ## Bjorn
