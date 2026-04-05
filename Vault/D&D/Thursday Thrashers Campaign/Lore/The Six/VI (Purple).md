@@ -1,2 +1,6 @@
+---
+aliases:
+  - VI
+---
 
 ![[VI.png]]

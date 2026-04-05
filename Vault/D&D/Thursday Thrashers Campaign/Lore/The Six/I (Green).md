@@ -1,1 +1,5 @@
+---
+aliases:
+  - I
+---
 The *Beam of light* found in the Forest Civilization, [[Shalamba]]. [[Theodosia]] touched it, and it now remains with her.

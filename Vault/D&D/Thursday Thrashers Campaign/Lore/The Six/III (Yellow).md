@@ -1,3 +1,7 @@
+---
+aliases:
+  - III
+---
 
 MONKEY
 - the body attached to the Monkey's Paw
