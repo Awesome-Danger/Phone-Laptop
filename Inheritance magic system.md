@@ -1,0 +1,1 @@
+create a magic system in D&D (or a new system entirely that's not D&D) that's based on the Inheritance Cycle by Christopher Paolini
