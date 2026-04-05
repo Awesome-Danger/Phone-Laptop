@@ -4,4 +4,3 @@
 	- [[blood magic]].
 - dark magic also includes *forbidden magic practices*
 	- Soul binding
-	- 
