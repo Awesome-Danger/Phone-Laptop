@@ -7,4 +7,4 @@
 > [!bible] [Leviticus 5:17 - ESV](https://www.biblegateway.com/passage/?search=Leviticus+5:17&version=esv)
 > <sup>17</sup> “If anyone sins, doing any of the things that by the LORD's commandments ought not to be done, though he did not know it, then realizes his guilt, he shall bear his iniquity.
 
-1Corinthians:
+1Corinthians15:
