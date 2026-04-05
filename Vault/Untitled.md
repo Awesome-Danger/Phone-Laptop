@@ -7,4 +7,7 @@
 > [!bible] [Leviticus 5:17 - ESV](https://www.biblegateway.com/passage/?search=Leviticus+5:17&version=esv)
 > <sup>17</sup> “If anyone sins, doing any of the things that by the LORD's commandments ought not to be done, though he did not know it, then realizes his guilt, he shall bear his iniquity.
 
-1Corinthians15:
+> [!bible] [1 Corinthians 15:34 - ESV](https://www.biblegateway.com/passage/?search=1%20Corinthians+15:34&version=esv)
+> <sup>34</sup> Wake up from your drunken stupor, as is right, and do not go on sinning. For some have no knowledge of God. I say this to your shame.
+
+
