@@ -1,1 +1,1 @@
-[False Hydra](https://www.worldanvil.com/block/1309070).
+[False Hydra](https://www.worldanvil.com/block/1309070) 
