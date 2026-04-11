@@ -1,3 +1,6 @@
+---
+tags: [playable-character]
+---
 Ian
 
 Race: Dwarf
@@ -9,5 +12,4 @@ Strand color:
 - [[III (Yellow)]]
 	- [[Deluxe Yellow]]
 
-----
-#playable-character 
+---- 

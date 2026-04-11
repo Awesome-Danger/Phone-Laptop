@@ -1,3 +1,6 @@
+---
+tags: [key, item, plot]
+---
 
 An orb that has curious abilities. [[Wu Shang]]swallowed it, and now a blue glow resides in his throat. The Seed of Eden has given him an indefinite lifespan. Other abilities are unknown. 
 It's possible that there's a consciousness that resides in the Seed of Eden, but no hard evidence.
@@ -10,5 +13,4 @@ Or Brom, who was Ranii's loyal servant, and the previous bearer of [[The Ring of
 
 ---
 
-#key #item #plot
 [[The Ring of Brom]]. [[The Philosopher's Stone]], [[Corruption]] 

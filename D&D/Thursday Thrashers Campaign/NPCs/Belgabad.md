@@ -1,3 +1,6 @@
+---
+tags: [NPC]
+---
 
 - Leader of the [[Creed]].
 
@@ -6,5 +9,4 @@ Appearances:
 
 
 ---
-
-#NPC 
+ 

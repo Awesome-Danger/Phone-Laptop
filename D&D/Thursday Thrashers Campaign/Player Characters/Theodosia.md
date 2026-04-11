@@ -1,3 +1,6 @@
+---
+tags: [playable-character]
+---
 Shelby
 
 Race: Orc
@@ -11,5 +14,4 @@ Visited by I (green)
 
 
 ---
-
-#playable-character 
+ 

@@ -1,4 +1,6 @@
-#enemy
+---
+tags: [enemy]
+---
 
 NAME/TITLE: Markiplier
 ABILITIES: 

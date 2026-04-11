@@ -1,3 +1,6 @@
+---
+tags: [plot]
+---
 - the Browning brothers are slowly walking towards us. Bjorn takes his bone, and throws it at a Browning Brother, but he catches the bone and drops it; they keep walking forward, but aren't really doing anything threatening.
 - Bjorn unsheathes his [[obsidian dagger]] and the brothers real from it. Bjorn slowly walks over until one's backed into a corner, and touches it against him before poking it into his flesh. there's no blood. Bjorn stabs him in the head, and lops off his arm, but there's no blood, his head is literally empty, and his arm is flopping around. Despite this, he's still "alive." 
 - Bjorn tries to run over to the other brother, but he's surrounded by the other members, who are all arguing over each other, and figuring out what to do.
@@ -26,7 +29,6 @@ BJORN
 
 ---
 
-#plot
 Previous: [[session 3]]
 Next: [[session 10]]
 

@@ -1,3 +1,6 @@
+---
+tags: [NPC]
+---
 Rented a warehouse in the southern edge of the city near the sewers.
 2231 Asbrick Dr.
 
@@ -6,5 +9,4 @@ WANTED: Dead or Alive
 500 Gp
 
 ---
-
-#NPC 
+ 

@@ -1,4 +1,6 @@
-#character 
+---
+tags: [character]
+---
 
 CHARACTER: 
 FULL NAME:  

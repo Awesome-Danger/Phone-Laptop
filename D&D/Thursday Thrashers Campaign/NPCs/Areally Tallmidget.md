@@ -1,3 +1,6 @@
+---
+tags: [playable-character]
+---
 
 Race: Dwarf
 Class: ???
@@ -10,5 +13,4 @@ Weight: ???
 
 
 ---
-
-#playable-character 
+ 

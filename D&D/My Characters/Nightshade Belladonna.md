@@ -1,4 +1,6 @@
-#character 
+---
+tags: [character]
+---
 
 CHARACTER: Nightshade/Belladonna
 FULL NAME: Sarah Beau-Kin

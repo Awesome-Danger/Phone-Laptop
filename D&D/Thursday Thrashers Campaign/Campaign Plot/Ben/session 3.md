@@ -1,3 +1,6 @@
+---
+tags: [plot]
+---
 
 - In the prison, Bjorn finds himself alone in a cell that's fireproof, and with a steel ball-and-chain shackled around his ankle. Bjorn finds a trained dog holding the keys; learns its shape to transform into it, making his fitted shackle fall off; calls the dog over to make a deal with it. The dog drops the keys, and [Bjorn sets everyone free,] and they get their gear back from nearby cubbies. The [king has taken all the gold,] however. After the dog sees Bjorn shift back into his dragonborn shape, takes off, and isn't seen again.
 - The *halls are strangely empty,* with no guards and not much light. The group goes down the hall toward a split and to the left, Bjorn and Ulfgar slightly see and hear this strange limping figure walking down the dark corridor. They meet the figure in the hallway, and as they come closer, they discover it's undead, and has many acid and fire burns. Bjorn realizes it's one of the [Browning Brothers' goons!] Bjorn kills him again, and the group continues exploring.
@@ -7,7 +10,6 @@
 **END**
 
 ---
-
-#plot 
+ 
 Previous: [[session 1-2]]
 Next: [[session 3]]

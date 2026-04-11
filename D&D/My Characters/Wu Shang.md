@@ -1,4 +1,6 @@
-#character 
+---
+tags: [character]
+---
 
 CHARACTER: Sensei Wu Shang  
 FULL NAME: Wu Tung Shang  

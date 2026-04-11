@@ -1,4 +1,6 @@
-#enemy
+---
+tags: [enemy]
+---
 
 D&D
 - An enemy that can't touch water.

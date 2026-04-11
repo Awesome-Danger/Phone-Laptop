@@ -1,3 +1,6 @@
+---
+tags: [plot]
+---
 
 - The king sends out a bounty for the Browning brothers for 500Gp Dead or Alive
 - We run into a man nearby who overhears us talking about the Browning brothers, and with -1Gp and some mercy, he gives us the location of a warehouse by the sewers.
@@ -12,6 +15,5 @@
 **END**
 
 ---
-
-#plot 
+ 
 Next: [[session 3]]

@@ -1,4 +1,6 @@
-#character 
+---
+tags: [character]
+---
 
 CHARACTER: Kuna Tai san  
 FULL NAME: Kuna Yun Tai  

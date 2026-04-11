@@ -1,3 +1,6 @@
+---
+tags: [DND, intro]
+---
 
 Places
 - a kingdom
@@ -13,5 +16,4 @@ Times
 - when something else ended
 
 ---
-
-#DND #intro 
+ 

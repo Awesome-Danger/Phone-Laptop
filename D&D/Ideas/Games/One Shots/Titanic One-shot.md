@@ -1,4 +1,6 @@
-#Call-of-Cthulhu Oneshot?
+---
+tags: [Call-of-Cthulhu]
+---Oneshot?
 
 Somebody onboard has been *infected with*, or *is* a Eldritch being that is causing strange happenings onboard the Titanic.
 
