@@ -1,1 +1,1 @@
-DM rolls *all* dice
+DM rolls all *skill check* dice
