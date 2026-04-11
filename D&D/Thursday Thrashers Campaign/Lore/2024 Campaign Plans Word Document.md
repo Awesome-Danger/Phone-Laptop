@@ -27,7 +27,7 @@ Powerful Items:
 
 ![[Poor Man’s Purse]]
 
-![[Vault/D&D/Thursday Thrashers Campaign/Items/Amulet of the Hydra]]
+![[Amulet of the Hydra]]
 
 ![[Amulet of Finesse]]
 
