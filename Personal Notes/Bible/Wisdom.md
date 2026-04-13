@@ -1,4 +1,14 @@
 
+> [!bible] [Proverbs 1:1-8 - ESV](https://www.biblegateway.com/passage/?search=Proverbs+1:1-8&version=esv)
+> <sup>1</sup> The proverbs of Solomon, son of David, king of Israel:
+> <sup>2</sup> To know wisdom and instruction, to understand words of insight,
+> <sup>3</sup> to receive instruction in wise dealing, in righteousness, justice, and equity;
+> <sup>4</sup> to give prudence to the simple, knowledge and discretion to the youth —
+> <sup>5</sup> Let the wise hear and increase in learning, and the one who understands obtain guidance,
+> <sup>6</sup> to understand a proverb and a saying, the words of the wise and their riddles.
+> <sup>7</sup> The fear of the LORD is the beginning of knowledge; fools despise wisdom and instruction.
+> <sup>8</sup> Hear, my son, your father's instruction, and forsake not your mother's teaching,
+
 > [!bible]+ [Proverbs 9:1-12 - ESV](https://www.biblegateway.com/passage/?search=Proverbs+9:1-12&version=esv)
 > <sup>1</sup> Wisdom has built her house; she has hewn her seven pillars.
 > <sup>2</sup> She has slaughtered her beasts; she has mixed her wine; she has also set her table.
