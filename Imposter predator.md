@@ -1,3 +1,3 @@
 A very deadly type of assassin that pretends to be a civilian, or part of a resistance against itself. 
 E.g.
-- anti-terminator group is fighting against the terminators, and main leader of the group is actually a special terminator himself, 
+- anti-terminator group is fighting against the terminators, and main leader of the group is actually a special terminator himself, having his life be threatened by terminators, but having leverage against them somehow. This type of terminator is only myth, as nobody knows what they look like, or act like, other than being very deadly, because nobody has ever survived an encounter with one. Sometimes when people are out with alone in missions, 
