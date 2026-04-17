@@ -39,3 +39,5 @@
 "A hockey game broke out in the middle of a fight" - Ian 2025
 
 "Great minds think alike... and so do ours." - Jeremiah 2025
+
+Me: If Jesus were 
