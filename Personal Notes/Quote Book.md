@@ -40,4 +40,4 @@
 
 "Great minds think alike... and so do ours." - Jeremiah 2025
 
-Me: If Jesus were 
+Me: If Jesus were a vegetable, what would he be? "Paraplegic." - Harmon
