@@ -21,7 +21,7 @@ going through the blizzard, you need warm clothes. Magic wouldn't hurt either. T
 
 - *you ride forward in the freezing, biting cold for what feels like hours, until suddenly, the horse stops.*
 - *before you stands a vast and tall 150ft wall wedged between two mountains. At the center of it lies a large gate (20x20ft)*
-- The gate has engravings on it, and some glyphs that you can't understand. They're relatively simple, but intricately weaved together to make a greater whole. At the center, there's a small, round indent in the stone; from it, there are grooves like veins emanating across the whole door. There are four braziers in a square, with two in front of the door, and two more 20ft away. None are lit, and each one has something different in it: snow, wood Oil, coal. 
+- The gate has engravings on it, and some glyphs that you can't understand. They're relatively simple, but intricately weaved together to make a greater whole. At the center, there's a small, round indent in the stone; from it, there are grooves like veins emanating across the whole door. There are four braziers in a square, with two in front of the door, and two more 20ft away. None are lit, and each one has something different in it: snow, frozen wood, oil, coal. 
 	- Putting [[The Ring of Brom]] inside the door will cause the door to burn bright with white light.
 		- **Slumbering**: The white light fades, and nothing happens.
 		- **Awakened**: The light turns blue, fades, then the door opens.
