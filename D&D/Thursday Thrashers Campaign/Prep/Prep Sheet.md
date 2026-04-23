@@ -19,7 +19,8 @@ going through the blizzard, you need warm clothes. Magic wouldn't hurt either. T
 
 ### Fort Reinhart
 
-
+- *you ride forward in the freezing, biting cold for what feels like hours, until suddenly, the horse stops.*
+- *before you stands a vast and tall wall appearing to be *
 
 ##
 [[a city of honor]].
