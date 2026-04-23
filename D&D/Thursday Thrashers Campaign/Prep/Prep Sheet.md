@@ -30,7 +30,8 @@ going through the blizzard, you need warm clothes. Magic wouldn't hurt either. T
 			- The thorns on the dragon seem to crown him; his maw is open, and breathing fire.
 			- The smooth dragon is slinking low on the ground, waiting to pounce. The wizard with a diadem in front of him has his staff raised, with what looks like a light emitting from it; next to him stands another man who looks similar to him, garmented in robes that appear to be of royalty.
 	- To solve the door puzzle without the ring, you need to dip some coal and wood in the oil, put them in the other braziers to light them, then wait.
-- The Gate opens, and just beyond it, you see a smooth wall in only 5ft past the door. The wall continues to both sides, from the entrace of the door 
+- The Gate opens, and just beyond it, you see a smooth wall in only 5ft past the door. The wall continues to both sides, from the entrance of the door, creating a small corridor, with a large curved turn.
+- 
 ##
 [[a city of honor]].
 
