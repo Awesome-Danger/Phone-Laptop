@@ -17,7 +17,7 @@ going through the blizzard, you need warm clothes. Magic wouldn't hurt either. T
 
 - [person] *calls out your name and reaches out towards you through the abyss*
 
-### Fort of Affirmadia
+### Fort 
 
 
 ##
