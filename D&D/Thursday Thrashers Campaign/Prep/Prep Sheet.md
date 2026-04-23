@@ -29,7 +29,7 @@ going through the blizzard, you need warm clothes. Magic wouldn't hurt either. T
 		- engraved artwork depicting two sides: on one side is a very thorny dragon with giant spiders and other monsters beneath him; on the other is another smooth scaled dragon with humanoids that appear to be wizards, foot-soldiers, archers, and the like surrounding him.
 			- The thorns on the dragon seem to crown him; his maw is open, and breathing fire.
 			- The smooth dragon is slinking low on the ground, waiting to pounce. The wizard with a diadem in front of him has his staff raised, with what looks like a light emitting from it; next to him stands another man who looks similar to him, garmented in robes that appear to be of royalty.
-	- To solve the door puzzle without the ring, you need to light the oil, wood 
+	- To solve the door puzzle without the ring, you need to light the oil, 
 ##
 [[a city of honor]].
 
