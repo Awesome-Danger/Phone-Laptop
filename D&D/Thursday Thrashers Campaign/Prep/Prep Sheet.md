@@ -21,7 +21,7 @@ going through the blizzard, you need warm clothes. Magic wouldn't hurt either. T
 
 - *you ride forward in the freezing, biting cold for what feels like hours, until suddenly, the horse stops.*
 - *before you stands a vast and tall 150ft wall wedged between two mountains. At the center of it lies a large gate (20x20ft)*
-- The gate has engravings on it, and some glyphs that you can't understand. They're relatively simple, but intricately weaved together to make a greater whole. At the center, there's a small, round indent in the stone; from it, there are grooves like veins emanating across the whole door. There are four braziers in a square, with two in front of the door, and two more 20ft away. None are lit, and one is filled with snow, one with wood, one with . The other 
+- The gate has engravings on it, and some glyphs that you can't understand. They're relatively simple, but intricately weaved together to make a greater whole. At the center, there's a small, round indent in the stone; from it, there are grooves like veins emanating across the whole door. There are four braziers in a square, with two in front of the door, and two more 20ft away. None are lit, and each one has something different in it: snow, wood Oil, coal. 
 	- Putting [[The Ring of Brom]] inside the door will cause the door to burn bright with white light.
 		- **Slumbering**: The white light fades, and nothing happens.
 		- **Awakened**: The light turns blue, fades, then the door opens.
@@ -29,7 +29,7 @@ going through the blizzard, you need warm clothes. Magic wouldn't hurt either. T
 		- engraved artwork depicting two sides: on one side is a very thorny dragon with giant spiders and other monsters beneath him; on the other is another smooth scaled dragon with humanoids that appear to be wizards, foot-soldiers, archers, and the like surrounding him.
 			- The thorns on the dragon seem to crown him; his maw is open, and breathing fire.
 			- The smooth dragon is slinking low on the ground, waiting to pounce. The wizard with a diadem in front of him has his staff raised, with what looks like a light emitting from it; next to him stands another man who looks similar to him, garmented in robes that appear to be of royalty.
-	- To solve the door puzzle without the ring, you need to put a 
+	- To solve the door puzzle without the ring, you need to light the oil, wood 
 ##
 [[a city of honor]].
 
