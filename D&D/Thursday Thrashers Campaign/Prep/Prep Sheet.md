@@ -20,7 +20,7 @@ going through the blizzard, you need warm clothes. Magic wouldn't hurt either. T
 ### Fort Reinhart
 
 - *you ride forward in the freezing, biting cold for what feels like hours, until suddenly, the horse stops.*
-- *before you stands a vast and tall 150ft wall wedged between two mountains*
+- *before you stands a vast and tall 150ft wall wedged between two mountains. At the top of it stands a woman*
 
 ##
 [[a city of honor]].
