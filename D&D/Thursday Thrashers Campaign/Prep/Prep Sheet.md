@@ -21,7 +21,7 @@ going through the blizzard, you need warm clothes. Magic wouldn't hurt either. T
 
 - *you ride forward in the freezing, biting cold for what feels like hours, until suddenly, the horse stops.*
 - *before you stands a vast and tall 150ft wall wedged between two mountains. At the center of it lies a large gate (20x20ft)*
-- The gate has 
+- The gate has engravings on it, and some glyphs that you can't understand. They're relatively simple, but intricately weaved together to make a greater whole. At the center, there's a small, round indent in the stone.
 
 ##
 [[a city of honor]].
