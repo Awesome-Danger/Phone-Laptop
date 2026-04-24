@@ -26,7 +26,5 @@ going through the blizzard, you need warm clothes. Magic wouldn't hurt either. T
 
 
 
-
-
 ---
 [[Important Character Details to Keep track of]]
