@@ -17,8 +17,8 @@ going through the blizzard, you need warm clothes. Magic wouldn't hurt either. T
 
 - [person] *calls out your name and reaches out towards you through the abyss*
 
-### Fort Reinhart
 
+Fort Reinhart
 - *you ride forward in the freezing, biting cold for what feels like hours, until suddenly, the horse stops.*
 - *before you stands a vast and tall 150ft wall wedged between two mountains. At the center of it lies a large gate (20x20ft)*
 - The gate has engravings on it, and some glyphs that you can't understand. They're relatively simple, but intricately weaved together to make a greater whole. At the center, there's a small, round indent in the stone; from it, there are grooves like veins emanating across the whole door. There are four braziers in a square, with two in front of the door, and two more 20ft away. One is lit, and each one has something different in it: magical fire(?), frozen wood, oil, coal. 
