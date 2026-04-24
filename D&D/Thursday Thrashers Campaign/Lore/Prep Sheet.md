@@ -20,7 +20,7 @@ going through the blizzard, you need warm clothes. Magic wouldn't hurt either. T
 
 ![[Entrance to Fort Reinhart]]
 
-
+1
 ![[Entrance to Fort Reinhart]]
 
 [[a city of honor]].
