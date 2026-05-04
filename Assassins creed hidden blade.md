@@ -1,0 +1,1 @@
+Mechanism that uses electric pads that detect muscle contractions (specific muscles). Configure version muscles to activate the blade (e.g., version hand gesture, position, or grip of specific tensity).
