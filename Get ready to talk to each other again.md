@@ -1,3 +1,3 @@
-Both of you don't say another word to each other unless it's "I love you." If one of you starts by saying "I love you," the other must say "I love you." Do this 3 times back to back to back, each with a drop breath in between saying it each time. Until that happens *in full*, don't say another word to each other.
+Both of you don't say another word to each other unless it's "I love you." If one of you starts by saying "I love you," the other must say "I love you." Do this 3 times back to back to back, each with a drop breath in between saying it each time, and do that each of you have said "I love you" three times to the other. Until that happens *in full*, don't say another word to each other.
 
 This doesn't happen cumulatively, it's all at once, but meaningfully.
