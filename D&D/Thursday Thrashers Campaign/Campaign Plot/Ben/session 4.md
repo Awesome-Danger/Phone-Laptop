@@ -29,6 +29,6 @@ BJORN
 
 ---
 
-Previous: [[session 3]]
+Previous: [[Phone + Laptop/D&D/Thursday Thrashers Campaign/Campaign Plot/Ben/session 3]]
 Next: [[session 10]]
 

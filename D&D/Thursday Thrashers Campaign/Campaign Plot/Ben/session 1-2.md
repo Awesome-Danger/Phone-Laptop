@@ -16,4 +16,4 @@ tags: [plot]
 
 ---
  
-Next: [[session 3]]
+Next: [[Phone + Laptop/D&D/Thursday Thrashers Campaign/Campaign Plot/Ben/session 3]]

@@ -27,7 +27,7 @@
 - [[lump of coal]]
 
 ### Experiences
-- currently not a part of the party. [[2nd session]]
+- currently not a part of the party. [[Session 2]]
 - 
 
 ## Rowan
