@@ -1,5 +1,5 @@
 
-[[Entrance to Fort Reinhart]].
+![[Entrance to Fort Reinhart]]
 
 [[a city of honor]].
 [[Affirmadia]].

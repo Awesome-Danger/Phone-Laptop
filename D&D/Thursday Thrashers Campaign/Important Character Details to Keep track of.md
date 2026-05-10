@@ -7,7 +7,7 @@
 - [[Quartz Earring]]
 
 ### Experiences
-- has unknowingly met [[Belgabad]]
+- has unknowingly met [[Belgabad]] while he was in the form of a stag.
 - ring = 50/100 health
 ## Ulfgar
 
