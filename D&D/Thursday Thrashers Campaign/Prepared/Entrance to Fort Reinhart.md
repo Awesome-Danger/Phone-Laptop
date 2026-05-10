@@ -7,3 +7,4 @@ The door slams open, and you see a bunch of people gather around you, gathering 
 	As you walk through, you see in the cells, creatures: Giant Spiders, Constructs, Bears, Wolves, Snakes, and some kinds of reptiles. All of them flare at you while you're escorted in a single file line through the corridors.
 	She turns around to her soldiers, and says "I'll see you out there. You will either live, and be accepted within these walls; die, and have your corpses eaten, or you can quit, and I'll personally kick your hide out to the Blizzard outside these walls. Good luck, you'll need it." She turns and walks away through a set of doors, and closes them behind her.
 	You walk out into a courtyard covered in sand, but no snow. There are walls surrounding you, and a large metal barred gate at each wall. You realize this is an arena. You see Captain Brandy standing at the end on top of the walls, watching you. The gate across opens...
+ 
