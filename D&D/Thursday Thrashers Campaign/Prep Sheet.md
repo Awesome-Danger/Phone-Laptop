@@ -12,13 +12,9 @@ going through the blizzard, you need warm clothes. Magic wouldn't hurt either. T
 ### Lost Souls Attack
 
 [[Lost Souls]]
-- Rowan's mom
-- Bjorn
+- *Bjorn calls out your name and reaches out towards you through the abyss*
 
-- [person] *calls out your name and reaches out towards you through the abyss*
-
-[[Phone + Laptop/D&D/Entrance to Fort Reinhart]]
-
+[[Entrance to Fort Reinhart]].
 [[a city of honor]].
 
 
