@@ -13,5 +13,6 @@ going through the blizzard, you need warm clothes. Magic wouldn't hurt either. T
 - *Bjorn calls out your name and reaches out towards you through the abyss*
 
 ### Player's actions
-- The players kill the Lost Souls that took the shape of Bjorn; [[Ulfgar]] scoops up a little bit of the lost souls in a bottle, and takes it with him.
-- [[Rowan]] continues driving the cart into the white abyss, following the horses. 
+- The players see through the Lost Souls' disguise of Bjorn, and kill it.
+- [[Ulfgar]] scoops up a little bit of the lost souls in a bottle, and takes it with him.
+- [[Rowan]] continues driving the cart into the white abyss, following the horses, while [[Theodosia|Thea]] and Ulfgar are trying to stay warm in the back

@@ -1,5 +1,8 @@
 ---
-tags: [playable-character]
+tags:
+  - playable-character
+aliases:
+  - Thea
 ---
 Shelby
 

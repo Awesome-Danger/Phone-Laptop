@@ -1,10 +1,8 @@
-[[III (Yellow)]].
-[[Affirmadia]].
-
 
 [[Entrance to Fort Reinhart]].
-[[a city of honor]].
 
+[[a city of honor]].
+[[Affirmadia]].
 
 
 ---
