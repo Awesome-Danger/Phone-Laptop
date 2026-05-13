@@ -13,6 +13,7 @@ girlfriend
 - aware
 - not arrogant
 - won't lead me astray
+- not a gossiper
 
 wife
 - runs towards God
