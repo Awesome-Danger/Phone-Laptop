@@ -1,0 +1,7 @@
+- Boot USB → connect wifi via iwctl
+	- `station wlan0 scan && station wlan0 connect HU-Student`
+- `mount /dev/nvme0n1p3 /mnt && mount /dev/nvme0n1p1 /mnt/boot`
+- `arch-chroot /mnt`
+- `pacman -S linux linux-headers`
+- `grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=GRUB --removable`
+- `grub-mkconfig -o /boot/grub/grub.cfg`
