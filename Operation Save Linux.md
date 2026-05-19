@@ -5,3 +5,5 @@
 - `pacman -S linux linux-headers`
 - `grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=GRUB --removable`
 - `grub-mkconfig -o /boot/grub/grub.cfg`
+- `exit 
+- `reboot`
