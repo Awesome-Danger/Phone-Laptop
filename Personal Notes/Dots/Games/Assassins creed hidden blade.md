@@ -9,4 +9,12 @@ logic gates?
 - a mechanism that constantly actively disarms it, and arms it when the function becomes passive (off unless button is no longer pressed) [NOT gate, or Inverter]
 - mechanism arms it while mechanism is activated (on while button is held down)[two input AND gate]
 
-- what if it's ACTUALLY a circuit? complete the circuit with your fingers, and it activates
+- what if it's ACTUALLY a circuit? complete the circuit with your fingers, and it arms/releases the hold when it's completed? 
+- Two metal pads:
+
+| Finger one | Finger two                       | optimal combo |
+| ---------- | -------------------------------- | ------------- |
+| thumb pad  | pinky pad                        | ☆             |
+| thumb pad  | back of middle finger (fist)     |               |
+| thumb pad  | back of ring finger (weird fist) |               |
+| thumb pad  |                                  |               |
