@@ -1,1 +1,1 @@
-Did dad's smoking, drinking, porn, and lying make your feel special, or wanted, or loved? Did him 
+Did dad's smoking, drinking, porn, and lying make your feel special, or wanted, or loved? Did him telling you
