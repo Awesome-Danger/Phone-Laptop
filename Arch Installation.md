@@ -1,5 +1,7 @@
-
-mount
+### mount
+`mount /dev/sda2 /mnt`
+`mount /dev/sda1 /mnt/boot`
+`swapon /dev/sda3`
 
 ## Packages
 - **base**
@@ -7,7 +9,7 @@ mount
 - **linux-headers**
 - **linux-firmware**
 - **grub**
-- **network manager**
+- **networkmanager**
 - efibootmgr
 - git
 - nano
@@ -22,7 +24,7 @@ mount
 - sddm
 - openssh
 - pipewire
-- 
+- plasma (but I actually want hyprland)
 
 
 
