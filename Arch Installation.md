@@ -7,6 +7,7 @@
 - **linux-firmware**
 - **grub**
 - **network manager**
+- efibootm
 - git
 - nano
 - sudo
