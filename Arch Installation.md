@@ -24,8 +24,8 @@
 - sddm
 - openssh
 - pipewire
-- plasma (but I actually want hyprland)
-
-
-
-
+- amd-ucode or intel-ucode
+- nvidia-open
+- nvidia-utils
+- nvidia-settings
+- hyprland
