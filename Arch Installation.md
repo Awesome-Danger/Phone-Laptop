@@ -14,6 +14,15 @@
 - python
 - nemo
 - firefox 
+- curl
+- fish
+- kitty
+- nemo
+- sddm
+- openssh
+- pipewire
 - 
+
+
 
 
