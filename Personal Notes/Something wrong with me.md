@@ -15,10 +15,10 @@ This made me realize that for someone to reject my heart so often, there needs t
 4. the fourth gets eaten (good), but then spat out, and thrown hard against a wall
 	- accepted, then rejected; given hope, then despair
 5. the fifth heart is presented, and accepted. But then it's inflated with goo (It doesn't explode) then is punctured or lacerated several times; goo oozing out, and getting everywhere. Then it's cleaned up, and filled again.
-	- the heart is accepted, but gets hurt afterwards, barely surviving. Then it 
+	- the heart is accepted, but gets hurt afterwards, barely surviving. Then it recovers, but still has wounds.
 
 This is how each and every time I put my heart out there goes. And yet, I keep putting it out there, because I've kept it too long. But this has made me realize that there must be something that makes everyone reject it in some way. 
-There's a number of things it could be. But the reason why my brother rejects me is probably different than the reason My girlfriend would. The reason one friend would, might be different than why another does. Emery could point out a dozen things about me being annoying, and inconsiderate towards others (which is likely true to at least some degree, like with family), but my friends could make the opposite point.
+There's a number of things it could be. But the reason why my brother rejects me is probably different than the reason my girlfriend would. The reason one friend would, might be different than why another does. Emery could point out a dozen things about me being annoying, and inconsiderate towards others (which is likely true to at least some degree, like with family), but my friends could make the opposite point.
 - So how do I figure out what it is?
 - what's the common denominator?
 	- how do I find *that* out?
@@ -26,6 +26,7 @@ There's a number of things it could be. But the reason why my brother rejects me
 Well, at what point do people tend to reject me?
 - when I am emotional
 	- **both** when too invested, OR too distressed
+- when I get too comfortable, or careless
 What event; why | felt what?
 - Mom smoking; I fought back | felt overwhelmed/stressed/betrayed
 - Rachel distance; too invested/oversharing/casting problems? | felt very invested
