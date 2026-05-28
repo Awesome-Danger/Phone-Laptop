@@ -14,7 +14,7 @@ This made me realize that for someone to reject my heart so often, there needs t
 	- the emotions were too much to handle
 4. the fourth gets eaten (good), but then spat out, and thrown hard against a wall
 	- accepted, then rejected; given hope, then despair
-5. the fifth heart is presented, and accepted. But then it's inflated with goo (It doesn't explode) then is punctured or lacerated several times; goo oozing out, and getting everywhere.
+5. the fifth heart is presented, and accepted. But then it's inflated with goo (It doesn't explode) then is punctured or lacerated several times; goo oozing out, and getting everywhere. Then it's cleaned up, and
 	- the heart is accepted, but gets hurt afterwards, barely surviving.
 
 This is how each and every time I put my heart out there goes. And yet, I keep putting it out there, because I've kept it too long. But this has made me realize that there must be something that makes everyone reject it in some way. 
