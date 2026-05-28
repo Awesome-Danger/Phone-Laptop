@@ -27,15 +27,16 @@ Well, at what point do people tend to reject me?
 - when I am emotional
 	- **both** when too invested, OR too distressed
 - when I get too comfortable, or careless
+
 What event; why | felt what?
 - Mom smoking; I fought back | felt overwhelmed/stressed/betrayed
 - Rachel distance; too invested/oversharing/casting problems? | felt very invested
-- Victoria breakup; Family felt something is wrong with her/I pulled her farther from God | felt very invested
+- Victoria breakup; Family felt something is wrong with her/I pulled her farther from God | felt very invested/attracted
 - Calyn; lack of communication skills (on both sides)/different languages/no understanding | felt very distressed and frustrated
-- Katrina/Heather+Spencer+Trotter+Jeremiah no longer want to be friends; though I was being rude, dishonest, and only after the girls in the group/wasn't trying hard enough | I felt guilty, distressed, slandered, hurt, frustrated with myself/very invested
-- Heather split; I offended her via her brother/different religious backgrounds | I felt frustrated with myself, guilty/very invested
+- Katrina/Heather+Spencer+Trotter+Jeremiah no longer want to be friends; thought I was being rude, dishonest, and only after the girls in the group/wasn't trying hard enough | I felt guilty, distressed, slandered, hurt, frustrated with myself/very invested
+- Heather split; I offended her via her brother/different religious backgrounds | I felt frustrated with myself/guilty/very invested
 
 I feel that Emery is right in the sense that I at least often overlook my family's stressors, and I'm not entirely sure if that's because of:
 1. a disposition I have towards them now
-2. a general oversight for everyone, or
-3. my stress level being too high to care while at home
+2. a general oversight for everyone
+3. my stress/pain level being too high to care while at home
