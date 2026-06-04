@@ -1,5 +1,6 @@
 we do Christian things not to *be* Christian, but because we *are* Christian.
-- how does this play into our heart, and our new heart?
+how does this play into our heart, and our new heart?
+###### Scriptures
 > [!bible]+ [Jeremiah 17:9 - ESV](https://www.biblegateway.com/passage/?search=Jeremiah+17:9&version=esv)
 > <sup>9</sup> The heart is deceitful above all things, and desperately sick; who can understand it?
 
@@ -13,4 +14,4 @@ we do Christian things not to *be* Christian, but because we *are* Christian.
 > [!bible]+ [Proverbs 14:12 - ESV](https://www.biblegateway.com/passage/?search=Proverbs+14:12&version=esv)
 > <sup>12</sup> There is a way that seems right to a man, but its end is the way to death.
 
-
+######
