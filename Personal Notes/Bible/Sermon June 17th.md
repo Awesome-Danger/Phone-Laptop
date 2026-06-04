@@ -1,0 +1,1 @@
+we do Christian things not to *be* Christian, but because we *are* Christian.
