@@ -55,3 +55,16 @@ how does this play into our heart, and our new heart?
 > <sup>36</sup> How much you go about, changing your way! You shall be put to shame by Egypt as you were put to shame by Assyria.
 > <sup>37</sup> From it too you will come away with your hands on your head, for the LORD has rejected those in whom you trust, and you will not prosper by them.
 
+> [!bible] [Jeremiah 18:1-11 - ESV](https://www.biblegateway.com/passage/?search=Jeremiah+18:1-11&version=esv)
+> <sup>1</sup> The word that came to Jeremiah from the LORD:
+> <sup>2</sup> “Arise, and go down to the potter's house, and there I will let you hear  my words.”
+> <sup>3</sup> So I went down to the potter's house, and there he was working at his wheel.
+> <sup>4</sup> And the vessel he was making of clay was spoiled in the potter's hand, and he reworked it into another vessel, as it seemed good to the potter to do.
+> <sup>5</sup> Then the word of the LORD came to me:
+> <sup>6</sup> “O house of Israel, can I not do with you as this potter has done? declares the LORD. Behold, like the clay in the potter's hand, so are you in my hand, O house of Israel.
+> <sup>7</sup> If at any time I declare concerning a nation or a kingdom, that I will pluck up and break down and destroy it,
+> <sup>8</sup> and if that nation, concerning which I have spoken, turns from its evil, I will relent of the disaster that I intended to do to it.
+> <sup>9</sup> And if at any time I declare concerning a nation or a kingdom that I will build and plant it,
+> <sup>10</sup> and if it does evil in my sight, not listening to my voice, then I will relent of the good that I had intended to do to it.
+> <sup>11</sup> Now, therefore, say to the men of Judah and the inhabitants of Jerusalem: ‘Thus says the LORD, Behold, I am shaping disaster against you and devising a plan against you. Return, every one from his evil way, and amend your ways and your deeds.’
+
