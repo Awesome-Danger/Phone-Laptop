@@ -55,7 +55,7 @@ how does this play into our heart, and our new heart?
 > <sup>36</sup> How much you go about, changing your way! You shall be put to shame by Egypt as you were put to shame by Assyria.
 > <sup>37</sup> From it too you will come away with your hands on your head, for the LORD has rejected those in whom you trust, and you will not prosper by them.
 
-> [!bible] [Jeremiah 18:1-11 - ESV](https://www.biblegateway.com/passage/?search=Jeremiah+18:1-11&version=esv)
+> [!bible]+ [Jeremiah 18:1-11 - ESV](https://www.biblegateway.com/passage/?search=Jeremiah+18:1-11&version=esv)
 > <sup>1</sup> The word that came to Jeremiah from the LORD:
 > <sup>2</sup> “Arise, and go down to the potter's house, and there I will let you hear  my words.”
 > <sup>3</sup> So I went down to the potter's house, and there he was working at his wheel.
