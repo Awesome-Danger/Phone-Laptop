@@ -1,1 +1,1 @@
-[Bjorn hurls Ulfgar through the light with all his might, and stays behind. As the light fades, he's left at the monument that once shifted, and moved, but is now still.]
+[Bjorn hurls Ulfgar through the light with all his might, and stays behind. As the light fades, he's left at the monument that once shifted, and moved, but is now still. Bjorn decides to take a short rest, then heads off.]
