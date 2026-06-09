@@ -1,5 +1,12 @@
-we do Christian things not to *be* Christian, but because we *are* Christian.
-how does this play into our heart, and our new heart?
+###### Themes 
+
+- we do Christian things not to *be* Christian, but because we *are* Christian.
+	- how does this play into our heart, and our new heart?
+- casting lots for God in His name
+- his last command, our first priority
+- the science and reason behind the details of the Bible, and God's choices and laws
+- wisdom from anything
+- 
 ###### Scriptures
 > [!bible]+ [Jeremiah 17:9 - ESV](https://www.biblegateway.com/passage/?search=Jeremiah+17:9&version=esv)
 > <sup>9</sup> The heart is deceitful above all things, and desperately sick; who can understand it?
