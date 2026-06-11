@@ -25,7 +25,7 @@
 ### Who Am I?
 
 - labeling theory
-	- Identity shaped by surroundings/other people
+	- Identity shaped by surroundings, other people, or even yourself
 - question every college student asks themself: *who am I?*
 - identity in Christ
 - identity in world
