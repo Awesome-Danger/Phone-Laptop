@@ -32,7 +32,7 @@ Influence on identity
 	- myself
 		- what I tell myself
 		- what I tell other people
-	- family/friends/others
+	- family/friends/others`
 		- what they tell me I am
 			- *"you'll never be [INSERT]"*
 			- *"you're not [INSERT"*
