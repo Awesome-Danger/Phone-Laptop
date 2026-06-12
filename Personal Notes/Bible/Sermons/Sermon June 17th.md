@@ -24,12 +24,16 @@
 
 ### Who Am I?
 
-- labeling theory
-	- stuttering children experiment
-	- identity shaped by surroundings, other people, or even yourself
-- question every college student asks themself: *who am I?*
+Influence on identity
+- identity shaped by surroundings, other people, or even yourself
+	- labeling theory
+		- stuttering children experiment
+		- be careful what you say (*be careful little mouth what you say*)
+Questions of identity
+- the question every college student asks themself: *who am I?*
+	- what do my actions say?
+	- 
 - identity in Christ
 - identity in world
-- wearing masks
-	- wearing your face instead of a mask
-- 
+- the masks we wear
+	- wearing your real face instead of a mask
