@@ -25,14 +25,29 @@
 ### Who Am I?
 
 Influence on identity
-- identity shaped by surroundings, other people, or even yourself
-	- labeling theory
-		- stuttering children experiment
-		- be careful what you say (*be careful little mouth what you say*)
+- identity shaped by:
+	- culture
+		- cultural values
+		- what society tells me I can/can't be
+	- myself
+		- what I tell myself
+		- what I tell other people
+	- family/friends/others
+		- what they tell me I am
+			- *"you'll never be [INSERT]"*
+			- *"you're not [INSERT"*
+				- Jeremiah
+- labeling theory
+	- stuttering children experiment
+	- be careful what you say (*be careful little mouth what you say*)
+	- how do you think this affected Jews/Paul/Jesus/Judas?
 Questions of identity
 - the question every college student asks themself: *who am I?*
-	- what do my actions say?
-	- 
+	- **Tend to ask ourselves:** 
+		- what do I say to people?
+		- what do my actions tell me?
+	- **Need to ask ourselves:**
+		- 
 - identity in Christ
 - identity in world
 - the masks we wear
