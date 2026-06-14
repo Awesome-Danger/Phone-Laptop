@@ -27,6 +27,7 @@ Influence on identity
 	- *Who am I really? Am I the person I thought I was?*
 	- *Who do I want to be? Why do I want to be that now?* 
 	- *Why did I want to be the other thing? what made me think I was that?"*
+- revelation of *"I suck!"*
 
 **The Jahhari Window**
 
@@ -55,6 +56,7 @@ identity in Christ
 
  identity in world
  - Jeremiah 17:9-10
+ - 1Cor 1
 - tend to fit in *[tend to be a chameleon]*
 	- the masks we wear
 	- become different people around certain groups/individuals
