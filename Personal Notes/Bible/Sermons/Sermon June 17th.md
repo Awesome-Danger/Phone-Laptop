@@ -69,3 +69,30 @@ humility is *"who am I?"*
 who's are you? God's or Satan's?
 
 > so, who are you? are you who you think you are? are you one of God's chosen? have you been baptized?
+
+# Who Am I? (Scripture Based)
+> [!bible]+ [1 John 2:3-6, 9-11, 15-20, 26-29 - ESV](https://www.biblegateway.com/passage/?search=1%20John+2:3-6&version=esv)
+> <sup>3</sup> And by this we know that we have come to know him, if we keep his commandments.
+> <sup>4</sup> Whoever says “I know him” but does not keep his commandments is a liar, and the truth is not in him,
+> <sup>5</sup> but whoever keeps his word, in him truly the love of God is perfected. By this we may know that we are in him:
+> <sup>6</sup> whoever says he abides in him ought to walk in the same way in which he walked.
+>
+> ---
+> <sup>9</sup> Whoever says he is in the light and hates his brother is still in darkness.
+> <sup>10</sup> Whoever loves his brother abides in the light, and in him  there is no cause for stumbling.
+> <sup>11</sup> But whoever hates his brother is in the darkness and walks in the darkness, and does not know where he is going, because the darkness has blinded his eyes.
+>
+> ---
+> <sup>15</sup> Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him.
+> <sup>16</sup> For all that is in the world — the desires of the flesh and the desires of the eyes and pride of life  — is not from the Father but is from the world.
+> <sup>17</sup> And the world is passing away along with its desires, but whoever does the will of God abides forever.
+> <sup>18</sup> Children, it is the last hour, and as you have heard that antichrist is coming, so now many antichrists have come. Therefore we know that it is the last hour.
+> <sup>19</sup> They went out from us, but they were not of us; for if they had been of us, they would have continued with us. But they went out, that it might become plain that they all are not of us.
+> <sup>20</sup> But you have been anointed by the Holy One, and you all have knowledge.
+>
+> ---
+> <sup>26</sup> I write these things to you about those who are trying to deceive you.
+> <sup>27</sup> But the anointing that you received from him abides in you, and you have no need that anyone should teach you. But as his anointing teaches you about everything, and is true, and is no lie — just as it has taught you, abide in him.
+> <sup>28</sup> And now, little children, abide in him, so that when he appears we may have confidence and not shrink from him in shame at his coming.
+> <sup>29</sup> If you know that he is righteous, you may be sure that everyone who practices righteousness has been born of him.
+
