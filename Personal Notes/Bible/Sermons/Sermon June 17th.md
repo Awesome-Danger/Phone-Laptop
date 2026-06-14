@@ -96,3 +96,15 @@ who's are you? God's or Satan's?
 > <sup>28</sup> And now, little children, abide in him, so that when he appears we may have confidence and not shrink from him in shame at his coming.
 > <sup>29</sup> If you know that he is righteous, you may be sure that everyone who practices righteousness has been born of him.
 
+> [!bible]+ [1 John 3:1-10 - ESV](https://www.biblegateway.com/passage/?search=1%20John+3:1-10&version=esv)
+> <sup>1</sup> See what kind of love the Father has given to us, that we should be called children of God; and so we are. The reason why the world does not know us is that it did not know him.
+> <sup>2</sup> Beloved, we are God's children now, and what we will be has not yet appeared; but we know that when he appears  we shall be like him, because we shall see him as he is.
+> <sup>3</sup> And everyone who thus hopes in him purifies himself as he is pure.
+> <sup>4</sup> Everyone who makes a practice of sinning also practices lawlessness; sin is lawlessness.
+> <sup>5</sup> You know that he appeared in order to take away sins, and in him there is no sin.
+> <sup>6</sup> No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him.
+> <sup>7</sup> Little children, let no one deceive you. Whoever practices righteousness is righteous, as he is righteous.
+> <sup>8</sup> Whoever makes a practice of sinning is of the devil, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil.
+> <sup>9</sup> No one born of God makes a practice of sinning, for God's  seed abides in him; and he cannot keep on sinning, because he has been born of God.
+> <sup>10</sup> By this it is evident who are the children of God, and who are the children of the devil: whoever does not practice righteousness is not of God, nor is the one who does not love his brother.
+
