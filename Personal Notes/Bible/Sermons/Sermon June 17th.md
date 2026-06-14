@@ -1,28 +1,7 @@
-###### Themes 
+# Who Am I?
 
-- we do Christian things not to *be* Christian, but because we *are* Christian.
-	- how does this play into our heart, and our new heart?
-- casting lots for God in His name
-- his last command, our first priority
-- the science and reason behind the details of the Bible, and God's choices and laws
-- wisdom from anything
-- **WHO AM I?**
-###### Scriptures
-> [!bible]+ [Jeremiah 17:9 - ESV](https://www.biblegateway.com/passage/?search=Jeremiah+17:9&version=esv)
-> <sup>9</sup> The heart is deceitful above all things, and desperately sick; who can understand it?
-
-> [!bible]+ [Genesis 6:5 - ESV](https://www.biblegateway.com/passage/?search=Genesis+6:5&version=esv)
-> <sup>5</sup> The LORD saw that the wickedness of man was great in the earth, and that every intention of the thoughts of his heart was only evil continually.
-
-> [!bible]+ [Matthew 15:18-19 - ESV](https://www.biblegateway.com/passage/?search=Matthew+15:18-19&version=esv)
-> <sup>18</sup> But what comes out of the mouth proceeds from the heart, and this defiles a person.
-> <sup>19</sup> For out of the heart come evil thoughts, murder, adultery, sexual immorality, theft, false witness, slander.
-
-> [!bible]+ [Proverbs 14:12 - ESV](https://www.biblegateway.com/passage/?search=Proverbs+14:12&version=esv)
-> <sup>12</sup> There is a way that seems right to a man, but its end is the way to death.
-
-
-### Who Am I?
+Opening scripture:
+--1John
 
 Influence on identity
 - identity shaped by:
@@ -56,8 +35,6 @@ Influence on identity
 | Known to Others   | *arena*       | *blind spot*   |
 | Unknown to Others | *facade/mask* | *unknown*      |
 
-
-
 identifying ourselves
 - **Tend to ask ourselves:** 
 	- what do I tell to people/identify as? (good)
@@ -67,10 +44,15 @@ identifying ourselves
 	- who does God say I am? (truth)
 	- what do my fruits say about me? (truth)
 
+#### Scriptures
+--1John
+
 identity in Christ
 	![[God's Belongings]]
 - is your faith your own?
 - did your faith become your own, or your preacher's?
+- some people think that coming to church every once in a while is good enough to be saved. Your salvation isn't here. Your salvation is with Christ. What *is* here, is safety from the lion, and encouragement; both *for* and *from* you.
+
  identity in world
 - tend to fit in *[tend to be a chameleon]*
 	- the masks we wear
@@ -81,8 +63,9 @@ wear your real face instead of a mask.
 - being "naked" with each other
 - show a little wrist, a little ankle. don't hide everything
 
-pride is *"who are you...?! I am...!"* pride makes us blind.
+pride is *"who are you...?!* pride makes us blind.
 humility is *"who am I?"*
 
+who's are you? God's or Satan's?
 
 > so, who are you? are you who you think you are? are you one of God's chosen? have you been baptized?
