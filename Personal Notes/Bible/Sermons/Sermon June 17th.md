@@ -34,6 +34,7 @@ Influence on identity
 - revelation of *"I suck!"*
 
 **The Jahhari Window**:
+wd
 
 |                   | Known to you  | Unknown to you |
 | ----------------- | ------------- | -------------- |
