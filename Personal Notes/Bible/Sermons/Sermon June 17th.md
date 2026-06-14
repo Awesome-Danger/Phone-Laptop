@@ -1,7 +1,11 @@
 # Who Am I?
 
 Opening scripture:
---1John
+> [!bible]+ [1 John 5:1-4 - ESV](https://www.biblegateway.com/passage/?search=1%20John+5:1-4&version=esv)
+> <sup>1</sup> Everyone who believes that Jesus is the Christ has been born of God, and everyone who loves the Father loves whoever has been born of him.
+> <sup>2</sup> By this we know that we love the children of God, when we love God and obey his commandments.
+> <sup>3</sup> For this is the love of God, that we keep his commandments. And his commandments are not burdensome.
+> <sup>4</sup> For everyone who has been born of God overcomes the world. And this is the victory that has overcome the world — our faith.
 
 Influence on identity
 - identity shaped by:
@@ -14,13 +18,13 @@ Influence on identity
 	- family/friends/others`
 		- what they tell me I am
 			- *"you'll never be [INSERT]"*
-			- *"you're not [INSERT"*
-				- Jeremiah
+			- *"you're not [INSERT]"*
+				- Jesus thought of to be false
 - labeling theory
 	- stuttering children experiment
 	- be careful what you say (*be careful little mouth what you say*)
 	- how do you think this affected Jews/Paul/Jesus/Judas?
-
+		- Judas wasn't treated any differently from the other apostles.
 #### Questions of identity
 - the question every college student asks themself: *who am I?*
 	- College will **humble** you by striking your identity in all its most vulnerable places, and tear down your defences, making you ask yourself: 
@@ -29,7 +33,7 @@ Influence on identity
 	- *Why did I want to be the other thing? what made me think I was that?"*
 - revelation of *"I suck!"*
 
-**The Jahhari Window**
+**The Jahhari Window**:
 
 |                   | Known to you  | Unknown to you |
 | ----------------- | ------------- | -------------- |
