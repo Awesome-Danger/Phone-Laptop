@@ -70,7 +70,7 @@ who's are you? God's or Satan's?
 
 > so, who are you? are you who you think you are? are you one of God's chosen? have you been baptized?
 
-# Who Am I? (Scripture Based)
+# Who Am I? (More Expositional)
 > [!bible]+ [1 John 2:3-6, 9-11, 15-20, 26-29 - ESV](https://www.biblegateway.com/passage/?search=1%20John+2:3-6&version=esv)
 > <sup>3</sup> And by this we know that we have come to know him, if we keep his commandments.
 > <sup>4</sup> Whoever says “I know him” but does not keep his commandments is a liar, and the truth is not in him,
@@ -95,6 +95,10 @@ who's are you? God's or Satan's?
 > <sup>27</sup> But the anointing that you received from him abides in you, and you have no need that anyone should teach you. But as his anointing teaches you about everything, and is true, and is no lie — just as it has taught you, abide in him.
 > <sup>28</sup> And now, little children, abide in him, so that when he appears we may have confidence and not shrink from him in shame at his coming.
 > <sup>29</sup> If you know that he is righteous, you may be sure that everyone who practices righteousness has been born of him.
+
+- we know Him if we keep His commandments.
+	- do we keep His commandments?
+- the love of God is in you 
 
 > [!bible]+ [1 John 3:1-10 - ESV](https://www.biblegateway.com/passage/?search=1%20John+3:1-10&version=esv)
 > <sup>1</sup> See what kind of love the Father has given to us, that we should be called children of God; and so we are. The reason why the world does not know us is that it did not know him.
