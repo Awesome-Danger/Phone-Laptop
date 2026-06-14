@@ -41,23 +41,48 @@ Influence on identity
 	- stuttering children experiment
 	- be careful what you say (*be careful little mouth what you say*)
 	- how do you think this affected Jews/Paul/Jesus/Judas?
-Questions of identity
+
+#### Questions of identity
 - the question every college student asks themself: *who am I?*
-	- **Tend to ask ourselves:** 
-		- what do I tell to people/identify as? (good)
-		- what do my actions say about me? (good)
-		- what do other people say I am? (good)
-	- **Need to ask ourselves:**
-		- who does God say I am? (truth)
-		- what do my fruits say about me? (truth)
-- identity in Christ
+	- College will **humble** you by striking your identity in all its most vulnerable places, and tear down your defences, making you ask yourself: 
+	- *Who am I really? Am I the person I thought I was?*
+	- *Who do I want to be? Why do I want to be that now?* 
+	- *Why did I want to be the other thing? what made me think I was that?"*
+
+**The Jahhari Window**
+
+|                   | Known to you  | Unknown to you |
+| ----------------- | ------------- | -------------- |
+| Known to Others   | *arena*       | *blind spot*   |
+| Unknown to Others | *facade/mask* | *unknown*      |
+
+
+
+identifying ourselves
+- **Tend to ask ourselves:** 
+	- what do I tell to people/identify as? (good)
+	- what do my actions say about me? (good)
+	- what do other people say I am? (good)
+- **Need to ask ourselves:**
+	- who does God say I am? (truth)
+	- what do my fruits say about me? (truth)
+
+identity in Christ
 	![[God's Belongings]]
-	- is your faith your own?
-	- did your faith become your own, or your preacher's?
-- identity in world
-	- try to fit in *[tend to be a chameleon]*
-- the masks we wear
+- is your faith your own?
+- did your faith become your own, or your preacher's?
+ identity in world
+- tend to fit in *[tend to be a chameleon]*
+	- the masks we wear
 	- become different people around certain groups/individuals
 	- lie to *others* about who we are
 	- lie to *ourselves* about who we are
-	- wearing your real face instead of a mask
+wear your real face instead of a mask. 
+- being "naked" with each other
+- show a little wrist, a little ankle. don't hide everything
+
+pride is *"who are you...?! I am...!"* pride makes us blind.
+humility is *"who am I?"*
+
+
+> so, who are you? are you who you think you are? are you one of God's chosen? have you been baptized?
