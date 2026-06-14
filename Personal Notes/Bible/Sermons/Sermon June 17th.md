@@ -54,6 +54,7 @@ identity in Christ
 - some people think that coming to church every once in a while is good enough to be saved. Your salvation isn't here. Your salvation is with Christ. What *is* here, is safety from the lion, and encouragement; both *for* and *from* you.
 
  identity in world
+ - Jeremiah 17:9-10
 - tend to fit in *[tend to be a chameleon]*
 	- the masks we wear
 	- become different people around certain groups/individuals
