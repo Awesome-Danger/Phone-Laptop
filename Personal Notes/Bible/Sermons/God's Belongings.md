@@ -1,0 +1,7 @@
+For what belongs to God, He sets the rules, and how He wants it to be treated. This includes people as much as it does solver and Gold.
+- God wanted the gold and solver that had been tainted with ill/evil *intent* to be burned/destroyed.
+> [!bible]+ [Deuteronomy 7:25-26 - ESV](https://www.biblegateway.com/passage/?search=Deuteronomy+7:25-26&version=esv)
+> <sup>25</sup> The carved images of their gods you shall burn with fire. You shall not covet the silver or the gold that is on them or take it for yourselves, lest you be ensnared by it, for it is an abomination to the LORD your God.
+> <sup>26</sup> And you shall not bring an abominable thing into your house and become devoted to destruction  like it. You shall utterly detest and abhor it, for it is devoted to destruction.
+
+- God's perfect nature keeps Him separate from sin, and it must be destroyed; the wages of sin is death. like gold and silver, we are God's, and He sets the rules and standards for how we are to be treated by each other, what our purpose is, and what makes us holy and righteous. To deviate from the holy intent of our bodies and minds with worldly intent is what sin is. Even if what we're *doing* is according to God's Word, it needs to be with the *intent*to follow God as well, or it's still unholy. We're not called to just be good, but we're called to be righteous and **holy**. ==There is no *accidentally* getting to Heaven==.

@@ -1,0 +1,2 @@
+Did dad's smoking, drinking, porn, and lying make your feel special, or wanted, or loved? Did him telling you "I still love you" make you feel loved, or make everything better? Or did you feel like you were not enough, and too much at the same time?
+So the offended becomes the offender.
