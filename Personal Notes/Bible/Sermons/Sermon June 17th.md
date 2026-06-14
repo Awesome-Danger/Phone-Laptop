@@ -44,11 +44,20 @@ Influence on identity
 Questions of identity
 - the question every college student asks themself: *who am I?*
 	- **Tend to ask ourselves:** 
-		- what do I say to people?
-		- what do my actions tell me?
+		- what do I tell to people/identify as? (good)
+		- what do my actions say about me? (good)
+		- what do other people say I am? (good)
 	- **Need to ask ourselves:**
-		- 
+		- who does God say I am? (truth)
+		- what do my fruits say about me? (truth)
 - identity in Christ
+	![[God's Belongings]]
+	- is your faith your own?
+	- did your faith become your own, or your preacher's?
 - identity in world
+	- try to fit in *[tend to be a chameleon]*
 - the masks we wear
+	- become different people around certain groups/individuals
+	- lie to *others* about who we are
+	- lie to *ourselves* about who we are
 	- wearing your real face instead of a mask
