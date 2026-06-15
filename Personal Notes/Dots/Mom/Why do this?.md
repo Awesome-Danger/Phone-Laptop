@@ -1,1 +1,0 @@
-Everything I do is in hopes to show you how you affect us. or maybe just me. every act and word of rebellion.
