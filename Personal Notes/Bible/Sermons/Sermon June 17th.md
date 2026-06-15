@@ -50,7 +50,6 @@ identifying ourselves
 	- what do my fruits say about me? (truth)
 
 #### Scriptures
---1John1
 
 identity in Christ
 	![[God's Belongings]]
