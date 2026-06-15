@@ -16,7 +16,8 @@ And this isn't meant to be a political statement, this is just facts. Your insti
 - grasping stages
 - experimenting (Circular Reaction "Piaget's little scientist")
 
-As you grow even older, you start develop your own personal identity through 
+As you grow even older, you start develop your own personal identity.
+You do this through modeling and Scaffolding
 
 - As a college student, I've asked myself *"who am I?"* at least twice, if not 4 times.
 	- questioning identity
