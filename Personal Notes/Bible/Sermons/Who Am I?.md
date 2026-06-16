@@ -17,9 +17,10 @@ A lot of you know me, and that I've been away at college. If you don't know alre
 What I want to focus on tonight is Identity:
 - forming your identity
 - questioning identity
-- reshaping identity in Christ
+- recentering identity in Christ
 
 ###### Forming Identity
+[How do you form your identity?]
 Starting from a young age, as you grow up, you start to develop your identity, which is **heavily** based off the information you're gathering on other people.
 through modeling, you learn what is...
 - acceptable
@@ -32,6 +33,7 @@ When you start building your own identity, you will use almost everybody around 
 > [!bible]+ [Proverbs 22:6 - ESV](https://www.biblegateway.com/passage/?search=Proverbs+22:6&version=esv)
 > <sup>6</sup> Train up a child in the way he should go; even when he is old he will not depart from it.
 ###### Questioning Identity
+[How have you questioned your identity?]
 I don't know if middle school wasn't a gauntlet of terror while you guys were growing up, or if you're just better at hiding it; but today, it's known as some of the worst years of a person's life--so much so that there are at least several books written on how to get through these years. Today, some of you may know that the terrors of middle school are going further back, and affecting even kindergarteners, or preschoolers. 
 
 As an example:
@@ -151,7 +153,7 @@ What people may tend to do when they want to think positively about themselves i
 > <sup>4</sup> For everyone who has been born of God overcomes the world. And this is the victory that has overcome the world — our faith.
 > <sup>5</sup> Who is it that overcomes the world except the one who believes that Jesus is the Son of God?
 
-###### Reshaping your Identity in Christ
+###### Recentering your Identity in Christ
 Now, once we have thoroughly questioned our existence, we need answers. Well, like James says, you can ask for wisdom from God, but that shouldn't be the only thing you do. The whole point of our existence is **proactive**. As Christians, we're supposed to spread God's word to others, so they can have a relationship with God as well. 
 
 So what are some other ways we can find answers? [open question]
