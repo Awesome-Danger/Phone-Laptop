@@ -154,7 +154,9 @@ What people may tend to do when they want to think positively about themselves i
 > <sup>5</sup> Who is it that overcomes the world except the one who believes that Jesus is the Son of God?
 
 ###### Recentering your Identity in Christ
-Now, once we have thoroughly questioned our existence, we need answers. Well, like James says, you can ask for wisdom from God, but that shouldn't be the only thing you do. The whole point of our existence is **proactive**. As Christians, we're supposed to spread God's word to others, so they can have a relationship with God as well. 
+Now, once we have thoroughly questioned our existence, we need answers...
+[How have you found these answers? How have you recentered your identity in Christ?]
+Well, like James says, you can ask for wisdom from God, but that shouldn't be the only thing you do. The whole point of our existence is **proactive**. As Christians, we're supposed to spread God's word to others, so they can have a relationship with God as well. 
 
 So what are some other ways we can find answers? [open question]
 > [!bible]+ [Matthew 7:7-11 - ESV](https://www.biblegateway.com/passage/?search=Matthew+7:7-11&version=esv)
@@ -170,3 +172,7 @@ ask:
 seek:
 - read the scriptures:
 - Proverbs, 1 John, Matthew 5-7
+
+> [!bible]+ [Isaiah 43:1 - ESV](https://www.biblegateway.com/passage/?search=Isaiah+43:1&version=esv)
+> <sup>1</sup> But now thus says the LORD, he who created you, O Jacob, he who formed you, O Israel: “Fear not, for I have redeemed you; I have called you by name, you are mine.
+
