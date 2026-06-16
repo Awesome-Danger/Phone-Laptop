@@ -1,24 +1,26 @@
-[Opening Scripture]
-a lot of you know me, and that I've been away at college. If you don't know already, I'm currently going for a degree in Psychology and Counseling, and possibly Social Work as well. Going to a Christian University, I'm also required to take Bible classes, which I've been enjoying too. Tonight, I would like to share with you some perspectives you hopefully will find as interesting as I do.
+
+> [!bible]+ [Matthew 7:15-23 - ESV](https://www.biblegateway.com/passage/?search=Matthew+7:15-23&version=esv)
+> <sup>15</sup> “Beware of false prophets, who come to you in sheep's clothing but inwardly are ravenous wolves.
+> <sup>16</sup> You will recognize them by their fruits. Are grapes gathered from thornbushes, or figs from thistles?
+> <sup>17</sup> So, every healthy tree bears good fruit, but the diseased tree bears bad fruit.
+> <sup>18</sup> A healthy tree cannot bear bad fruit, nor can a diseased tree bear good fruit.
+> <sup>19</sup> Every tree that does not bear good fruit is cut down and thrown into the fire.
+> <sup>20</sup> Thus you will recognize them by their fruits.
+> <sup>21</sup> “Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven, but the one who does the will of my Father who is in heaven.
+> <sup>22</sup> On that day many will say to me, ‘Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?’
+> <sup>23</sup> And then will I declare to them, ‘I never knew you; depart from me, you workers of lawlessness.’
+
+[prayer]
+
+A lot of you know me, and that I've been away at college. If you don't know already, I'm currently going for a degree in Psychology and Counseling, and possibly Social Work as well. Going to a Christian University, I'm also required to take Bible classes, which I've been enjoying too. Tonight, I would like to share with you some perspectives you hopefully will find as interesting as I do.
 
 What I want to focus on tonight is Identity:
 - forming your identity
 - questioning identity
-- reshaping identity
+- reshaping identity in Christ
 
 ###### Forming Identity
-First, let's go all the way back to when you were a little child, what some of us call "the ancient days," back when dinosaurs walked the Earth, the air wasn't filled with $CO$, and Mark Zuckerburg wasn't controlling everybody's brains. 
-When you were born, you were the most innocent little thing that could exist. At the same time, you were like a super computer, absorbing all this information using your instincts and senses, which actually starts back to before you're even born.
-
-[	fetus head follows movement of lights shining through the womb (facial recognition) ]
-[	e.g., Twins' connection starts in the womb, not after birth (separated twins)]
-[And this isn't meant to be a political statement, this is just facts. Your instincts and information gathering start before you're even born. So as you grow up, you're learning how to make sense of all that information, it's properties, and how to physically perceive the world around you.]
-[- vision]
-[- grasping stages]
-[- experimenting (Circular Reaction "Piaget's little scientist")]
-	[- one of the reasons you can look at almost anything, and know what it would feel like to lick it]
-
-As you grow, you start develop your identity, which is **heavily** based off the information you're gathering on other people. You're now your own mini Facebook!
+As you grow up, you start to develop your identity, which is **heavily** based off the information you're gathering on other people.
 through modeling, you learn what is...
 - acceptable
 - important
@@ -48,14 +50,14 @@ Labeling theory:
 	- trans/gender dysphoria or not
 	- negative/positive person/outlook
 - a child often believes even absurd things without much question.
-- personal example: I believed I was introverted, because I heard it from everywhere what an introvert was like. So I thought I was introverted, and started preferring to be isolated, rather than with other people, until I felt lonely for several years. Then I came out of my shell, changing my physical appearance with brightly colored clothes to try and "fake it till I make it." But some of you knew me since I was knee-high. what was I like then? [open question]
+- personal example: I believed I was introverted, because I heard it from everywhere what an introvert was like. So I thought I was introverted, and started preferring to be isolated, rather than with other people, until I felt lonely for several years. Then I came out of my shell, changing my physical appearance with brightly colored clothes to try and *"fake it till I make it."* But some of you knew me since I was knee-high. what was I like then? [open question]
 
 Now you can do this with yourself as well. Some of you might've noticed I said "fake it till I make it," and that's one form of this.
 - self-labeling
 - the "I think I can" engine
-
+a
 Using this knowledge, and these tools, we can now ask ourselves the age old question... "Who Am I?"
-###### Questioning Identity
+
 But lets stop and take a step back; why would I want to question my identity? [Open Question]
 - expectations don't meet reality 
 	- friends are distant or pushing away
@@ -68,10 +70,84 @@ But lets stop and take a step back; why would I want to question my identity? [O
 	- feel like you don't belong
 - bench where you are in your faith
 	- Satan is prowling, and when he pounces, he won't do it on a way you expect.
-	- “Indeed the safest road to Hell is the gradual one--the gentle slope, soft underfoot, without sudden turnings, without milestones, without signposts, .” - C.S. Lewis, The Screwtape Letters
+	- *“Indeed the safest road to Hell is the gradual one--the gentle slope, soft underfoot, without sudden turnings, without milestones, without signposts.”* - C.S. Lewis, The Screwtape Letters
+	- it's important to know where you are, so you don't get lost.
 
-- As a college student, I've asked myself *"who am I?"* maybe 3 or 4 times. And it's okay to ask yourself this question from time to time! It doesn't mean your crazy. But it's important how you go about answering that question. And I'll be honest, there's not always a clear or immediate answer.
 
+- As a college student, I've asked myself *"who am I?"* maybe 3 or 4 times. And it's okay to ask yourself this question from time to time! It doesn't mean your crazy. But it's important how you go about answering that question. And I'll be honest, there's not always a clear or immediate answer. 
 
-	- understood identity (facade)
-	- real identity 
+- The first thing you need to do is **humble yourself**. It's hard to accept that you may not be who you think you are. That's why this question happens a lot at Harding, if not most school situations; getting humbled is part of the experience.
+- This verse is a good place I like to start with:
+> [!bible]+ [Matthew 7:15-23 - ESV](https://www.biblegateway.com/passage/?search=Matthew+7:15-23&version=esv)
+> <sup>15</sup> “Beware of false prophets, who come to you in sheep's clothing but inwardly are ravenous wolves.
+> <sup>16</sup> You will recognize them by their fruits. Are grapes gathered from thornbushes, or figs from thistles?
+> <sup>17</sup> So, every healthy tree bears good fruit, but the diseased tree bears bad fruit.
+> <sup>18</sup> A healthy tree cannot bear bad fruit, nor can a diseased tree bear good fruit.
+> <sup>19</sup> Every tree that does not bear good fruit is cut down and thrown into the fire.
+> <sup>20</sup> Thus you will recognize them by their fruits.
+> <sup>21</sup> “Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven, but the one who does the will of my Father who is in heaven.
+> <sup>22</sup> On that day many will say to me, ‘Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?’
+> <sup>23</sup> And then will I declare to them, ‘I never knew you; depart from me, you workers of lawlessness.’
+
+This verse gives a good outline of what we're watching out for:
+1. who enters the kingdom? [open question] *"The one who does the will of [God]."*
+2. how can I tell if I am or am not that person? [open question] *"You will recognize them by their fruits."*
+3. who may not enter? [open question] *The people who call "Lord, Lord," and at least claim to have done many things in His name.
+
+Now some people (surely nobody in this room) will judge only certain parts of themselves--the positive parts. I'm sure you've heard of this, it's called **confirmation bias**. 
+> [!bible]+ [1 John 2:4-5 - ESV](https://www.biblegateway.com/passage/?search=1%20John+2:4-5&version=esv)
+> <sup>4</sup> Whoever says “I know him” but does not keep his commandments is a liar, and the truth is not in him,
+> <sup>5</sup> but whoever keeps his word, in him truly the love of God is perfected. By this we may know that we are in him:
+
+This is a huge part of your perceived identity. I say "perceived" because it often doesn't match up with reality. That's why compliments usually feel weird, because they don't match the version of yourself that you've been thinking you are, even if those compliments are better than what you tell yourself. It's how 10 compliments can be outweighed by 1 negative comment; because of your preconceived self. A tool I think may be of some use is something called the Jahhari Window. 
+The window divides itself into 4 parts:
+- known to you
+- known to others
+- unknown to you
+- unknown to others
+Those 4 categories meet to form what Jahhari calls:
+- arena
+- facade
+- blind spot
+- unknown
+
+|                   | Known to you  | Unknown to you |
+| ----------------- | ------------- | -------------- |
+| Known to Others   | *arena*       | *blind spot*   |
+| Unknown to Others | *facade/mask* | *unknown*      |
+
+What people may tend to do when they want to think positively about themselves is to judge certain areas of this that make them look good.
+- arena (known to everybody)
+	- I go to church almost every week
+	- I'm baptized
+	- I seem like a decent person
+	- I have a great spouse
+- facade
+	- I have something I want to get off my chest, but can't bring myself to do it.
+	- I don't feel worthy/self-worth issues
+	- I have marital problems
+- blind spot
+	- I don't act like a Christian outside of church
+	- arrogant, rude, attitude problems; no discipline or self-control
+	- become complacent
+- unknown
+	- must acknowledge that this area exists
+	- only God knows it
+	- how can we know what's here? [open question]
+		- may be revealed to you in prayer
+
+> [!bible]+ [James 1:5-6 - ESV](https://www.biblegateway.com/passage/?search=James+1:5-6&version=esv)
+> <sup>5</sup> If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him.
+> <sup>6</sup> But let him ask in faith, with no doubting, for the one who doubts is like a wave of the sea that is driven and tossed by the wind.
+
+- unknown
+	- maybe your faith isn't your own
+		- faith of your parents, preacher, spouse, friend, etc.
+
+> [!bible]+ [1 John 5:1-5 - ESV](https://www.biblegateway.com/passage/?search=1%20John+5:1-5&version=esv)
+> <sup>1</sup> Everyone who believes that Jesus is the Christ has been born of God, and everyone who loves the Father loves whoever has been born of him.
+> <sup>2</sup> By this we know that we love the children of God, when we love God and obey his commandments.
+> <sup>3</sup> For this is the love of God, that we keep his commandments. And his commandments are not burdensome.
+> <sup>4</sup> For everyone who has been born of God overcomes the world. And this is the victory that has overcome the world — our faith.
+> <sup>5</sup> Who is it that overcomes the world except the one who believes that Jesus is the Son of God?
+
