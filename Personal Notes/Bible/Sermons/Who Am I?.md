@@ -99,13 +99,13 @@ Now some people (surely nobody in this room) will judge only certain parts of th
 > <sup>4</sup> Whoever says “I know him” but does not keep his commandments is a liar, and the truth is not in him,
 > <sup>5</sup> but whoever keeps his word, in him truly the love of God is perfected. By this we may know that we are in him:
 
-This is a huge part of your perceived identity. I say "perceived" because it often doesn't match up with reality. That's why compliments usually feel weird, because they don't match the version of yourself that you've been thinking you are, even if those compliments are better than what you tell yourself. It's how 10 compliments can be outweighed by 1 negative comment; because of your preconceived self. A tool I think may be of some use is something called the Jahhari Window. 
+This is a huge part of your perceived identity. I say "perceived" because it often doesn't match up with reality. That's why compliments usually feel weird, because they don't match the version of yourself that you've been thinking you are, even if those compliments are better than what you tell yourself. It's how 10 compliments can be outweighed by 1 negative comment; because of your preconceived self. A tool I think may be of some use is something called the Johari Window. 
 The window divides itself into 4 parts:
 - known to you
 - known to others
 - unknown to you
 - unknown to others
-Those 4 categories meet to form what Jahhari calls:
+Those 4 categories meet to form what Johari calls:
 - arena
 - facade
 - blind spot
