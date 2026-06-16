@@ -20,14 +20,14 @@ What I want to focus on tonight is Identity:
 - reshaping identity in Christ
 
 ###### Forming Identity
-As you grow up, you start to develop your identity, which is **heavily** based off the information you're gathering on other people.
+Starting from a young age, as you grow up, you start to develop your identity, which is **heavily** based off the information you're gathering on other people.
 through modeling, you learn what is...
 - acceptable
 - important
 - *gets attention*
 - **favorable traits** ("what/who do you want to be/like when you grow up?" Who's your role model?)
 
-When you start building their own identity, you will use almost everybody around you as a role model for what to be like; and when we do this, it so important that we ==use the right people==, or things start to move into dangerous territory.
+When you start building your own identity, you will use almost everybody around you as a role model for what to be like; and when we do this, it so important that we ==use the right people==, or things start to move into dangerous territory.
 
 > [!bible]+ [Proverbs 22:6 - ESV](https://www.biblegateway.com/passage/?search=Proverbs+22:6&version=esv)
 > <sup>6</sup> Train up a child in the way he should go; even when he is old he will not depart from it.
@@ -55,8 +55,8 @@ Labeling theory:
 Now you can do this with yourself as well. Some of you might've noticed I said "fake it till I make it," and that's one form of this.
 - self-labeling
 - the "I think I can" engine
-a
-Using this knowledge, and these tools, we can now ask ourselves the age old question... "Who Am I?"
+
+Using this knowledge, and these tools, we can now ask ourselves the age old question... *"Who Am I?"*
 
 But lets stop and take a step back; why would I want to question my identity? [Open Question]
 - expectations don't meet reality 
@@ -69,7 +69,7 @@ But lets stop and take a step back; why would I want to question my identity? [O
 	- feeling like you're living a lie
 	- feel like you don't belong
 - bench where you are in your faith
-	- Satan is prowling, and when he pounces, he won't do it on a way you expect.
+	- Satan is prowling, and when he pounces, he won't do it in a way you expect.
 	- *“Indeed the safest road to Hell is the gradual one--the gentle slope, soft underfoot, without sudden turnings, without milestones, without signposts.”* - C.S. Lewis, The Screwtape Letters
 	- it's important to know where you are, so you don't get lost.
 
@@ -151,3 +151,20 @@ What people may tend to do when they want to think positively about themselves i
 > <sup>4</sup> For everyone who has been born of God overcomes the world. And this is the victory that has overcome the world — our faith.
 > <sup>5</sup> Who is it that overcomes the world except the one who believes that Jesus is the Son of God?
 
+###### Reshaping your Identity in Christ
+Now, once we have thoroughly questioned our existence, we need answers. Well, like James says, you can ask for wisdom from God, but that shouldn't be the only thing you do. The whole point of our existence is **proactive**. As Christians, we're supposed to spread God's word to others, so they can have a relationship with God as well. 
+
+So what are some other ways we can find answers? [open question]
+> [!bible]+ [Matthew 7:7-11 - ESV](https://www.biblegateway.com/passage/?search=Matthew+7:7-11&version=esv)
+> <sup>7</sup> “Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you.
+> <sup>8</sup> For everyone who asks receives, and the one who seeks finds, and to the one who knocks it will be opened.
+> <sup>9</sup> Or which one of you, if his son asks him for bread, will give him a stone?
+> <sup>10</sup> Or if he asks for a fish, will give him a serpent?
+> <sup>11</sup> If you then, who are evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask him!
+
+ask:
+- [pray for knowledge]
+- If you're brave enough, ask someone who knows you to tell you some blind spots you have.
+seek:
+- read the scriptures:
+- Proverbs, 1 John, Matthew 5-7
