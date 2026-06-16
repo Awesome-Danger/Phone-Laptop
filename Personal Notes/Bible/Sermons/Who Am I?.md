@@ -48,7 +48,7 @@ Labeling theory:
 	- trans/gender dysphoria or not
 	- negative/positive person/outlook
 - a child often believes even absurd things without much question.
-- personal example: I believed I was introverted, because I heard it from everywhere what an introvert was like. So I thought I was introverted, and started preferring to be isolated, rather than with other people, until I felt lonely for several years. Then I came out of my shell, changing my physical appearance with brightly colored clothes to try and "fake it till I make it." But some of you knew me since I was knee-high. what was I like then? (open question)
+- personal example: I believed I was introverted, because I heard it from everywhere what an introvert was like. So I thought I was introverted, and started preferring to be isolated, rather than with other people, until I felt lonely for several years. Then I came out of my shell, changing my physical appearance with brightly colored clothes to try and "fake it till I make it." But some of you knew me since I was knee-high. what was I like then? [open question]
 
 Now you can do this with yourself as well. Some of you might've noticed I said "fake it till I make it," and that's one form of this.
 - self-labeling
@@ -56,8 +56,7 @@ Now you can do this with yourself as well. Some of you might've noticed I said "
 
 Using this knowledge, and these tools, we can now ask ourselves the age old question... "Who Am I?"
 ###### Questioning Identity
-- As a college student, I've asked myself *"who am I?"* maybe 3 or 4 times. And it's okay to ask yourself this question from time to time! It doesn't mean your crazy. But it's important how you go about answering that question. And I'll be honest, there's not always a clear or immediate answer. 
-But lets stop and take a step back; why would I want to question my identity?
+But lets stop and take a step back; why would I want to question my identity? [Open Question]
 - expectations don't meet reality 
 	- friends are distant or pushing away
 	- things in life don't seem to be going the way you think they should
@@ -67,6 +66,11 @@ But lets stop and take a step back; why would I want to question my identity?
 - impostor syndrome
 	- feeling like you're living a lie
 	- feel like you don't belong
+- bench where you are in your faith
+	- Satan is prowling, and when he pounces, he won't do it on a way you expect.
+	- “Indeed the safest road to Hell is the gradual one--the gentle slope, soft underfoot, without sudden turnings, without milestones, without signposts, .” - C.S. Lewis, The Screwtape Letters
+
+- As a college student, I've asked myself *"who am I?"* maybe 3 or 4 times. And it's okay to ask yourself this question from time to time! It doesn't mean your crazy. But it's important how you go about answering that question. And I'll be honest, there's not always a clear or immediate answer.
 
 
 	- understood identity (facade)
