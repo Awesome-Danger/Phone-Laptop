@@ -205,7 +205,7 @@ There's a song we sing that is made from this passage that we sing at Harding. I
 The world doesn't love us but God does, and He'll give us new bodies that last forever in good health.
 *"[God] wants a world full of beings united to Him, but still distinct."* -C.S. Lewis, The Screwtape Letters
 
-How are we supposed to be recentered?*
+*How are we supposed to be recentered?*
 how we can be recentered:
 - our actions
 - our mind and our heart
