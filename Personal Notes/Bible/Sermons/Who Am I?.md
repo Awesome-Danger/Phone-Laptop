@@ -176,3 +176,4 @@ seek:
 > [!bible]+ [Isaiah 43:1 - ESV](https://www.biblegateway.com/passage/?search=Isaiah+43:1&version=esv)
 > <sup>1</sup> But now thus says the LORD, he who created you, O Jacob, he who formed you, O Israel: “Fear not, for I have redeemed you; I have called you by name, you are mine.
 
+--1John3:1-2
