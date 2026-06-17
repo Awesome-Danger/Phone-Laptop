@@ -10,9 +10,9 @@
 > <sup>22</sup> On that day many will say to me, ‘Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?’
 > <sup>23</sup> And then will I declare to them, ‘I never knew you; depart from me, you workers of lawlessness.’
 
-[prayer]
+*[prayer]*
 
-A lot of you know me, and that I've been away at college. If you don't know already, I'm currently going for a degree in Psychology and Counseling, and possibly Social Work as well. Going to a Christian University, I'm also required to take Bible classes, which I've been enjoying too. Tonight, I would like to share with you some perspectives you hopefully will find as interesting as I do.
+A lot of you know me, and that I've been away at college. If you don't know already, I'm currently going for a degree in Psychology and Counseling, and possibly Social Work as well. Going to a Christian University, I'm also required to take Bible classes, which I've been enjoying too (maybe that will comfort you for tonight's lesson). Tonight, I would like to share with you some perspectives you hopefully will find as interesting as I do.
 
 What I want to focus on tonight is Identity:
 - forming your identity
@@ -21,21 +21,29 @@ What I want to focus on tonight is Identity:
 
 Some people may look at this scripture we just read, and look around... *"Well, who could it be?"* Well tonight, We're not asking *"who-done-it?"*, but *"Who Am I?"*
 ###### Forming Identity
-[How do you form your identity?]
-Starting from a young age, as you grow up, you start to develop your identity, which is **heavily** based off the information you're gathering on other people.
+*[How do you form your identity?]*
+Starting from a young age, as you grow up, you start to develop your identity, which is **heavily** based off the information you're gathering from around you:
+- factoids
+- behaviors
+- **other people** (good or bad)
+
 through modeling, you learn what is...
-- acceptable
-- important
-- *gets attention*
+- acceptable (discipline)
+- important (discipline)
+- *gets attention* (innate)
 - **favorable traits** ("what/who do you want to be/like when you grow up?" Who's your role model?)
 
-When you start building your own identity, you will use almost everybody around you as a role model for what to be like; and when we do this, it so important that we ==use the right people==, or things start to move into dangerous territory.
+When you start building your own identity, you will use almost everybody around you as a role model for what to be like; and when we do this, it so important that we ==use the right people==, or things start to move into dangerous territory. 
 
 > [!bible]+ [Proverbs 22:6 - ESV](https://www.biblegateway.com/passage/?search=Proverbs+22:6&version=esv)
 > <sup>6</sup> Train up a child in the way he should go; even when he is old he will not depart from it.
+
+
+We tend to want to NOT be like the people we don't like, and be like the people we do like, but that's not always what happens...
+a lot of times, people will become the very thing they hate, and seem to have no control over it. 
 ###### Questioning Identity
-[How have you questioned your identity?]
-I don't know if middle school wasn't a gauntlet of terror while you guys were growing up, or if you're just better at hiding it; but today, it's known as some of the worst years of a person's life--so much so that there are at least several books written on how to get through these years. Today, some of you may know that the terrors of middle school are going further back, and affecting even kindergarteners, or preschoolers. 
+*[How have you questioned your identity?]*
+I don't know if middle school wasn't a gauntlet of terror while you guys were growing up, or if you're just better at hiding it; but today, it's known as some of the worst years of a person's life--so much so that there are at least several books written on how to get through these years. Some of you may know that the terrors of middle school are going further back, and affecting even kindergarteners, or preschoolers. 
 
 As an example:
 - (little girl on the way home from preschool wants to transition)
@@ -48,12 +56,14 @@ As an example:
 		- identity is an ongoing and prominent issue in today's world. That's why it's important to have a strong and established identity.
 - from the time we're little, we are constantly shaping and reshaping our identity, based on other people.
 
+now getting deeper into the Psychology of things... why do other people affect us so much.
+
 Labeling theory:
 - aprox. Putting a label on someone makes them more likely to fit that label; most effective at earlier stages of development.
 	- trans/gender dysphoria or not
-	- negative/positive person/outlook
+	- change attitude (negative/positive person/outlook)
 - a child often believes even absurd things without much question.
-- personal example: I believed I was introverted, because I heard it from everywhere what an introvert was like. So I thought I was introverted, and started preferring to be isolated, rather than with other people, until I felt lonely for several years. Then I came out of my shell, changing my physical appearance with brightly colored clothes to try and *"fake it till I make it."* But some of you knew me since I was knee-high. what was I like then? [open question]
+- personal example: I believed I was introverted, because I heard it from everywhere what an introvert was like. So I thought I was introverted, and started preferring to be isolated, rather than with other people, until I felt lonely for several years. Then I came out of my shell, changing my physical appearance with brightly colored clothes to try and *"fake it till I make it."* But some of you knew me since I was knee-high. what was I like then? *[open question]*
 
 Now you can do this with yourself as well. Some of you might've noticed I said "fake it till I make it," and that's one form of this.
 - self-labeling
@@ -61,7 +71,8 @@ Now you can do this with yourself as well. Some of you might've noticed I said "
 
 Using this knowledge, and these tools, we can now ask ourselves the age old question... *"Who Am I?"*
 
-But lets stop and take a step back; why would I want to question my identity? [Open Question]
+But lets stop and take a step back; why would I want to question my identity? *[Open Question]*
+usually happens when...
 - expectations don't meet reality 
 	- friends are distant or pushing away
 	- things in life don't seem to be going the way you think they should
@@ -184,7 +195,7 @@ There's a song we sing that is made from this passage that we sing at Harding. I
 > <sup>1</sup> See what kind of love the Father has given to us, that we should be called children of God; and so we are. The reason why the world does not know us is that it did not know him.
 > <sup>2</sup> Beloved, we are God's children now, and what we will be has not yet appeared; but we know that when he appears  we shall be like him, because we shall see him as he is.
 
-
+*"[God] wants a world full of beings united to Him, but still distinct."* -C.S. Lewis, The Screwtape Letters
 
 > [!bible]+ [Philippians 4:4-9 - ESV](https://www.biblegateway.com/passage/?search=Philippians+4:4-9&version=esv)
 > <sup>4</sup> Rejoice in the Lord always; again I will say, rejoice.
