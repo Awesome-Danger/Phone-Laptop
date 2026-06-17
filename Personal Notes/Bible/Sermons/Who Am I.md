@@ -38,7 +38,7 @@ When you start building your own identity, you will use almost everybody around 
 > [!bible]+ [Proverbs 22:6 - ESV](https://www.biblegateway.com/passage/?search=Proverbs+22:6&version=esv)
 > <sup>6</sup> Train up a child in the way he should go; even when he is old he will not depart from it.
 
-
+When we're trained early, or puts us on good path.
 We tend to want to NOT be like the people we don't like, and be like the people we do like, but that's not always what happens...
 a lot of times, people will become the very thing they hate, and seem to have no control over it. 
 ###### Questioning Identity
@@ -107,7 +107,8 @@ This verse gives a good outline of what we're watching out for:
 1. who enters the kingdom? *[open question]* *"The one who does the will of [God]."*
 2. how can I tell if I am or am not that person? *[open question]* *"You will recognize them by their fruits."*
 3. what are those fruits? *[open question]*
-4. who may not enter? *[open question]* *The people who call "Lord, Lord," and at least claim to have done many things in His name.*
+4. What do YOUR fruits say?
+5. who may not enter? *[open question]* *The people who call "Lord, Lord," and at least claim to have done many things in His name.*
 
 This verse further points out:
 
