@@ -104,15 +104,18 @@ usually happens when...
 > <sup>23</sup> And then will I declare to them, ‘I never knew you; depart from me, you workers of lawlessness.’
 
 This verse gives a good outline of what we're watching out for:
-1. who enters the kingdom? [open question] *"The one who does the will of [God]."*
-2. how can I tell if I am or am not that person? [open question] *"You will recognize them by their fruits."*
-3. who may not enter? [open question] *The people who call "Lord, Lord," and at least claim to have done many things in His name.
+1. who enters the kingdom? *[open question]* *"The one who does the will of [God]."*
+2. how can I tell if I am or am not that person? *[open question]* *"You will recognize them by their fruits."*
+3. what are those fruits? *[open question]*
+4. who may not enter? *[open question]* *The people who call "Lord, Lord," and at least claim to have done many things in His name.*
 
-Now some people (surely nobody in this room) will judge only certain parts of themselves--the positive parts. I'm sure you've heard of this, it's called **confirmation bias**. 
+This verse further points out:
+
 > [!bible]+ [1 John 2:4-5 - ESV](https://www.biblegateway.com/passage/?search=1%20John+2:4-5&version=esv)
 > <sup>4</sup> Whoever says “I know him” but does not keep his commandments is a liar, and the truth is not in him,
 > <sup>5</sup> but whoever keeps his word, in him truly the love of God is perfected. By this we may know that we are in him:
 
+Now some people (surely nobody in this room) will judge only certain parts of themselves--the positive parts, when it comes to questioning identity (which is why you need to be humble). I'm sure you've heard of this, it's called **confirmation bias**. 
 This is a huge part of your perceived identity. I say "perceived" because it often doesn't match up with reality. That's why compliments usually feel weird, because they don't match the version of yourself that you've been thinking you are, even if those compliments are better than what you tell yourself. It's how 10 compliments can be outweighed by 1 negative comment; because of your preconceived self. A tool I think may be of some use is something called the Johari Window. 
 The window divides itself into 4 parts:
 - known to you
