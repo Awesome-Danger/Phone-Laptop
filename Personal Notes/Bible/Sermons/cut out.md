@@ -1,5 +1,5 @@
 
-## [[Who Am I?]]
+## [[Who Am I]]
 ###### Forming you Identity
 [First, let's go all the way back to when you were a little child, what some of us call "the ancient days," back when dinosaurs walked the Earth, the air wasn't filled with $CO$, and Mark Zuckerburg wasn't controlling everybody's brains. ]
 [When you were born, you were the most innocent little thing that could exist. At the same time, you were like a super computer, absorbing all this information using your instincts and senses, which actually starts back to before you're even born.]

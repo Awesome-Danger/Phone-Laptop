@@ -133,24 +133,24 @@ Those 4 categories meet to form what Johari calls:
 | Known to Others   | *arena*       | *blind spot*   |
 | Unknown to Others | *facade/mask* | *unknown*      |
 
-What people may tend to do when they want to think positively about themselves is to judge certain areas of this that make them look good.
-- arena (known to everybody)
+What people may tend to do when they want to think positively about themselves is to judge certain areas of this that make them look good. *[open question]*
+- arena (known to everybody)*[open question]*
 	- I go to church almost every week
 	- I'm baptized
 	- I seem like a decent person
 	- I have a great spouse
-- facade
+- facade*[open question]*
 	- I have something I want to get off my chest, but can't bring myself to do it.
 	- I don't feel worthy/self-worth issues
 	- I have marital problems
-- blind spot
+- blind spot*[open question]*
 	- I don't act like a Christian outside of church
 	- arrogant, rude, attitude problems; no discipline or self-control
 	- become complacent
-- unknown
+- unknown*[open question]*
 	- must acknowledge that this area exists
 	- only God knows it
-	- how can we know what's here? [open question]
+	- how can we know what's here? *[open question]*
 		- may be revealed to you in prayer
 
 > [!bible]+ [James 1:5-6 - ESV](https://www.biblegateway.com/passage/?search=James+1:5-6&version=esv)
@@ -161,12 +161,15 @@ What people may tend to do when they want to think positively about themselves i
 	- maybe your faith isn't your own
 		- faith of your parents, preacher, spouse, friend, etc.
 
+*So who are we now? How can we tell who we are?*
 > [!bible]+ [1 John 5:1-5 - ESV](https://www.biblegateway.com/passage/?search=1%20John+5:1-5&version=esv)
 > <sup>1</sup> Everyone who believes that Jesus is the Christ has been born of God, and everyone who loves the Father loves whoever has been born of him.
 > <sup>2</sup> By this we know that we love the children of God, when we love God and obey his commandments.
 > <sup>3</sup> For this is the love of God, that we keep his commandments. And his commandments are not burdensome.
 > <sup>4</sup> For everyone who has been born of God overcomes the world. And this is the victory that has overcome the world — our faith.
 > <sup>5</sup> Who is it that overcomes the world except the one who believes that Jesus is the Son of God?
+
+1John and Romans are huge for questioning your identity... They're hard reads, so it's important to go through them correctly. Maybe read 1John backwards chapter by chapter. Read Romans all the way through in one sitting.
 
 ###### Recentering your Identity in Christ
 Now, once we have thoroughly questioned our existence, we need answers...
@@ -187,7 +190,7 @@ ask:
 seek:
 - read the scriptures:
 - all of Proverbs, 1 John, Matthew 5-7 (Sermon on the Mount), etc.
-- who you are is **loved**. Loved by God:
+- who you are is AT LEAST **loved**. Loved by God:
 
 > [!bible]+ [Isaiah 43:1 - ESV](https://www.biblegateway.com/passage/?search=Isaiah+43:1&version=esv)
 > <sup>1</sup> But now thus says the LORD, he who created you, O Jacob, he who formed you, O Israel: “Fear not, for I have redeemed you; I have called you by name, you are mine.
@@ -198,8 +201,12 @@ There's a song we sing that is made from this passage that we sing at Harding. I
 > <sup>1</sup> See what kind of love the Father has given to us, that we should be called children of God; and so we are. The reason why the world does not know us is that it did not know him.
 > <sup>2</sup> Beloved, we are God's children now, and what we will be has not yet appeared; but we know that when he appears  we shall be like him, because we shall see him as he is.
 
+The world doesn't love us but God does, and He'll give us new bodies that last forever in good health.
 *"[God] wants a world full of beings united to Him, but still distinct."* -C.S. Lewis, The Screwtape Letters
 
+how we can be recentered:
+- our actions
+- our mind and our heart
 > [!bible]+ [Philippians 4:4-9 - ESV](https://www.biblegateway.com/passage/?search=Philippians+4:4-9&version=esv)
 > <sup>4</sup> Rejoice in the Lord always; again I will say, rejoice.
 > <sup>5</sup> Let your reasonableness  be known to everyone. The Lord is at hand;
@@ -208,4 +215,21 @@ There's a song we sing that is made from this passage that we sing at Harding. I
 > <sup>8</sup> Finally, brothers, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if there is any excellence, if there is anything worthy of praise, think about these things.
 > <sup>9</sup> What you have learned  and received and heard and seen in me — practice these things, and the God of peace will be with you.
 
-Love
+Paul, Jesus, John--they all know that love important.
+- Jesus says love God and each other, and everything will be fulfilled
+- Paul says that love is above all else
+- John writes the Gospel of love,  and was himself "the one that Jesus loved"
+
+Some of you have heard it said here that love is **in** motion. Paul states
+> [!bible]+ [1 Corinthians 13:4-8 - ESV](https://www.biblegateway.com/passage/?search=1%20Corinthians+13:4-8&version=esv)
+> <sup>4</sup> Love is patient and kind; love does not envy or boast; it is not arrogant
+> <sup>5</sup> or rude. It does not insist on its own way; it is not irritable or resentful;
+> <sup>6</sup> it does not rejoice at wrongdoing, but rejoices with the truth.
+> <sup>7</sup> Love bears all things, believes all things, hopes all things, endures all things.
+> <sup>8</sup> Love never ends. As for prophecies, they will pass away; as for tongues, they will cease; as for knowledge, it will pass away.
+
+**Let your love be full, and your heart and identity will be too.**
+Your identity should reflect love. If it doesn't in FULL, then it needs to be recentered.
+
+[prayer]
+go in peace.
