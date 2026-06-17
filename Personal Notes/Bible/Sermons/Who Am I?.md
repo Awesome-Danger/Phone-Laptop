@@ -19,6 +19,7 @@ What I want to focus on tonight is Identity:
 - questioning identity
 - recentering identity in Christ
 
+Some people may look at this scripture we just read, and look around... *"Well, who could it be?"* Well tonight, We're not asking *"who-done-it?"*, but *"Who Am I?"*
 ###### Forming Identity
 [How do you form your identity?]
 Starting from a young age, as you grow up, you start to develop your identity, which is **heavily** based off the information you're gathering on other people.
@@ -171,9 +172,26 @@ ask:
 - If you're brave enough, ask someone who knows you to tell you some blind spots you have.
 seek:
 - read the scriptures:
-- Proverbs, 1 John, Matthew 5-7
+- all of Proverbs, 1 John, Matthew 5-7 (Sermon on the Mount), etc.
+- who you are is **loved**. Loved by God:
 
 > [!bible]+ [Isaiah 43:1 - ESV](https://www.biblegateway.com/passage/?search=Isaiah+43:1&version=esv)
 > <sup>1</sup> But now thus says the LORD, he who created you, O Jacob, he who formed you, O Israel: “Fear not, for I have redeemed you; I have called you by name, you are mine.
 
---1John3:1-2
+There's a song we sing that is made from this passage that we sing at Harding. It's a beautiful song.
+
+> [!bible]+ [1 John 3:1-2 - ESV](https://www.biblegateway.com/passage/?search=1%20John+3:1-2&version=esv)
+> <sup>1</sup> See what kind of love the Father has given to us, that we should be called children of God; and so we are. The reason why the world does not know us is that it did not know him.
+> <sup>2</sup> Beloved, we are God's children now, and what we will be has not yet appeared; but we know that when he appears  we shall be like him, because we shall see him as he is.
+
+
+
+> [!bible]+ [Philippians 4:4-9 - ESV](https://www.biblegateway.com/passage/?search=Philippians+4:4-9&version=esv)
+> <sup>4</sup> Rejoice in the Lord always; again I will say, rejoice.
+> <sup>5</sup> Let your reasonableness  be known to everyone. The Lord is at hand;
+> <sup>6</sup> do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God.
+> <sup>7</sup> And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus.
+> <sup>8</sup> Finally, brothers, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if there is any excellence, if there is anything worthy of praise, think about these things.
+> <sup>9</sup> What you have learned  and received and heard and seen in me — practice these things, and the God of peace will be with you.
+
+Love
