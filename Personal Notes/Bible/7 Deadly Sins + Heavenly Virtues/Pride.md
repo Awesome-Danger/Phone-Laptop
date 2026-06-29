@@ -1,5 +1,5 @@
 **Bad**
-
+The most mind-altering substance ever; no sober judgement with pride.
 
 **Good**
 > [!bible]+ [2 Corinthians 12:7-10 - ESV](https://www.biblegateway.com/passage/?search=2%20Corinthians+12:7-10&version=esv)
