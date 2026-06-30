@@ -2,3 +2,4 @@
 - Keep the exclusive rights to the software, and pass on those rights to trusted people in the next generation, and so on, keeping/maintaining exclusivity on those rights the whole way.
 - Never release these evils again.
 - Sue anyone who tries to recreate these evils.
+- open-source forever
