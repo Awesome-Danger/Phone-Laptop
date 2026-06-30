@@ -1,4 +1,4 @@
-- Buy out every closed source company (Google, Meta, Microsoft, Flock, etc.), liquidate every asset, delete the SM apps,  minimize the companies down to what is *needed*; give all the money to charities, and other people who should be paid for their tireless and thankless efforts. 
+- With Elon Musk's money, buy out every closed source company (Google, Meta, Microsoft, Flock, etc.), liquidate everything, delete the SM apps (X, FB, IG, etc), minimize the companies down to what is *needed* (); give all the money to charities, and other people who should be paid for their tireless and thankless efforts.
 - Keep the exclusive rights to the software, and pass on those rights to trusted people in the next generation, and so on, keeping/maintaining exclusivity on those rights the whole way.
 - Never release these evils again.
 - Sue anyone who tries to recreate these evils.
