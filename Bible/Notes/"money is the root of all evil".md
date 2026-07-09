@@ -33,3 +33,6 @@ Paul puts this in a perspective that is easier for us to understand: desire for 
 
 -Luke19:1-10
 
+we like to think we can serve both masters, but it doesn't work like that.
+
+ask yourself *What does my heart worship?*
