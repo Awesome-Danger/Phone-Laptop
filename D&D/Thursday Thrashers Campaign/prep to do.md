@@ -1,0 +1,5 @@
+- [ ] Map for [[Affirmadia]]
+- [ ] time traveler reference?
+- [ ] Bjorn story
+- [ ] [[Lost Souls]] stat block
+- [ ] [[Affirmadia]] stat blocks
