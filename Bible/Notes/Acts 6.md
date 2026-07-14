@@ -1,3 +1,4 @@
+
 > [!bible]+ [Acts 6:1-15 - ESV](https://www.biblegateway.com/passage/?search=Acts+6:1-15&version=esv)
 > <sup>1</sup> Now in these days when the disciples were increasing in number, a complaint by the Hellenists  arose against the Hebrews because their widows were being neglected in the daily distribution.
 > <sup>2</sup> And the twelve summoned the full number of the disciples and said, “It is not right that we should give up preaching the word of God to serve tables.
