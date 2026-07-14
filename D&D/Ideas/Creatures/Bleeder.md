@@ -1,1 +1,1 @@
-A creature that bleeds continuously, forever.s
+A creature that bleeds continuously, forever.
