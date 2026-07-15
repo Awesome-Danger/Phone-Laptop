@@ -1,0 +1,2 @@
+- people unapologetically, and shamelessly pulling the same shenanigans for the past six years
+- 
