@@ -1,4 +1,0 @@
-
-BestBuy
-TimHortons
-Kacelli's
