@@ -1,2 +1,18 @@
 - people unapologetically, and shamelessly pulling the same shenanigans for the past six years
+- feeling stuck with nowhere to go
+- being stuck with someone does whatever reckless things she wants, because she thinks she can get whatever she wants, and still have everything happen the way she wants it.
+- mom being stuck in a hole with her head cut off, and floating in the sky, and dragging the rest of us down into a shallow grave with her corpse.
+- feeling powerless to do anything, because anything I want or need to do is reliant on people that 1) want to prevent me from doing it, 2) don't care enough to help, or 3) aren't reliable to be any help.
+- feeling angry all the time
+- having everything being thrown at me all at once
+- being unsupported
+- having everybody screw up everything in every conceivable way possible
+- mom and grandma not showing up to church, because they want to smoke weed, and screw around, doing their own thing, and damning the wrest of us.
+- mom wasting her money on stupid crap that nobody wants or needs, because she has a terrible money spending habit, causing a bunch of money that could've been at LEAST used for gas, otherwise taking care of the cars, house repairs, the phone bill, or any number of actually USEFUL and PRODUCTIVE things to be completely wasted.
+- mom buying junk food, and pizza all the time
+- feeling neglected and hated by mom and Emery
+- responsibilities like taking care of the dogs, Apollo's training, taking care of the house (like keeping it clean and clear, not spilling things or leaving dirty laundry everywhere)
+- the house smelling like weed, and driving me insane
+- the sump pump not working
+- the house leaking from every orifice
 - 
