@@ -4,7 +4,7 @@
 - [[The Ring of Brom]]
 - [[Gambler's Coin]]
 - [[I (Green)]]
-- [[Quartz Earring]]
+- [[Quartz Necklace]]
 
 ### Experiences
 - has unknowingly met [[Belgabad]] while he was in the form of a stag.

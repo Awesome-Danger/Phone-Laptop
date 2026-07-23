@@ -6,7 +6,7 @@
 			- If broken, it will light a blue flame. If consumed, grants +2d8 permanent health.
 		- [x] Item 2: [[Child’s Goblet]]
 			- When used occasionally, it slowly changes the user into another race
-		- [x] Item 3: [[Quartz Earring]]
+		- [x] Item 3: [[Quartz Necklace]]
 			- Changes alignment to Chaotic Evil while wearing it.
 			- If swallowed, target will die instantly.
 		- [x] Item 4: [[Key necklace]]
