@@ -11,6 +11,7 @@ Description:
 What if the Seed of Eden is the Philosopher's Stone?
 Or Brom, who was Ranii's loyal servant, and the previous bearer of [[The Ring of Brom|the ring]].
 
----
+![[Seed of Eden (AI).png]]
 
-[[The Ring of Brom]]. [[The Philosopher's Stone]], [[Corruption]] 
+---
+[[The Ring of Brom]]. [[The Philosopher's Stone]], [[Corruption]]
