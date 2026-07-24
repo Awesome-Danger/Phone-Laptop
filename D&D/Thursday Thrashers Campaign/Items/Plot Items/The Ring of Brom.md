@@ -1,5 +1,10 @@
 ---
-tags: [item, key]
+tags:
+  - item
+  - key
+aliases:
+  - Brom's ring
+  - Brom's Ring
 ---
 
 - A sapphire ring with the mind of Brom the Servant of Ranii. To awaken the ring's mind, transfer and store in it 100 hp collectively.

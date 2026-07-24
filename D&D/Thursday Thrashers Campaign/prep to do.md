@@ -18,3 +18,4 @@ stat blocks
 
 etc
 - [ ] Lord of the Strings
+- [ ] voluntary hidden rolls
