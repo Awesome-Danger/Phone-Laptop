@@ -2,7 +2,7 @@ immediately puts you in death saves (no prep). You must go through death saves c
 - If you succeed, you gain benefits.
 - If you don't, you die permanently.
 
-![[syringe 1.webp]]
+![[syringe 1.webp|263]]
 
 Benefits **ideas**:
 

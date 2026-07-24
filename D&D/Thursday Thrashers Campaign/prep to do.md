@@ -1,8 +1,20 @@
+maps
+- [ ] new world map
 - [ ] Map for [[Affirmadia]]
-- [ ] time traveler reference?
+
+story
 - [ ] Bjorn story
+- [ ] time traveler reference?
+- [ ] brad the midget revenge
+- [ ] [[seed of eden]]
+- [ ] [[Philosopher’s Stone]]
+
+stat blocks
+- [ ] BBEG stat block
 - [ ] [[Lost Souls]] stat block
 - [ ] [[Affirmadia]] stat blocks
-- [ ] BBEG stat block
+- [ ] dead character sheet
+- [ ] brad the midget stat block
+
+etc
 - [ ] Lord of the Strings
-- [ ] 
