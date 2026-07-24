@@ -3,3 +3,6 @@
 - [ ] Bjorn story
 - [ ] [[Lost Souls]] stat block
 - [ ] [[Affirmadia]] stat blocks
+- [ ] BBEG stat block
+- [ ] Lord of the Strings
+- [ ] 
