@@ -2,6 +2,8 @@ immediately puts you in death saves (no prep). You must go through death saves c
 - If you succeed, you gain benefits.
 - If you don't, you die permanently.
 
+![[syringe 1.webp]]
+
 Benefits **ideas**:
 
 - distribute 3 points across Str, Dex, and Con.
