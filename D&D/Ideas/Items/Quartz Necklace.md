@@ -1,2 +1,4 @@
 - Changes alignment to Chaotic Evil while wearing it.
-- If swallowed, target will die instantly.![[quartz necklace.jpg]]
+- If swallowed, target will die instantly.
+
+![[quartz necklace.jpg|301]]
