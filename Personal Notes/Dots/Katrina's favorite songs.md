@@ -1,7 +1,7 @@
 Sold out - Hawk Nelson
 Holy Trouble - Rend Collective
 Hallelujah Anyway - Rend Collective
-Fight if my Life - Rend Collective
+Fight of my Life - Rend Collective
 Can't steal my Joy - Josiah Queen
 Garden in Manhattan - Josiah Queen
 Alive - NEEDTOBREATHE
