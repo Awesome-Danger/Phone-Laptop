@@ -24,3 +24,13 @@
 
 - *then* God invites the Gentiles (out on the streets and highways)
 
+> [!bible]+ [Isaiah 25:6 - ESV](https://www.biblegateway.com/passage/?search=Isaiah+25:6&version=esv)
+> <sup>6</sup> On this mountain the LORD of hosts will make for all peoples a feast of rich food, a feast of well-aged wine, of rich food full of marrow, of aged wine well refined.
+
+- God is preparing a large banquet for *everyone*
+
+> [!bible]+ [Isaiah 25:7-8 - ESV](https://www.biblegateway.com/passage/?search=Isaiah+25:7-8&version=esv)
+> <sup>7</sup> And he will swallow up on this mountain the covering that is cast over all peoples, the veil that is spread over all nations.
+> <sup>8</sup> He will swallow up death forever; and the Lord GOD will wipe away tears from all faces, and the reproach of his people he will take away from all the earth, for the LORD has spoken.
+
+- He's going to atone for sin.
