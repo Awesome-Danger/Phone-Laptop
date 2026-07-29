@@ -15,4 +15,10 @@
 - the house smelling like weed, and driving me insane
 - the sump pump not working
 - the house leaking from every orifice
+- walking into a house filled with smoke
+- lack of respect
+- the government
+- Israel
+- flock cameras
+- social media sapping on my mental health, but being useful for avoiding certain other behaviors
 - 

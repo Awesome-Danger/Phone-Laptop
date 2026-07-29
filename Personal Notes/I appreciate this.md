@@ -1,0 +1,5 @@
+- Felix telling me I've been the least irritating person in the house
+- conversation with grandpa
+- grandpa trying to help me with my phone
+- helping grandpa with his ad problem
+- 
