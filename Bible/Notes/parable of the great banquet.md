@@ -34,3 +34,18 @@
 > <sup>8</sup> He will swallow up death forever; and the Lord GOD will wipe away tears from all faces, and the reproach of his people he will take away from all the earth, for the LORD has spoken.
 
 - He's going to atone for sin.
+
+- this story disproves Calvinism, as it shows that these people that God had originally invited *excluded themselves* with their excuses. they are like the seed that the sower cast on the thorns: they were chocked out by the cares of the world.
+
+> [!bible]+ [Luke 14:16 - ESV](https://www.biblegateway.com/passage/?search=Luke+14:16&version=esv)
+> <sup>16</sup> But he said to him,  “A man once gave a great banquet and invited many.
+
+- who's doing what? God is inviting many. 
+
+> [!bible]+ [Luke 14:24 - ESV](https://www.biblegateway.com/passage/?search=Luke+14:24&version=esv)
+> <sup>24</sup> For I tell you,  none of those men who were invited shall taste my banquet.’”
+
+- Jesus is speaking in v. 24, and says they shall not taste **my** banquet.
+
+- you're invited. but in the great commission, you are now one of those servants (like Jesus) to go out on the streets and invite everyone.
+
