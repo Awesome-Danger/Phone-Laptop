@@ -165,3 +165,5 @@ the mountains were divided back when Solomon had died, and and Rehaboam took ove
 
 when we segment our worship assemblies "we've now come to our singing part of worship...", "we've now finished our communion segment of worship..."
 - makes me wonder if we have formalized/structured our worship in such a way that inhibits our spirit.
+
+when do things, we do them in remeberence of Jesus, not in reluctance, o
