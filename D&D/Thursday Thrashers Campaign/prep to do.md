@@ -3,9 +3,10 @@ maps
 - [ ] Map for [[Affirmadia]]
 
 story
+- [ ] what comes next?
 - [ ] Bjorn story
 - [ ] time traveler reference?
-- [ ] brad the midget revenge
+- [ ] brad the midget revenge?
 - [ ] [[seed of eden]]
 - [ ] [[Philosopher’s Stone]]
 
