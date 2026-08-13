@@ -12,4 +12,4 @@ tags: [plot]
 ---
  
 Previous: [[session 1-2]]
-Next: [[Phone + Laptop/D&D/Thursday Thrashers Campaign/Campaign Plot/Ben/session 3]]
+Next: [[Phone + Laptop/D&D/Thursday Thrashers Campaign/Plot So Far/Ben/session 3]]
