@@ -49,7 +49,7 @@ Powerful Items:
 
 
 - (Possible) Plot Items
-	![[The Ring of Brom]]
+	![[Phone + Laptop/D&D/Thursday Thrashers Campaign/Items/Plot Items/The Ring of Brom]]
 		![[Philosopher’s Stone]]
 	
 	![[Carving of Nashtuu]]

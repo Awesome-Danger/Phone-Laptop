@@ -1,7 +1,7 @@
 ## Theodosia ()
 
 ### In possession of:
-- [[The Ring of Brom]] (unknown)
+- [[Phone + Laptop/D&D/Thursday Thrashers Campaign/Items/Plot Items/The Ring of Brom]] (unknown)
 - [[Gambler's Coin]] (unknown)
 - [[I (Green)]]
 - [[Quartz Necklace]] (unknown)
@@ -31,7 +31,7 @@
 - [[lump of coal]] (unknown?)
 
 ### Experiences
-- currently not a part of the party ([[Session 2]]), and still in the mystical forest inside [[The Ring of Brom|Brom's Ring]]
+- currently not a part of the party ([[Session 2]]), and still in the mystical forest inside [[Phone + Laptop/D&D/Thursday Thrashers Campaign/Items/Plot Items/The Ring of Brom|Brom's Ring]]
 - has met [[VI (Purple)|VI]]
 - is aware of [[Ranii]]
 
