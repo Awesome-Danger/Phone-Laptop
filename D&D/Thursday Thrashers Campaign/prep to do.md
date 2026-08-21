@@ -6,9 +6,15 @@ story
 - [ ] what comes next?
 - [ ] Bjorn story
 - [ ] time traveler reference?
-- [ ] brad the midget revenge?
 - [ ] [[seed of eden]]
 - [ ] [[Philosopher’s Stone]]
+
+characters (story)
+- [ ] brad the midget revenge?
+
+
+npcs
+
 
 stat blocks
 - [ ] BBEG stat block
