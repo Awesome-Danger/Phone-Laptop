@@ -2,27 +2,38 @@ maps
 - [ ] new world map
 - [ ] Map for [[Affirmadia]]
 
+
 story
-- [ ] what comes next?
+- [x] what comes next?
 - [ ] Bjorn story
-- [ ] time traveler reference?
+
+
+items (plot)
 - [ ] [[seed of eden]]
 - [ ] [[Philosopher’s Stone]]
 
-characters (story)
+
+Characters and NPCs
 - [ ] brad the midget revenge?
 
 
-npcs
+easter eggs
+- [ ] time traveler reference?
+- [ ] Draconis easter egg
 
 
 stat blocks
-- [ ] BBEG stat block
-- [ ] [[Lost Souls]] stat block
-- [ ] [[Affirmadia]] stat blocks
-- [ ] dead character sheet
-- [ ] brad the midget stat block
+- [ ] BBEG (Hellion?)
+- [ ] [[Lost Souls]]
+- [ ] [[Affirmadia]] characters/npcs
+- [ ] "dead character" sheet
+- [ ] brad the midget
+- [ ] echoes of corruption
+
 
 etc
 - [ ] Lord of the Strings
+
+
+gameplay
 - [ ] voluntary hidden rolls
