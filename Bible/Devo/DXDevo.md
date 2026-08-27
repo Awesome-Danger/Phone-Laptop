@@ -1,7 +1,7 @@
 
 ## Spiritual Life Retreat Devo
-- [[Virtue]].
+- [[virtue]].
 - [[7 Deadly Sins vs 7 Heavenly Virtues]].
-- [[The Beatitudes]].
-- [[Maintaining the Relationship]]
-- 
+- [[the beatitudes]].
+- [[maintaining the relationship]]
+- [[seducing the dragon]]
