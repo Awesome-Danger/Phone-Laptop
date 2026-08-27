@@ -1,0 +1,3 @@
+Imagine if you will, you're in the ocean of God's love, and you don't love Him. Imagine all its depth, width, length, breadth- the space it takes up... all that for someone who doesn't love Him.
+If he has that amount of love for someone who doesn't love Him, imagine what it would be like if you loved Him back.
+Imagine having to drink that entire ocean of love all at once... John writes that His love was made manifest; that was Jesus. As much as was possible with human limitations of the brain, that ocean of love was used to form Jesus

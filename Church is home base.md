@@ -1,0 +1,1 @@
+As opposed to being around people who are not Christian, don't share the same beliefs as you, and/or challenge your faith, the Church is home base. It's where you go to be sharpened, encouraged, to regroup, and recenter yourself.

@@ -1,0 +1,1 @@
+The Spirit gives you the sense of uncanny valley; a sense that tells you something isn't right with this "Christian" person.
