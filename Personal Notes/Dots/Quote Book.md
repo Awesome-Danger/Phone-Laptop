@@ -43,3 +43,5 @@
 Me: If Jesus were a vegetable, what would he be? "Paraplegic." - Harmon
 
 "Please, no more banging" - Sadie, Summer 2026
+
+"Don't commit suicide... we want you around... Rachel in the other hand..." - Hawk
