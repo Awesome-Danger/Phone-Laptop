@@ -1,0 +1,5 @@
+If you believe in abortion as something that should be legal and well open to the public, then you can't say that you have a problem with the death penalty. That is so much worse than the death penalty; you are executing a beautiful and innocent life you created because of *your* mistake. Don't say "but what about the people who were raped?" You should know by now that less than 1% of people who get an abortion did it because they were raped, or conceived due to rape. that is an outstanding case, and I think you should get a C-Section (which I know can cause other medical complications) if you're worried about dying during child-birth. 
+
+Stop using the extreme and irregular to justify something extreme to be normal.
+
+(Did you know that there are physiological changes to the brain when you have a child? They optimize the connections in the neural pathways that make you more efficient with child-care.)
