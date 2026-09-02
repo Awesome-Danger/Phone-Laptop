@@ -1,3 +1,4 @@
+
 LORD HAND, YOUR (hand chest) BURDEN,
 MY WRONG REBUKE.
 SINS MY PILED (CHA, over head),
