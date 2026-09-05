@@ -9,6 +9,8 @@ Politics
 - [ ] anti-federalist papers
 - [ ] to kill a mockingbird 
 - [ ] brave new world
+- [ ] memory police
+- [ ] 
 
 
 
