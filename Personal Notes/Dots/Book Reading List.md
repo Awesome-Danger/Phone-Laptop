@@ -21,6 +21,7 @@ Fiction
 - [ ] the shining
 - [ ] other Steven King
 - [ ] moby dick
+- [ ] project hail Mary
 
 Other
 
