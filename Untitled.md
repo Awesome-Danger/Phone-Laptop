@@ -8,10 +8,13 @@ Player 2
 14
 10
 
+
 Player 3
 7
 7
+28
 
 Player 4
 15
 10
+11
