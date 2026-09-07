@@ -6,6 +6,7 @@ Player 1 32
 Player 2
 7
 14
+10
 
 Player 3
 7
