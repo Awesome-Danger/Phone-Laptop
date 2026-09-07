@@ -1,4 +1,4 @@
-Player 1
+Player 1 32
 6
 14
 12
