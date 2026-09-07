@@ -1,7 +1,7 @@
 Player 1
 6
 14
-
+12
 
 Player 2
 7
