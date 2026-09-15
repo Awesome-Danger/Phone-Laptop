@@ -1,5 +1,6 @@
 ---
-tags: [enemy]
+tags:
+  - enemy
 ---
 
 D&D

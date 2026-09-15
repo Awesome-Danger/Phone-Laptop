@@ -1,19 +1,20 @@
 ---
-tags: [DND, intro]
+tags:
+  - DND
+  - intro
 ---
 
 Places
 - a kingdom
 - a cave
 - ruins
-- 
+- a church
+- the King's 
 
 
-Times
+Times/events/era
 - around a war
 - creation
 - the end of the world
 - when something else ended
-
----
- 
+	- maybe the end of the Thursday Thrashers campaign?

@@ -1,5 +1,6 @@
 ---
-tags: [character]
+tags:
+  - character
 ---
 
 CHARACTER: Sensei Wu Shang  

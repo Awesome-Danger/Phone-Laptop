@@ -1,1 +1,0 @@
-the midget that helped the party get through the cave of illusions in [[]]

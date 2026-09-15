@@ -1,5 +1,6 @@
 ---
-tags: [item]
+tags:
+  - item
 ---
 
 A small box that's Bigger On The Inside, and Smaller On The Outside.

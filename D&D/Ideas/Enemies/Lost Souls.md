@@ -1,5 +1,6 @@
 ---
-tags: [enemy]
+tags:
+  - enemy
 ---
 
 - Give the impression of people of any kind through voices. (Trips up players)

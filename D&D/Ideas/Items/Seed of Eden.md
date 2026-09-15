@@ -1,5 +1,8 @@
 ---
-tags: [key, item, plot]
+tags:
+  - key
+  - item
+  - plot
 ---
 
 An orb that has curious abilities. [[Wu Shang]]swallowed it, and now a blue glow resides in his throat. The Seed of Eden has given him an indefinite lifespan. Other abilities are unknown. 

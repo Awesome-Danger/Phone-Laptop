@@ -1,5 +1,6 @@
 ---
-tags: [plot]
+tags:
+  - plot
 ---
 
 - The king sends out a bounty for the Browning brothers for 500Gp Dead or Alive

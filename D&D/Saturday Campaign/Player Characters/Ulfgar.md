@@ -1,5 +1,6 @@
 ---
-tags: [playable-character]
+tags:
+  - playable-character
 ---
 Ian
 

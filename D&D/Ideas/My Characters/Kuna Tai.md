@@ -1,5 +1,6 @@
 ---
-tags: [character]
+tags:
+  - character
 ---
 
 CHARACTER: Kuna Tai san  

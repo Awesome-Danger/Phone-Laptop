@@ -1,5 +1,6 @@
 ---
-tags: [NPC]
+tags:
+  - NPC
 ---
 
 - Leader of the [[Creed of Belgabad]].
