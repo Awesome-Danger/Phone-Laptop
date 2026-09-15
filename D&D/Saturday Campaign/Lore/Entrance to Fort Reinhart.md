@@ -6,7 +6,7 @@
 - The gate has engravings on it, and some glyphs that you can't understand. They're relatively simple, but intricately weaved together to make a greater whole. At the center, there's a small, round indent in the stone; from it, there are grooves like veins emanating across the whole door. There are four braziers in a square, with two in front of the door, and two more 20ft away. One is lit, and each one has something different in it:
 	- magic fire, frozen wood, oil, coal.
 	- **The magical fire doesn't light anything on fire but the oil.**
-		- Putting [[Phone + Laptop/D&D/Thursday Thrashers Campaign/Items/Plot Items/The Ring of Brom]] inside the door will cause the door to burn bright with white light.
+		- Putting [[Phone + Laptop/D&D/Saturday Campaign/Items/Plot Items/The Ring of Brom]] inside the door will cause the door to burn bright with white light.
 		- **Slumbering**: The white light fades, and nothing happens.
 		- **Awakened**: The light turns blue, fades, then the door opens.
 		- A concentrated breeze pushes away a bunch of snow, revealing a stone floor with more engravings.
