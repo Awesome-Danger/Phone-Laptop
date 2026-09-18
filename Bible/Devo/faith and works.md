@@ -30,6 +30,6 @@ it is not your actions that get you into heaven. Faith is proven with actions, b
 > <sup>15</sup> For you did not receive the spirit of slavery to fall back into fear, but you have received the Spirit of adoption as sons, by whom we cry, “Abba! Father!”
 > <sup>16</sup> The Spirit himself bears witness with our spirit that we are children of God,
 
---
+--1John2:4;3:18
 
 we are *justified by works* **through faith** ==because of grace==.
