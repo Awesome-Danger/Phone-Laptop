@@ -38,6 +38,31 @@ it is not your actions that get you into heaven. Faith is proven with actions, b
 > ---
 > <sup>18</sup> Little children, let us not love in word or talk but in deed and in truth.
 
---Rev2:1-6;3:1-3;2:18-21
+> [!bible]+ Revelation 2:1-6, 18-21, 3:1-3, 15-16 - ESV
+> <sup>1</sup> “To the angel of the church in Ephesus write: ‘The words of him who holds the seven stars in his right hand, who walks among the seven golden lampstands.
+> <sup>2</sup> “‘I know your works, your toil and your patient endurance, and how you cannot bear with those who are evil, but have tested those who call themselves apostles and are not, and found them to be false.
+> <sup>3</sup> I know you are enduring patiently and bearing up for my name's sake, and you have not grown weary.
+> <sup>4</sup> But I have this against you, that you have abandoned the love you had at first.
+> <sup>5</sup> Remember therefore from where you have fallen; repent, and do the works you did at first. If not, I will come to you and remove your lampstand from its place, unless you repent.
+> <sup>6</sup> Yet this you have: you hate the works of the Nicolaitans, which I also hate.
+>
+> ---
+> <sup>18</sup> “And to the angel of the church in Thyatira write: ‘The words of the Son of God, who has eyes like a flame of fire, and whose feet are like burnished bronze.
+> <sup>19</sup> “‘I know your works, your love and faith and service and patient endurance, and that your latter works exceed the first.
+> <sup>20</sup> But I have this against you, that you tolerate that woman Jezebel, who calls herself a prophetess and is teaching and seducing my servants to practice sexual immorality and to eat food sacrificed to idols.
+> <sup>21</sup> I gave her time to repent, but she refuses to repent of her sexual immorality.
+>
+> ---
+> 3
+> ---
+> <sup>1</sup> “And to the angel of the church in Sardis write: ‘The words of him who has the seven spirits of God and the seven stars. “‘I know your works. You have the reputation of being alive, but you are dead.
+> <sup>2</sup> Wake up, and strengthen what remains and is about to die, for I have not found your works complete in the sight of my God.
+> <sup>3</sup> Remember, then, what you received and heard. Keep it, and repent. If you will not wake up, I will come like a thief, and you will not know at what hour I will come against you.
+>
+> ---
+> <sup>15</sup> “‘I know your works: you are neither cold nor hot. Would that you were either cold or hot!
+> <sup>16</sup> So, because you are lukewarm, and neither hot nor cold, I will spit you out of my mouth.
+
+
 
 we are *justified by works* **through faith** ==because of grace==.
