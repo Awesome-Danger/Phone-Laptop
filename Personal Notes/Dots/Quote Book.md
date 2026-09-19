@@ -53,4 +53,4 @@ Me: If Jesus were a vegetable, what would he be? "Paraplegic." - Harmon
 *Charlie talking about a girl dating every guy in her grade in a high-school the size of Harding* 
 me: "that's like, 3 guys a day!"
 "Breakfast, lunch, and dinner" - Ruthie Sulivan
-"That's her meal plan" - Rachel "Evil Rachel" 
+"That's her meal plan" - Rachel Pew
