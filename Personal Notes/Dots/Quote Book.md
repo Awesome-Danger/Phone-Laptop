@@ -40,6 +40,10 @@
 
 "Great minds think alike... and so do ours." - Jeremiah 2025
 
+"Stop sending me pictures of dead babies, it's turning me on!" - Judson
+
+"Are you a school, because I want to shoot kids inside you." - Judson
+
 Me: If Jesus were a vegetable, what would he be? "Paraplegic." - Harmon
 
 "Please, no more banging" - Sadie, Summer 2026
