@@ -1,1 +1,3 @@
-Basically the actual living statue pandemic
+Basically the actual living statue pandemic. 
+
+A town has an uncanny phenomenon where people keep freezing like a statue, and can't move or speak, and seemingly might not even breathe... the party may watch somebody become affected right in front of them, mid conversation...
