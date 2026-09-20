@@ -1,0 +1,3 @@
+
+Race: Rimekin
+Class: monk
