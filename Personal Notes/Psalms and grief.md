@@ -234,3 +234,8 @@ psalm 22 provides an image of things made right. In the psalms, we certainly get
 
 *read the psalm and find the ways that wrongs have been righted, and the praise responses.*
 
+> "we have to learn how to be sad and happy at the same time"
+
+
+the pslams help us remember his special love "hessed"
+
