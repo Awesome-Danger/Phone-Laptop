@@ -8,4 +8,4 @@ I don't like how she is distinguishing religious conversion, and "going through 
 
 42 - 
 
-43 - 
+43 - I feel that single missionaries should be more careful as to how they tell people about the roles of men and women in the church. Not that I think that these women being shown a new outlook on life is a bad thing--far from it. But I worry that the women teaching them don't have the experience and wisdom to tell and show these women what a good, healthy, Christ centered marriage or relationship looks like, or what roles women have that are unique and/or common from men in both the family, and as children of God. I worry that their preconceived worldviews will poison the relationships between these women and the men in their lives like it is here in the U.S.. They might have the gift of utterance of knowledge and wisdom talked about in 1Cor 12:8, but something tells me no.
