@@ -230,6 +230,7 @@ psalm 22 provides an image of things made right. In the psalms, we certainly get
 > <sup>12</sup> The pastures of the wilderness overflow, the hills gird themselves with joy,
 > <sup>13</sup> the meadows clothe themselves with flocks, the valleys deck themselves with grain, they shout and sing together for joy.
 
-
-
 --psalm97
+
+*read the psalm and find the ways that wrongs have been righted, and the praise responses.*
+
