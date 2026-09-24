@@ -26,7 +26,7 @@ Paul is talking about how he has been in the highs and lows, and how he is conte
 > <sup>30</sup> If I must boast, I will boast of the things that show my weakness.
 
 How can Paul say that he has been content in all these circumstances?
-Paul
+Paul is not renting on himself:
 
 > [!bible]+ [Isaiah 40:25-31 - ESV](https://www.biblegateway.com/passage/?search=Isaiah+40:25-31&version=esv)
 > <sup>25</sup> To whom then will you compare me, that I should be like him? says the Holy One.
