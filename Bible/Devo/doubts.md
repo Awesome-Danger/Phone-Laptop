@@ -19,3 +19,19 @@ we need to encourage asking questions, and not just mindlessly accepting things 
 > [!bible]+ Colossians 2:8 - ESV
 > <sup>8</sup> See to it that no one takes you captive by philosophy and empty deceit, according to human tradition, according to the elemental spirits  of the world, and not according to Christ.
 
+> [!bible]+ 1 Timothy 6:20-21 - ESV
+> <sup>20</sup> O Timothy, guard the deposit entrusted to you. Avoid the irreverent babble and contradictions of what is falsely called “knowledge,”
+> <sup>21</sup> for by professing it some have swerved from the faith. Grace be with you.
+
+> [!bible]+ 2 Timothy 3:16-17 - ESV
+> <sup>16</sup> All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness,
+> <sup>17</sup> that the man of God  may be complete, equipped for every good work.
+
+> [!bible]+ 1 Peter 1:6-7 - ESV
+> <sup>6</sup> In this you rejoice, though now for a little while, if necessary, you have been grieved by various trials,
+> <sup>7</sup> so that the tested genuineness of your faith — more precious than gold that perishes though it is tested by fire — may be found to result in praise and glory and honor at the revelation of Jesus Christ.
+
+> [!bible]+ 1 Thessalonians 5:20-21 - ESV
+> <sup>20</sup> Do not despise prophecies,
+> <sup>21</sup> but test everything; hold fast what is good.
+
