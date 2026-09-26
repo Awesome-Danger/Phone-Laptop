@@ -7,4 +7,4 @@ From the deepest parts of your minds, you feel a hot flame breathed across your 
 
 Now you feel your head, your spine, your arms, your legs kicking, your hands wading through the water, your feet, you're swimming upwards, and finally, you surface. You open your eyes, and find yourself in total darkness.
 
-You're on your knees, and as your eyes adjust, you look around, and see pools of liquid (6) all around you. You turn around, and there's a man posed like he is being knighted (or the terminator).
+You're on your knees, and as your eyes adjust, you look around, and see pools of liquid (6) all around you. You turn around, and there's a man posed like he is being knighted (or the terminator)...
