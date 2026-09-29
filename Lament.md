@@ -1,0 +1,3 @@
+Their sorrow will turn to joy, their weeping to laughter...
+
+Almost every lament psalm ends with a happy ending, which results from trusting in the LORD.
