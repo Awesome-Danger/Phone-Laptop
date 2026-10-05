@@ -6,7 +6,10 @@
 
 ## 10/4/26
 
-23 - 
-40 - 
-58 - 
-88 - 
+23 - The idea that "Lord" means "owner of slaves" does change the perspective of our role a little, but the cultural idea of a slave was different than what we think today. I like the word "bondservant"  because of the cultural significance it has, especially as referenced in Philippians. This idea mixed with being a "slave of all" is interesting, because it makes everybody else a "lord," meaning that everybody else is above you, which is what's taught by Paul. 
+
+40 - This is honestly a much better lesson on the history of missions than anything else I've received before. 
+
+58 - These Moravians are interesting, and I acknowledge their achievement of having a 100 year prayer watch. Personally, I initially see that their beliefs in baptism and what makes a child of God is different from mine, and I want to keep everything they do at arms length in my mind. Then I think to myself, "Am I God? Do I know everything there is to know about the Bible? Do I believe that I could have flaws in my theology? Do I believe that I am trying my best to follow what the Bible says? wouldn't any other real Christian say the same?" I'm not saying I agree with them, or accept their ideas, but all this to say that I shouldn't be so quick to dismiss ideas that are different from mine.
+
+88 - I think we need to be very careful as to how we spread the gospel through media, and other outlets over the internet. It's most important that we get the right, and most important/core messages across, and that it results in a full response. We don't want to make Social Media Christians that only know the very very surface level of Christianity, and don't actually know anything about God, Jesus, or what a Christian is supposed to look like, because they haven't ever actually opened up the Bible for themselves. We want to create *doers* of the word, not just peddlers of it. 
