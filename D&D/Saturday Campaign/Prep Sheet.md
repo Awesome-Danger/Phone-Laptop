@@ -1,8 +1,5 @@
 
-![[Entrance to Fort Reinhart]]
-
-
-[[a city of honor]] (Affirmadia)
+[Sharruth](https://forgottenrealms.fandom.com/wiki/Stormwreck_Isle) = BBEG?
 
 ---
 [[Important Character Details to Keep track of]]
