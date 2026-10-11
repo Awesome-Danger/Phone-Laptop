@@ -92,9 +92,9 @@ tempHp:0
 
 ## Currency
 
-| CP  | SP  | EP  | GP  | PP  |
-| :-: | :-: | :-: | :-: | :-: |
-|  0  |  0  |  0  |  0  |  0  |
+| CP | SP | EP | GP | PP |
+|:---:|:---:|:---:|:---:|:---:|
+| 0 | 0 | 0 | 0 | 0 |
 
 ## Equipment
 
@@ -157,41 +157,39 @@ At your GM's discretion, you can take a Dark Bargain.
 
 ### Cantrips
 
-| Spell | School | Cast Time | Range | Conc. | Prepared |
-|:---|:---|:---|:---|:---:|:---:|
-| **Guidance** | Divination | 1 Action | 0 ft | ✓ | — |
-| **Resistance** | Abjuration | 1 Action | 0 ft | ✓ | — |
-| **Spare the Dying** | Necromancy | 1 Action | 0 ft | — | — |
+| Spell                   | School     | Cast Time | Range | Conc. | Prepared |
+| :---------------------- | :--------- | :-------- | :---- | :---: | :------: |
+| **[[Guidance]]**        | Divination | 1 Action  | 0 ft  |   ✓   |    —     |
+| **[[Resistance]]**      | Abjuration | 1 Action  | 0 ft  |   ✓   |    —     |
+| **[[Spare the Dying]]** | Necromancy | 1 Action  | 0 ft  |   —   |    —     |
 
 ### 1st Level
 
-| Spell | School | Cast Time | Range | Conc. | Prepared |
-|:---|:---|:---|:---|:---:|:---:|
-| **Bane** | Enchantment | 1 Action | 30 ft | ✓ | ✓ |
-| **Protection from Evil and Good** | Abjuration | 1 Action | 0 ft | ✓ | ✓ |
-| **Shield of Faith** | Abjuration | 1 Bonus Action | 60 ft | ✓ | ✓ |
+| Spell                                 | School      | Cast Time      | Range | Conc. | Prepared |
+| :------------------------------------ | :---------- | :------------- | :---- | :---: | :------: |
+| **[[Bane]]**                          | Enchantment | 1 Action       | 30 ft |   ✓   |    ✓     |
+| **[[Protection from Evil and Good]]** | Abjuration  | 1 Action       | 0 ft  |   ✓   |    ✓     |
+| **[[Shield of Faith]]**               | Abjuration  | 1 Bonus Action | 60 ft |   ✓   |    ✓     |
 
 ### 2nd Level
 
-| Spell | School | Cast Time | Range | Conc. | Prepared |
-|:---|:---|:---|:---|:---:|:---:|
-| **Hold Person** | Enchantment | 1 Action | 60 ft | ✓ | ✓ |
-| **Prayer of Healing** | Evocation | 10 Minute(s) | 30 ft | — | ✓ |
-| **Blindness/Deafness** | Necromancy | 1 Action | 30 ft | — | ✓ |
+| Spell                                          | School      | Cast Time    | Range | Conc. | Prepared |
+| :--------------------------------------------- | :---------- | :----------- | :---- | :---: | :------: |
+| **[[Hold Person]]**                            | Enchantment | 1 Action     | 60 ft |   ✓   |    ✓     |
+| **[[Prayer of Healing]]**                      | Evocation   | 10 Minute(s) | 30 ft |   —   |    ✓     |
+| **[[Blindness-Deafness\|Blindness/Deafness]]** | Necromancy  | 1 Action     | 30 ft |   —   |    ✓     |
 
 ### 3rd Level
 
-| Spell | School | Cast Time | Range | Conc. | Prepared |
-|:---|:---|:---|:---|:---:|:---:|
-| **Dispel Magic** | Abjuration | 1 Action | 120 ft | — | ✓ |
-| **Mass Healing Word** | Evocation | 1 Bonus Action | 60 ft | — | ✓ |
-| **Remove Curse** | Abjuration | 1 Action | 0 ft | — | ✓ |
-
-## Backstory & Notes
+| Spell                     | School     | Cast Time      | Range  | Conc. | Prepared |
+| :------------------------ | :--------- | :------------- | :----- | :---: | :------: |
+| **[[Dispel Magic]]**      | Abjuration | 1 Action       | 120 ft |   —   |    ✓     |
+| **[[Mass Healing Word]]** | Evocation  | 1 Bonus Action | 60 ft  |   —   |    ✓     |
+| **[[Remove Curse]]**      | Abjuration | 1 Action       | 0 ft   |   —   |    ✓     |
 
 ## Session Notes
 
-*Add your notes here.*
+
 
 ---
 *Imported from [D&D Beyond](https://www.dndbeyond.com/characters/172149764) — Level 5 John Help*
