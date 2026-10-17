@@ -4,4 +4,5 @@
 - what is your character's vocal stim?
 - what was your character's childhood bully?
 - childhood friend?
+- what does your family line look like (siblings, parents, etc. Not necessarily relationships)
 - 
