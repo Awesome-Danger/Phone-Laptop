@@ -2,4 +2,4 @@
 - How fractured is your character's psychi?
 - Did your Character have an imaginary friend, and if so, what was their name, and appearance if applicable?
 - what is your character's vocal stim?
-- 
+- what was your character's 
