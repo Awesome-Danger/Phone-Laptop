@@ -7,6 +7,3 @@
 7. Lysosome
 8. Ribosome
 9. Vacuole
-10. 
-
-
