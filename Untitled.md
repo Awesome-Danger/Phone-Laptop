@@ -1,9 +1,9 @@
-1. RER
-2. SER
-3. Mitochondria
-4. Centrioles
-5. Golgi apparatus
+1. RER ()
+2. SER ()
+3. Mitochondria (Y puffy pipecleaner)
+4. Centrioles (Y pipecleaner)
+5. Golgi apparatus (pp Puffy Pipecleaner)
 6. Golgi vesicles
-7. Lysosome
-8. Ribosome
-9. Vacuole
+7. Lysosome (round G)
+8. Ribosome (red sparkly pipecleaner)
+9. Vacuole (B candy)
