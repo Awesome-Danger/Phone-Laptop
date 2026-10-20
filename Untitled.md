@@ -1,14 +1,12 @@
 1. RER
 2. SER
 3. Mitochondria
-4. Microfilaments
-5. Microtubules
-6. Centrioles
-7. Golgi apparatus
-8. Golgi vesicles
-9. Lysosome
-10. Ribosome
-11. Vacuole
-12. 
+4. Centrioles
+5. Golgi apparatus
+6. Golgi vesicles
+7. Lysosome
+8. Ribosome
+9. Vacuole
+10. 
 
 
