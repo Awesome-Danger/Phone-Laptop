@@ -1,3 +1,7 @@
+---
+tags:
+  - D&D
+---
 
 *A gold ring with a large, cut, red sapphire that contains a pool of swirling energy within it.*
 

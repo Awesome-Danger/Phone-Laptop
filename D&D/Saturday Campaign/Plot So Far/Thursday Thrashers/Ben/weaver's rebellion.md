@@ -1,3 +1,7 @@
+---
+tags:
+  - D&D
+---
 - a man tried to take hold of some power, and it didn't go very well.
 - the king "took care of it"
 - in the creation of Drakemont, the "gods" blessed every city with their own strand.

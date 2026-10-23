@@ -1,6 +1,7 @@
 ---
 tags:
   - affirmadia
+  - D&D
 ---
 
 - **Race:** Human

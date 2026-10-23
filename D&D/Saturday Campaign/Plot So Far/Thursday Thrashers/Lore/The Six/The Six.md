@@ -1,3 +1,7 @@
+---
+tags:
+  - D&D
+---
 The Six are the six strands that overlook, and make up the universe. All six have a form they prefer in their own plane, but as a strand, some reside within a being, object, or only at a location. 
 
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - spell
+---
 ```spellcard
 name: "Prayer of Healing"
 source: "PHB'14"

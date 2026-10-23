@@ -1,3 +1,7 @@
+---
+tags:
+  - D&D
+---
 
 >Most people in Affirmadia don't know that the large blue flame at the center of the city is not actually a strand. 
 >- Affirmadia has a warped understanding of what the Blue Flame is. To them, the [[Blue Flame of Affirmadia]] is a gift from the gods, and what makes Affirmadia livable.

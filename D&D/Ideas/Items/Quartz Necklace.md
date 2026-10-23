@@ -1,3 +1,7 @@
+---
+tags:
+  - D&D
+---
 - Changes alignment to Chaotic Evil while wearing it.
 - If swallowed, target will die instantly.
 

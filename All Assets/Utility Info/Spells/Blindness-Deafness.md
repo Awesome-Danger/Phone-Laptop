@@ -1,3 +1,7 @@
+---
+tags:
+  - spell
+---
 ```spellcard
 name: "Blindness/Deafness"
 source: "PHB'14"

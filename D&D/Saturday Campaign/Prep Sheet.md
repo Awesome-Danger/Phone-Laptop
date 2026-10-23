@@ -1,3 +1,7 @@
+---
+tags:
+  - D&D
+---
 
 The party leaves the Island of Stormwreck Isle by riding an unnamed ?
 

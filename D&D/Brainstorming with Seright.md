@@ -1,3 +1,7 @@
+---
+tags:
+  - D&D
+---
 Nathaniel (player) expects a twist where his brother is willingly working with the bad guys...
 - his character doesn't expect that, though...
 *what would neither of them expect?*

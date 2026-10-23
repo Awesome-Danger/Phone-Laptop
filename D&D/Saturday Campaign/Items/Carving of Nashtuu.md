@@ -1,2 +1,6 @@
+---
+tags:
+  - D&D
+---
 
 This gives the wearer a different identity of choice; assuming an entirely different personality, cognitive abilities, memories, and physical appearance. However, the abilities of this mask are limited to the mind, aesthetics and, to a small degree, physical abilities such as strength, physique, and height. This mask can make you slightly stronger or any amount weaker. The voice is changed as well.

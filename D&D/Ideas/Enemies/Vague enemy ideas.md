@@ -1,6 +1,7 @@
 ---
 tags:
   - enemy
+  - D&D
 ---
 
 D&D

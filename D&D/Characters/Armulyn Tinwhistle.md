@@ -1,10 +1,10 @@
 ---
-name: "Armulyn Tinwhistle"
-race: "Gnome"
-class: "Bard 3"
+name: Armulyn Tinwhistle
+race: Gnome
+class: Bard 3
 level: 3
-background: "Sage"
-alignment: "Chaotic Good"
+background: Sage
+alignment: Chaotic Good
 xp: 0
 hp: 24
 modifier: 2
@@ -19,7 +19,11 @@ con: 14
 int: 14
 wis: 10
 cha: 15
-tags: ["dnd-character", "gnome", "bard"]
+tags:
+  - dnd-character
+  - gnome
+  - bard
+  - D&D
 dndbeyond_id: 170598772
 ---
 

@@ -22,6 +22,7 @@ tags:
   - dnd-character
   - variant-human
   - monk
+  - D&D
 dndbeyond_id: 131711006
 ---
 

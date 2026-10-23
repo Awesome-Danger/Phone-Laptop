@@ -1,6 +1,8 @@
 ---
 aliases:
   - III
+tags:
+  - D&D
 ---
 
 MONKEY

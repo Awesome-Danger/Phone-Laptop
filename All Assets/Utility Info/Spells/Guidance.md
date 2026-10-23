@@ -1,3 +1,7 @@
+---
+tags:
+  - spell
+---
 ```spellcard
 name: "Guidance"
 source: "PHB'14"

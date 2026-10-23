@@ -1,3 +1,7 @@
+---
+tags:
+  - spell
+---
 ```spellcard
 name: "Protection from Evil and Good"
 source: "PHB'14"

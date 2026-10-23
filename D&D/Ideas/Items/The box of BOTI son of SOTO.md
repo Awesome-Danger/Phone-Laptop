@@ -1,6 +1,7 @@
 ---
 tags:
   - item
+  - D&D
 ---
 
 A small box that's Bigger On The Inside, and Smaller On The Outside.

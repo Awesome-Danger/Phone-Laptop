@@ -1,6 +1,7 @@
 ---
 tags:
   - playable-character
+  - D&D
 aliases:
   - Thea
 ---

@@ -1,3 +1,7 @@
+---
+tags:
+  - D&D
+---
 Could my current campaign ideas fit in a pirate era?
 - no
 

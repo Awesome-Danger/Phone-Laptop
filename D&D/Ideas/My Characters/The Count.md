@@ -1,6 +1,7 @@
 ---
 tags:
   - character
+  - D&D
 ---
 
 CHARACTER: The Count

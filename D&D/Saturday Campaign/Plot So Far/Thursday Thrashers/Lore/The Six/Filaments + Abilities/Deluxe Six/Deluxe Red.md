@@ -1,3 +1,7 @@
+---
+tags:
+  - D&D
+---
 Blood magic
 - hp to magic
 	- starts with 1d10 physical damage, and +1d10 per level past 1

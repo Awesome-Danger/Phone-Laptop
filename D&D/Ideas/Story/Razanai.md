@@ -1,3 +1,7 @@
+---
+tags:
+  - D&D
+---
 
 ## Party's Knowledge
 The Razanai the extinct race of builders. Legend says that these builders made old temples, caverns, and even mountains. These builders built structures that became one with nature, but have now become lost, and no one can find them. 

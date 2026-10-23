@@ -1,3 +1,7 @@
+---
+tags:
+  - D&D
+---
 
 ## DM Notes
 - *the flame is what makes [[Affirmadia]] frozen.*

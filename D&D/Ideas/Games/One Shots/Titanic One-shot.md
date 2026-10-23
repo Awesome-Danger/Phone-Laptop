@@ -1,4 +1,8 @@
 ---
+tags:
+  - D&D
+---
+---
 tags: [Call-of-Cthulhu]
 ---Oneshot?
 

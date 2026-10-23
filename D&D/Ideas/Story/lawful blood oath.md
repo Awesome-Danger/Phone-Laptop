@@ -1,3 +1,7 @@
+---
+tags:
+  - D&D
+---
 - an unbreakable promise made between two people. 
 - the one giving the promise must forge and sharpen, or otherwise provide a weapon they will be killed with by the recipient if they fail. The oath maker may choose how they will be killed if the oath is broken (if still honorable). 
 - The blood oath is sealed by engraving the symbol of the blood oath in the blade and cutting both participants palms, then clasping/pressing their palms together. 

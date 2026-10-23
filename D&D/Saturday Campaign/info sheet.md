@@ -1,3 +1,7 @@
+---
+tags:
+  - D&D
+---
 [[Kai-Zehteo|Abraham]] = room 1
 [[Cairn Ouneros|Anthony]] = room 2
 [[Armulyn Tinwhistle|Stephen]] = room 1

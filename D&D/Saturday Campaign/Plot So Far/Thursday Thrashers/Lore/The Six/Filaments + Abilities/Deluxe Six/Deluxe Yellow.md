@@ -1,3 +1,7 @@
+---
+tags:
+  - D&D
+---
 
 In the clutches of the monkey's paw, you find:
 - [[The Eye of the Familiar]]

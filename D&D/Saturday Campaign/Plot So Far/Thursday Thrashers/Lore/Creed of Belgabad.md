@@ -1,5 +1,7 @@
 ---
 aliases:
   - Creed of Bahamut
+tags:
+  - D&D
 ---
 The Creed's purpose is to maintain balance in the world by capturing, annihilating, and by any means, stopping spread of the [[Corruption]]/Tiamat.

@@ -1,3 +1,7 @@
+---
+tags:
+  - D&D
+---
 each of the strands alone aren't powerful enough to face the king.
 - The strands have been transformed into raw, untamed forms of themselves
 >"there must be some way to improve each strand's abilities... maybe we should check where we got them from originally..."

@@ -1,1 +1,5 @@
+---
+tags:
+  - D&D
+---
 This nose ring can only be used once. This nose ring is hollow on the inside with a perfect seal, and holds in it a liquid poison that kills in 1 hour. There is no antidote.

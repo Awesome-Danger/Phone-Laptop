@@ -1,6 +1,7 @@
 ---
 tags:
   - NPC
+  - D&D
 ---
 Rented a warehouse in the southern edge of the city near the sewers.
 2231 Asbrick Dr.

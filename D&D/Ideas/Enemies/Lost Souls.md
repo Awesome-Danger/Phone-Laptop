@@ -1,6 +1,7 @@
 ---
 tags:
   - enemy
+  - D&D
 ---
 
 - Give the impression of people of any kind through voices. (Trips up players)

@@ -1,10 +1,10 @@
 ---
-name: "John Help"
-race: "Human"
-class: "Cleric 5"
+name: John Help
+race: Human
+class: Cleric 5
 level: 5
-background: "Unknown Background"
-alignment: "Lawful Good"
+background: Unknown Background
+alignment: Lawful Good
 xp: 0
 hp: 38
 modifier: 0
@@ -19,7 +19,11 @@ con: 15
 int: 11
 wis: 18
 cha: 15
-tags: ["dnd-character", "human", "cleric"]
+tags:
+  - dnd-character
+  - human
+  - cleric
+  - D&D
 dndbeyond_id: 172149764
 ---
 

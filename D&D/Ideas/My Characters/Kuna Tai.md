@@ -1,6 +1,7 @@
 ---
 tags:
   - character
+  - D&D
 ---
 
 CHARACTER: Kuna Tai san  

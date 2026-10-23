@@ -1,1 +1,5 @@
+---
+tags:
+  - D&D
+---
 Do a campaign where all the players are based off of college majors.

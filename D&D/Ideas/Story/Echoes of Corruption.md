@@ -1,1 +1,5 @@
+---
+tags:
+  - D&D
+---
 Corrupted items, people, animals, spells, or even places. Random occurrences of corruption can include visions, illusions, and getting stuck in another plane.

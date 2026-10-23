@@ -1,10 +1,10 @@
 ---
-name: "Bjorn 2014"
-race: "Dragonborn"
-class: "Druid 4 / Warlock 1"
+name: Bjorn 2014
+race: Dragonborn
+class: Druid 4 / Warlock 1
 level: 5
-background: "Criminal / Spy"
-alignment: "Neutral Good"
+background: Criminal / Spy
+alignment: Neutral Good
 xp: 0
 hp: 38
 modifier: 2
@@ -19,7 +19,12 @@ con: 14
 int: 13
 wis: 14
 cha: 13
-tags: ["dnd-character", "dragonborn", "druid", "warlock"]
+tags:
+  - dnd-character
+  - dragonborn
+  - druid
+  - warlock
+  - D&D
 dndbeyond_id: 159606981
 ---
 

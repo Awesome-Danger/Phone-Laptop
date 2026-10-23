@@ -1,3 +1,7 @@
+---
+tags:
+  - spell
+---
 ```spellcard
 name: "Cure Wounds"
 source: "PHB'14"

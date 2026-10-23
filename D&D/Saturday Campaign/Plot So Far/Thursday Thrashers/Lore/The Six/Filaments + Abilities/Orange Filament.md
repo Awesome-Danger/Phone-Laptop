@@ -1,2 +1,6 @@
+---
+tags:
+  - D&D
+---
 
 ![[Mirakuru]]

@@ -1,3 +1,7 @@
+---
+tags:
+  - D&D
+---
 - Can be used to lock any door or special entrance, but not unlock it.
 
 ![[key-necklace.jpg]]

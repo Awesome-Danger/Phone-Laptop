@@ -1,3 +1,7 @@
+---
+tags:
+  - D&D
+---
 After the party finds [[Ulfgar]] still unconscious, they travel south away from [[Memoria]], towards [[Affirmadia]], the icy, and mountainous area. On their way there, they see a farmer's land, barn, and animals. After mentioning dark magic to the farmer, he slams the door on them, saying he refuses to have anything to do with it, not being a magical family anyways. After asking an unhelpful horse if there are any magical healers around for Ulfgar, they travel onward south. 
 
 On the way, they walk into a large, thick brush of woods filled with mist, with the trees blocking most light from coming in. The woods suddenly have a great many human people hanging from great heights of 60 ft, with ropes around their necks, and hanging dead on the tree branches, some with cloths over their heads, others decomposed with entrails spilling out of them; even a few that have degraded so much, they slipped from the ropes, and made a kind of sludge on the ground.

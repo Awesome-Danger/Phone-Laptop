@@ -1,2 +1,6 @@
+---
+tags:
+  - D&D
+---
 - If swallowed, this will replace target's will with pure evil (lawful evil).
 - If broken, it will light a blue flame. If consumed afterwards, grants +2d8 permanent health.![[Coal.webp]]

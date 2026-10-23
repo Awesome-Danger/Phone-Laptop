@@ -1,3 +1,7 @@
+---
+tags:
+  - D&D
+---
 
 - Character Setup
 	- Each player is given an item chosen by the DM to inherit at the beginning of the Campaign. These items have no immediate purpose or value, but prove to be important later in the campaign. Item pool is as follows:

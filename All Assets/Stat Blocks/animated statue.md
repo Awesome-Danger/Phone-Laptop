@@ -1,3 +1,7 @@
+---
+tags:
+  - statblock
+---
 Medium construct, unaligned
 
 **Armor Class** 16 (natural armor)  

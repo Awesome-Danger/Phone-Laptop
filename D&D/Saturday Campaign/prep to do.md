@@ -1,3 +1,7 @@
+---
+tags:
+  - D&D
+---
 maps
 - [ ] new world map
 - [ ] Map for [[Affirmadia]]

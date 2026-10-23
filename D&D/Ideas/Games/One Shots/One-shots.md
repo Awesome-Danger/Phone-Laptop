@@ -1,3 +1,7 @@
+---
+tags:
+  - D&D
+---
 
 - [[War of gods]] during/before creation.
 	- war of the gods' creations.

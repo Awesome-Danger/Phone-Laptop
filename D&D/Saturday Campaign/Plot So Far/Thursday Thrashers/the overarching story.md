@@ -1,3 +1,7 @@
+---
+tags:
+  - D&D
+---
 king getting us to pluck the strings
 - king wins against party, giving him the strands
 - Destiny 2 Ahkmkara

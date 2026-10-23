@@ -1,3 +1,7 @@
+---
+tags:
+  - D&D
+---
 Comes in several forms
 - objects and items, especially weapons
 - animals

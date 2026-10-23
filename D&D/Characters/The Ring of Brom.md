@@ -22,6 +22,7 @@ tags:
   - dnd-character
   - elf
   - sorcerer
+  - D&D
 dndbeyond_id: 158949090
 ---
 

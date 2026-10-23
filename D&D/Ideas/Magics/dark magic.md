@@ -1,3 +1,7 @@
+---
+tags:
+  - D&D
+---
 - dark magic is an *umbrella term* that includes **magic that directly corrupts** in some way and/or **requires very important sacrifice.** Whether it's your body, your mind and/or some other object or being. 
 - all magic that corrupts is dark magic, but not all dark magic corrupts. 
 - dark magic has other, more acute areas of magic that work in specific ways

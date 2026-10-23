@@ -1,3 +1,7 @@
+---
+tags:
+  - D&D
+---
 Bjorn opens his eyes in a dark green place, face to face with a creature that's like the tentacle thing from Skyrim Dragonborn DLC.
 
 It gives him a choice: Forget everything about the creed, or lose his own will.

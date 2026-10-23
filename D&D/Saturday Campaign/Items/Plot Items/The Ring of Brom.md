@@ -2,6 +2,7 @@
 tags:
   - item
   - key
+  - D&D
 aliases:
   - Brom's ring
   - Brom's Ring

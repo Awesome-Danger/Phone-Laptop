@@ -1,1 +1,5 @@
+---
+tags:
+  - D&D
+---
 This ring has an opening under the red gem of 1/2 an inch in diameter and has inside it a 3x3x3 ft separate relative dimension that has a rate of time at 2x the normal world’s time.

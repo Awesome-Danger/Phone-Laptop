@@ -1,3 +1,7 @@
+---
+tags:
+  - D&D
+---
 Oneshot with Bjorn and his Brotherhood/Creed Brothers. 
 
 - **The** mission

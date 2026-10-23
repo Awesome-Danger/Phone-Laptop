@@ -1,3 +1,7 @@
+---
+tags:
+  - D&D
+---
 
 ##### Through the Blizzard
 ### leaving the town

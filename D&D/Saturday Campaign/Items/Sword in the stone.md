@@ -1,2 +1,6 @@
+---
+tags:
+  - D&D
+---
 - A sword found with the blade inside a large stone. The blade has a few engravings on the blade, but is otherwise completely unremarkable, and is a normal sword. The only thing special about this sword is the engravings.
 - it *might* belong to someone

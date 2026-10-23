@@ -1,6 +1,7 @@
 ---
 tags:
   - affirmadia
+  - D&D
 ---
 ![[screenshot_20260825_200855.jpg]]
 - **Race:** Dragonborn

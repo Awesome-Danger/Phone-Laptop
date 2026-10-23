@@ -1,3 +1,7 @@
+---
+tags:
+  - D&D
+---
 
 From [[VI (Purple)]] [[session 11]]
 

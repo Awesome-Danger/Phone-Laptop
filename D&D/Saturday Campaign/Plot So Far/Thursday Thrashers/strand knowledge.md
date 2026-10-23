@@ -1,3 +1,7 @@
+---
+tags:
+  - D&D
+---
 
 ### Party Knowledge
 - center of the castle
