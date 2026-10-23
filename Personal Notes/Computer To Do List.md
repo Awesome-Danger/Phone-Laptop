@@ -1,0 +1,4 @@
+- [ ] learn how to use vim
+- [ ] get [oasis hear solid (this is the link)](https://www.reddit.com/r/unixporn/comments/1wzffbn/hyprland_oasis_dots_10_vim_modes_for_the_whole/)
+- [ ] make obsidian completely keyboard usable
+- [ ] fix obsidian-git issues

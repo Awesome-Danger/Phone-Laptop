@@ -1,10 +1,10 @@
 ---
-name: "Armulyn"
+name: "Armulyn Tinwhistle"
 race: "Gnome"
 class: "Bard 3"
 level: 3
 background: "Sage"
-alignment: "Unaligned"
+alignment: "Chaotic Good"
 xp: 0
 hp: 24
 modifier: 2
@@ -23,10 +23,10 @@ tags: ["dnd-character", "gnome", "bard"]
 dndbeyond_id: 170598772
 ---
 
-# Armulyn
+# Armulyn Tinwhistle
 
 > **Bard 3** • Gnome • Level 3
-> *Sage — Unaligned*
+> *Sage — Chaotic Good*
 
 ```dnd-sheet-launcher
 charId:170598772
@@ -94,7 +94,7 @@ tempHp:0
 
 | CP | SP | EP | GP | PP |
 |:---:|:---:|:---:|:---:|:---:|
-| 0 | 0 | 0 | 27 | 0 |
+| 0 | 0 | 0 | 22 | 0 |
 
 ## Equipment
 
@@ -288,11 +288,9 @@ At the beginning of the Northlands Sagas adventure path, each player should draw
 | **Speak with Animals** | Divination | 1 Action | 0 ft | — | — |
 | **Find Familiar** | Conjuration | 1 Hour(s) | 10 ft | — | — |
 
-## Backstory & Notes
-
 ## Session Notes
 
 *Add your notes here.*
 
 ---
-*Imported from [D&D Beyond](https://www.dndbeyond.com/characters/170598772) — Level 3 Armulyn*
+*Imported from [D&D Beyond](https://www.dndbeyond.com/characters/170598772) — Level 3 Armulyn Tinwhistle*

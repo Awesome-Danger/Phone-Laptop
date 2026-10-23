@@ -1,12 +1,13 @@
 ---
-name: Bjorn 2014
-race: Dragonborn
-class: Druid 4 / Warlock 1
+name: "Bjorn 2014"
+race: "Dragonborn"
+class: "Druid 4 / Warlock 1"
 level: 5
-background: Criminal / Spy
-alignment: Neutral Good
+background: "Criminal / Spy"
+alignment: "Neutral Good"
 xp: 0
-hp_max: 38
+hp: 38
+modifier: 2
 hp_current: 25
 hp_temp: 0
 ac: 13
@@ -18,11 +19,7 @@ con: 14
 int: 13
 wis: 14
 cha: 13
-tags:
-  - dnd-character
-  - dragonborn
-  - druid
-  - warlock
+tags: ["dnd-character", "dragonborn", "druid", "warlock"]
 dndbeyond_id: 159606981
 ---
 
@@ -257,10 +254,6 @@ I am incredibly slow to trust. Those who seem the fairest often have the most to
 | **Speak with Animals** | Divination | 1 Action | 0 ft | — | ✓ |
 | **Hellish Rebuke** | Evocation | 1 Reaction | 60 ft | — | — |
 | **Command** | Enchantment | 1 Action | 60 ft | — | — |
-
-## Backstory & Notes
-
-**Enemies:** Wu Shang
 
 ## Session Notes
 
