@@ -3,4 +3,4 @@ tags:
   - D&D
 ---
 
-![[Hans_Graber.pdf]]
+[[Hans_Graber.pdf]]
