@@ -3,7 +3,7 @@ tags:
   - affirmadia
   - D&D
 ---
-![[screenshot_20260825_200855.jpg]]
+
 - **Race:** Dragonborn
 - **Gender:** Male
 - **Occupation:** Artisan or guild member
