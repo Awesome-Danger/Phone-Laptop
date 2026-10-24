@@ -20,6 +20,7 @@
 - Orion
 - Atlas
 - Legion
+- Sasha
 
 ## Girls
 - Harper
@@ -33,5 +34,6 @@
 - Sasha
 - Astrid
 - Beatrix
+- Beatrice
 - **Ruth**
 - 
