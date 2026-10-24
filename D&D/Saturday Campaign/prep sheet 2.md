@@ -14,6 +14,7 @@ tags:
 *[[John Help]] went out early in the morning to do his morning routine, and bumped into the town's crazy old man with a glass eye that died immediately on the spot. John noticed that his glass eye popped out, and seeing that is had magical properties, took it, and silently brought it back to room 2.*
 
 
-The old man left in the barrel is possesed by [[Corruption]] and becomes an [[Echoes of Corruption]]. His abilities are that of a wizard
+The old man left in the barrel is possessed by [[Corruption]] and becomes an [[Echoes of Corruption]]. His abilities are that of a wizard
 
-the glass eye 
+the glass eye pulses...
+
