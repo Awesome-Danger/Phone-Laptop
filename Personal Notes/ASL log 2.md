@@ -68,3 +68,10 @@ Embers – Owl City – Sign Language Music Video 4:27
 watched: 10/24/26 4:42pm
 
 I REALLY like this video. It’s very well signed, on beat, has consistency, and a really nice flow to it, as well as interesting sign choices that I think conveys the meaning really well.
+
+
+https://www.youtube.com/watch?v=0HO_Uq-J8IY
+
+Goodness of God by CeCe Winans | ASL | Turning Point Deaf Ministry
+
+I think it's interesting that this has a lot more artistic signing than a lot of other songs. I think that may be a cultural mix of Black and Deaf cultures to make it more artistically expressive.
