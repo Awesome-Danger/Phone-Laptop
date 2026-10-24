@@ -61,3 +61,27 @@ source: "MPMM"
 page: 259
 ```
 
+
+```spellcard
+name: "Burning Hands"
+source: "PHB'14"
+page: 220
+level: 1
+
+school: "evocation"
+castingTime: "1 action"
+range: "15 feet cone"
+components: "V, S"
+duration: "Instantaneous"
+entries:
+  - |-
+    As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.
+
+  - |-
+    The fire ignites any flammable objects in the area that aren't being worn or carried.
+higherLevel:
+  - |-
+    **At Higher Levels**
+    
+    When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 3d6 for each slot level above 1st.
+```
