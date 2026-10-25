@@ -16,8 +16,8 @@ missing wife - 13Gp
 - wife named Beatrice
 *orb sees aura coming from *
 
-
 lost item - 8 Sp
+- old man, lost his glass eye, but wants a different one.
 exorcism - 15Gp
 
 
