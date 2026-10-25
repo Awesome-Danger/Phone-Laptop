@@ -15,7 +15,7 @@ missing wife - 13Gp
 - "I woke up and she was gone without a trace"
 - wife named Beatrice
 *orb sees aura coming from *
-- 
+
 
 lost item - 8 Sp
 exorcism - 15Gp
