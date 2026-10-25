@@ -61,48 +61,22 @@ source: "MPMM"
 page: 259
 ```
 
-
 ```spellcard
-name: "Burning Hands"
+name: "Protection from Evil and Good"
 source: "PHB'14"
-page: 220
+page: 270
 level: 1
 
-school: "evocation"
+school: "abjuration"
 castingTime: "1 action"
-range: "15 feet cone"
-components: "V, S"
-duration: "Instantaneous"
+range: "touch"
+components: "V, S, M (holy water or powdered silver and iron, which the spell consumes)"
+duration: "Concentration, up to 10 minutes"
 entries:
   - |-
-    As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.
+    Until the spell ends, one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends, and undead.
 
   - |-
-    The fire ignites any flammable objects in the area that aren't being worn or carried.
-higherLevel:
-  - |-
-    **At Higher Levels**
-    
-    When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 3d6 for each slot level above 1st.
-```
-
-```spellcard
-name: "Dissonant Whispers"
-source: "PHB'14"
-page: 234
-level: 1
-
-school: "enchantment"
-castingTime: "1 action"
-range: "60 feet"
-components: "V"
-duration: "Instantaneous"
-entries:
-  - |-
-    You whisper a discordant melody that only one creature of your choice within range can hear, wracking it with terrible pain. The target must make a Wisdom saving throw. On a failed save, it takes 3d6 psychic damage and must immediately use its reaction, if available, to move as far as its speed allows away from you. The creature doesn't move into obviously dangerous ground, such as a fire or a pit. On a successful save, the target takes half as much damage and doesn't have to move away. A deafened creature automatically succeeds on the save.
-higherLevel:
-  - |-
-    **At Higher Levels**
-    
-    When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 3d6 for each slot level above 1st.
+    The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can't be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.
+higherLevel: []
 ```
