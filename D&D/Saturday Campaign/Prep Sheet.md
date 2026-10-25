@@ -9,6 +9,7 @@ The party leaves the Island of Stormwreck Isle by riding an unnamed?
 
 ### Job Board
 missing child - 10Gp (Draconis)
+
 missing wife - 13Gp 
 - man named Recardo
 - "I woke up and she was gone without a trace"
