@@ -8,8 +8,15 @@ The party leaves the Island of Stormwreck Isle by riding an unnamed?
 [Sharruth](https://forgottenrealms.fandom.com/wiki/Stormwreck_Isle) = BBEG?
 
 ### Job Board
-missing child - 10Gp
-missing wife - 13Gp
+missing child - 10Gp (Draconis)
+missing wife - 13Gp 
+- man named Recardo
+- "I woke up and she was gone without a trace"
+- wife named Beatrice
+*orb sees aura coming from *
+- cast protect from good and evil
+- 
+
 lost item - 8 Sp
 exorcism - 15Gp
 
