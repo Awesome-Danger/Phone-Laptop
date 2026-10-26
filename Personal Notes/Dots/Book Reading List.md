@@ -28,3 +28,5 @@ Other
 
 Religious
 - [ ] book of Enoch
+- [ ] in the shadow of the sword: the birth of Islam and the rise of the global empire
+- [ ] Dominion by Tom Holland (historian)
