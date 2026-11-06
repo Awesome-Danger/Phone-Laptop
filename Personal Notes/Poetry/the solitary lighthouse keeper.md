@@ -23,3 +23,5 @@ the lighthouse stands strong, amidst waters fast
 guarding the souls out in the waters deep;
 but one drowning and cold atop the mast
 a keeper no more, the man breathed his last
+
+https://library.harding.edu/ld.php?content_id=42854172
