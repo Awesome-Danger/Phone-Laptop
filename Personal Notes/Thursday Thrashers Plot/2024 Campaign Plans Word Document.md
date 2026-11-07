@@ -39,7 +39,7 @@ Powerful Items:
 
 ![[Nose ring of Poison]]
 
-![[Eye of Truth]]
+![[eye of truth]]
 
 ![[Bracelet of Drunken Brawling]]
  ![[Pendragon’s Gold Tooth]] 

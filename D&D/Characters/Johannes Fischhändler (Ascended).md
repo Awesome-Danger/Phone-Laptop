@@ -1,10 +1,10 @@
 ---
-name: "Johannes Fischhändler (Ascended)"
-race: "Variant Aasimar"
-class: "Paladin 3"
+name: Johannes Fischhändler (Ascended)
+race: Variant Aasimar
+class: Paladin 3
 level: 3
-background: "Sage"
-alignment: "Chaotic Good"
+background: Sage
+alignment: Chaotic Good
 xp: 0
 hp: 34
 modifier: 0
@@ -19,8 +19,15 @@ con: 19
 int: 16
 wis: 16
 cha: 15
-tags: ["dnd-character", "variant-aasimar", "paladin"]
+tags:
+  - dnd-character
+  - variant-aasimar
+  - paladin
 dndbeyond_id: 151832183
+aliases:
+  - Johann
+  - Saint Hobo
+  - St. Hobo
 ---
 
 # Johannes Fischhändler (Ascended)
