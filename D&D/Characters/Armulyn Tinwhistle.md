@@ -25,6 +25,9 @@ tags:
   - bard
   - D&D
 dndbeyond_id: 170598772
+aliases:
+  - Steven
+  - Armulyn
 ---
 
 # Armulyn Tinwhistle

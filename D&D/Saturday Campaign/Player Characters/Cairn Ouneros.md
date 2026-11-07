@@ -1,6 +1,9 @@
 ---
 tags:
   - D&D
+aliases:
+  - Cairn
+  - Anthony
 ---
 Race: High Elf
 

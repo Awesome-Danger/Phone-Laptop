@@ -28,6 +28,7 @@ aliases:
   - Johann
   - Saint Hobo
   - St. Hobo
+  - seth
 ---
 
 # Johannes Fischhändler (Ascended)

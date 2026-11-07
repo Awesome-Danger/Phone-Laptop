@@ -1,6 +1,9 @@
 ---
 tags:
   - D&D
+aliases:
+  - Judson
+  - Hans
 ---
 ![[Hans_Graber.pdf]]
 
