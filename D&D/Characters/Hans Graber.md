@@ -6,3 +6,5 @@ tags:
 
 ![[Pendragon’s Gold Tooth]]
 
+![[eye of truth]]
+
